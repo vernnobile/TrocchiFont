@@ -1,0 +1,34 @@
+
+# GSUB 
+
+
+lookup ligaStandardLigaturesinLatinloo {
+  lookupflag 0;
+    sub \t \t  by \tt;
+} ligaStandardLigaturesinLatinloo;
+
+feature liga {
+
+  script DFLT;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinloo;
+
+  script latn;
+     language dflt ;
+      lookup ligaStandardLigaturesinLatinloo;
+} liga;
+#Mark attachment classes (defined in GDEF, used in lookupflags)
+
+@GDEF_Simple = [\G \E \D \a \s \n \t \e \u \l \i \_19 \_20 \_21 \_23 \_25 \_26 \_27 \_28 \_29 
+	\_30 \_31 \_32 \_33 \_34 \_35 \_36 \_37 \_38 \_39 \_40 \_41 \_42 \_44 \_45 \_46 \_47 \_48 
+	\_49 \_50 \S \r \m \o \C \ydieresis \d \M \B \c \h \c.alt \_58 \_64 \H \I \J \K \L \N \O \P \Q \R 
+	\T \U \V \X \Y \Z \cedilla \W \ampersand \AE \OE \j \k \f \g \b \ccedilla \space \p \q \_11 ];
+@GDEF_Ligature = [\tt ];
+@GDEF_Mark = [];
+@GDEF_Component = [];
+
+table GDEF {
+  GlyphClassDef @GDEF_Simple @GDEF_Ligature @GDEF_Mark @GDEF_Component;
+
+} GDEF;
+
