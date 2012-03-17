@@ -14,8 +14,8 @@
       <point x="385" y="-13" type="curve" smooth="yes"/>
       <point x="556" y="-13"/>
       <point x="661" y="75"/>
-      <point x="695" y="223" type="curve" smooth="no"/>
-      <point x="630" y="255" type="line" smooth="no"/>
+      <point x="695" y="223" type="curve"/>
+      <point x="630" y="255" type="line"/>
       <point x="609" y="173"/>
       <point x="536" y="77"/>
       <point x="416" y="77" type="curve" smooth="yes"/>
@@ -28,7 +28,7 @@
       <point x="395" y="667" type="curve" smooth="yes"/>
       <point x="483" y="667"/>
       <point x="545.029" y="622.92"/>
-      <point x="574" y="580" type="curve" smooth="no"/>
+      <point x="574" y="580" type="curve"/>
       <point x="543" y="580"/>
       <point x="487" y="558"/>
       <point x="487" y="502" type="curve" smooth="yes"/>
@@ -42,146 +42,11 @@
       <point x="666.021" y="643.896"/>
       <point x="529.137" y="737.008"/>
     </contour>
+    <contour>
+      <point x="366" y="722" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="366" y="0" type="move" name="bottom"/>
+    </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>C</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>731</integer>
-    <key>contours</key>
-      <array>
-      <key>points</key>
-      <array>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      </array>
-      <key>points</key>
-      <array>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <true/>
-    <key>y</key>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>y</key>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-      <key>segmentType</key>
-      <string>curve</string>
-    <key>x</key>
-    <key>smooth</key>
-      <false/>
-    <key>y</key>
-      </array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>

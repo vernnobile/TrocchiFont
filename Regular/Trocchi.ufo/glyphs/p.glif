@@ -10,21 +10,21 @@
       <point x="605" y="263" type="curve" smooth="yes"/>
       <point x="605" y="103"/>
       <point x="518" y="-13"/>
-      <point x="380" y="-13" type="curve" smooth="no"/>
+      <point x="380" y="-13" type="curve"/>
       <point x="322" y="-9"/>
       <point x="268" y="16"/>
-      <point x="235" y="65" type="curve" smooth="no"/>
-      <point x="235" y="-136" type="line" smooth="no"/>
-      <point x="343" y="-136" type="line" smooth="no"/>
-      <point x="343" y="-196" type="line" smooth="no"/>
-      <point x="15" y="-196" type="line" smooth="no"/>
-      <point x="15" y="-137" type="line" smooth="no"/>
-      <point x="130" y="-137" type="line" smooth="no"/>
-      <point x="130" y="-137" type="line" smooth="no"/>
-      <point x="130" y="465" type="line" smooth="no"/>
-      <point x="22" y="465" type="line" smooth="no"/>
-      <point x="22" y="524" type="line" smooth="no"/>
-      <point x="235" y="524" type="line" smooth="no"/>
+      <point x="235" y="65" type="curve"/>
+      <point x="235" y="-136" type="line"/>
+      <point x="343" y="-136" type="line"/>
+      <point x="343" y="-196" type="line"/>
+      <point x="15" y="-196" type="line"/>
+      <point x="15" y="-137" type="line"/>
+      <point x="130" y="-137" type="line"/>
+      <point x="130" y="-137" type="line"/>
+      <point x="130" y="465" type="line"/>
+      <point x="22" y="465" type="line"/>
+      <point x="22" y="524" type="line"/>
+      <point x="235" y="524" type="line"/>
       <point x="235" y="465" type="line" smooth="yes"/>
       <point x="273" y="517"/>
       <point x="332" y="538"/>
@@ -44,27 +44,4 @@
       <point x="274" y="42"/>
     </contour>
   </outline>
-  <lib>
-    <dict>
-    <key>com.typemytype.robofont.layerData</key>
-    <key>back</key>
-    <key>name</key>
-      <string>p</string>
-    <key>lib</key>
-    <key>unicodes</key>
-      <array>
-      </array>
-    <key>width</key>
-      <integer>615</integer>
-    <key>contours</key>
-      <array>
-      </array>
-    <key>components</key>
-      <array>
-      </array>
-    <key>anchors</key>
-      <array>
-      </array>
-    </dict>
-  </lib>
 </glyph>
