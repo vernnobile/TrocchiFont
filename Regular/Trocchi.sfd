@@ -1,0 +1,16098 @@
+SplineFontDB: 3.0
+FontName: Trocchi
+FullName: Trocchi
+FamilyName: Trocchi
+Weight: Normal
+Version: 1.0
+FONDName: Trocchi
+ItalicAngle: 0
+UnderlinePosition: -50
+UnderlineWidth: 50
+Ascent: 750
+Descent: 250
+UFOAscent: 750
+UFODescent: -250
+LayerCount: 2
+Layer: 0 0 "Back"  1
+Layer: 1 0 "Fore"  0
+NeedsXUIDChange: 1
+FSType: 0
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 0
+CreationTime: 1331984850
+ModificationTime: 1331986179
+PfmFamily: 0
+TTFWeight: 400
+TTFWidth: 5
+LineGap: 0
+VLineGap: 0
+Panose: 0 0 0 0 0 0 0 0 0 0
+OS2TypoAscent: 750
+OS2TypoAOffset: 0
+OS2TypoDescent: 250
+OS2TypoDOffset: 0
+OS2TypoLinegap: 0
+OS2WinAscent: 1000
+OS2WinAOffset: 0
+OS2WinDescent: -392
+OS2WinDOffset: 0
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2SubXSize: 650
+OS2SubYSize: 600
+OS2SubXOff: 0
+OS2SubYOff: 75
+OS2SupXSize: 650
+OS2SupYSize: 600
+OS2SupXOff: 0
+OS2SupYOff: 350
+OS2StrikeYSize: 50
+OS2StrikeYPos: 314
+OS2Vendor: 'newt'
+OS2CodePages: 00000001.00000000
+OS2UnicodeRanges: 00000001.00000000.00000000.00000000
+DEI: 91125
+LangName: 1033 "" "" "" "" "" "Version 1.0" "" "Please refer to the Copyright section for the font trademark attribution notices." "" "vernon adams" "" "" "newtypography.co.uk" 
+PickledData: "(dp1
+S'com.typemytype.robofont.compileSettings.autohint'
+p2
+I0
+sS'com.typemytype.robofont.compileSettings.decompose'
+p3
+I0
+sS'com.typemytype.robofont.foreground.layerStrokeColor'
+p4
+(F0.5
+F0
+F0.5
+F0.69999999999999996
+tp5
+sS'com.typemytype.robofont.compileSettings.releaseMode'
+p6
+I00
+sS'com.typemytype.robofont.shouldAddPointsInSplineConversion'
+p7
+I00
+sS'com.typemytype.robofont.compileSettings.checkOutlines'
+p8
+I0
+sS'com.typemytype.robofont.back.layerStrokeColor'
+p9
+(F0.5
+F1
+F0
+F0.69999999999999996
+tp10
+sS'com.typemytype.robofont.layerOrder'
+p11
+(S'back'
+tp12
+sS'com.typemytype.robofont.compileSettings.generateFormat'
+p13
+I1
+sS'com.typemytype.robofont.italicSlantOffset'
+p14
+I0
+sS'com.typemytype.robofont.segmentType'
+p15
+S'curve'
+p16
+sS'com.typemytype.robofont.sort'
+p17
+((dp18
+S'type'
+p19
+S'glyphList'
+p20
+sS'ascending'
+p21
+(S'B'
+S'C'
+S'D'
+S'E'
+S'G'
+S'H'
+S'I'
+S'J'
+S'K'
+S'L'
+S'M'
+S'N'
+S'O'
+S'P'
+S'Q'
+S'R'
+S'S'
+S'T'
+S'U'
+S'V'
+S'W'
+S'X'
+S'Y'
+S'Z'
+S'AE'
+S'OE'
+S'a'
+S'b'
+S'c'
+S'ccedilla'
+S'd'
+S'e'
+S'f'
+S'g'
+S'h'
+S'i'
+S'j'
+S'k'
+S'l'
+S'm'
+S'n'
+S'o'
+S'p'
+S'q'
+S'r'
+S's'
+S't'
+S'u'
+S'ydieresis'
+S'ampersand'
+S'cedilla'
+S'space'
+S'.notdef'
+S'_19'
+S'_20'
+S'_21'
+S'_23'
+S'_25'
+S'_26'
+S'_27'
+S'_64'
+S'tt'
+S'plusminus'
+S'aring'
+S'less'
+S'ograve'
+S'dollar'
+S'four'
+S'Ntilde'
+S'comma'
+S'Yacute'
+S'tilde'
+S'divide'
+S'edieresis'
+S'copyright'
+S'yen'
+S'onequarter'
+S'ucircumflex'
+S'hyphen'
+S'oslash'
+S'guillemotright'
+S'ecircumflex'
+S'five'
+S'underscore'
+S'Idieresis'
+S'Udieresis'
+S'acute'
+S'bar'
+S'Igrave'
+S'x'
+S'exclamdown'
+S'parenright'
+S'A'
+S'ordfeminine'
+S'Atilde'
+S'Otilde'
+S'Ocircumflex'
+S'zero'
+S'logicalnot'
+S'agrave'
+S'adieresis'
+S'dotlessi'
+S'braceleft'
+S'egrave'
+S'Adieresis'
+S'odieresis'
+S'Odieresis'
+S'section'
+S'macron'
+S'Icircumflex'
+S'ntilde'
+S'twosuperior'
+S'slash'
+S'atilde'
+S'Acircumflex'
+S'numbersign'
+S'dotaccent'
+S'Oslash'
+S'degree'
+S's.alt'
+S'Eacute'
+S'acircumflex'
+S'exclam'
+S'Ccedilla'
+S'equal'
+S'Edieresis'
+S'plus'
+S'w'
+S'eth'
+S'threesuperior'
+S'udieresis'
+S'Egrave'
+S'g.alt'
+S'ocircumflex'
+S'period'
+S'igrave'
+S'one'
+S'caron'
+S'asciitilde'
+S'colon'
+S'ring'
+S'hungarumlaut'
+S'parenleft'
+S'Ecircumflex'
+S'question'
+S'Aacute'
+S'cent'
+S'quoteleft'
+S'otilde'
+S'iacute'
+S'F'
+S'registered'
+S'Aring'
+S'dieresis'
+S'bracketleft'
+S'breve'
+S'asciicircum'
+S'Oacute'
+S'guillemotleft'
+S'ordmasculine'
+S'mu'
+S'paragraph'
+S'nine'
+S'three'
+S'circumflex'
+S'v'
+S'z'
+S'idieresis'
+S'minus'
+S'braceright'
+S'seven'
+S'ae'
+S'semicolon'
+S'brokenbar'
+S'backslash'
+S'currency'
+S'ugrave'
+S'Ucircumflex'
+S'at'
+S'Iacute'
+S'greater'
+S'periodcentered'
+S'Uacute'
+S'six'
+S'percent'
+S'Ugrave'
+S'threequarters'
+S'yacute'
+S'uacute'
+S'quoteright'
+S'bracketright'
+S'sterling'
+S'quotedbl'
+S'Agrave'
+S'onehalf'
+S'Thorn'
+S'asterisk'
+S'aacute'
+S'icircumflex'
+S'eight'
+S'two'
+S'multiply'
+S'eacute'
+S'Eth'
+S'grave'
+S'germandbls'
+S'onesuperior'
+S'thorn'
+S'ogonek'
+S'Ograve'
+S'y'
+S'questiondown'
+S'oacute'
+tp22
+stp23
+sS'public.glyphOrder'
+p24
+(S'B'
+S'C'
+S'D'
+S'E'
+S'G'
+S'H'
+S'I'
+S'J'
+S'K'
+S'L'
+S'M'
+S'N'
+S'O'
+S'P'
+S'Q'
+S'R'
+S'S'
+S'T'
+S'U'
+S'V'
+S'W'
+S'X'
+S'Y'
+S'Z'
+S'AE'
+S'OE'
+S'a'
+S'b'
+S'c'
+S'ccedilla'
+S'd'
+S'e'
+S'f'
+S'g'
+S'h'
+S'i'
+S'j'
+S'k'
+S'l'
+S'm'
+S'n'
+S'o'
+S'p'
+S'q'
+S'r'
+S's'
+S't'
+S'u'
+S'ydieresis'
+S'ampersand'
+S'cedilla'
+S'space'
+S'.notdef'
+S'tt'
+S'plusminus'
+S'aring'
+S'less'
+S'ograve'
+S'dollar'
+S'four'
+S'Ntilde'
+S'comma'
+S'Yacute'
+S'tilde'
+S'divide'
+S'edieresis'
+S'copyright'
+S'yen'
+S'onequarter'
+S'ucircumflex'
+S'hyphen'
+S'oslash'
+S'guillemotright'
+S'ecircumflex'
+S'five'
+S'underscore'
+S'Idieresis'
+S'Udieresis'
+S'acute'
+S'bar'
+S'Igrave'
+S'x'
+S'exclamdown'
+S'parenright'
+S'A'
+S'ordfeminine'
+S'Atilde'
+S'Otilde'
+S'Ocircumflex'
+S'zero'
+S'logicalnot'
+S'agrave'
+S'adieresis'
+S'dotlessi'
+S'braceleft'
+S'egrave'
+S'Adieresis'
+S'odieresis'
+S'Odieresis'
+S'section'
+S'macron'
+S'Icircumflex'
+S'ntilde'
+S'twosuperior'
+S'slash'
+S'atilde'
+S'Acircumflex'
+S'numbersign'
+S'dotaccent'
+S'Oslash'
+S'degree'
+S's.alt'
+S'Eacute'
+S'acircumflex'
+S'exclam'
+S'Ccedilla'
+S'equal'
+S'Edieresis'
+S'plus'
+S'w'
+S'eth'
+S'threesuperior'
+S'udieresis'
+S'Egrave'
+S'g.alt'
+S'ocircumflex'
+S'period'
+S'igrave'
+S'one'
+S'caron'
+S'asciitilde'
+S'colon'
+S'ring'
+S'hungarumlaut'
+S'parenleft'
+S'Ecircumflex'
+S'question'
+S'Aacute'
+S'cent'
+S'quoteleft'
+S'otilde'
+S'iacute'
+S'F'
+S'registered'
+S'Aring'
+S'dieresis'
+S'bracketleft'
+S'breve'
+S'asciicircum'
+S'Oacute'
+S'guillemotleft'
+S'ordmasculine'
+S'mu'
+S'paragraph'
+S'nine'
+S'three'
+S'circumflex'
+S'v'
+S'z'
+S'idieresis'
+S'minus'
+S'braceright'
+S'seven'
+S'ae'
+S'semicolon'
+S'brokenbar'
+S'backslash'
+S'currency'
+S'ugrave'
+S'Ucircumflex'
+S'at'
+S'Iacute'
+S'greater'
+S'periodcentered'
+S'Uacute'
+S'six'
+S'percent'
+S'Ugrave'
+S'threequarters'
+S'yacute'
+S'uacute'
+S'quoteright'
+S'bracketright'
+S'sterling'
+S'quotedbl'
+S'Agrave'
+S'onehalf'
+S'Thorn'
+S'asterisk'
+S'aacute'
+S'icircumflex'
+S'eight'
+S'two'
+S'multiply'
+S'eacute'
+S'Eth'
+S'grave'
+S'germandbls'
+S'onesuperior'
+S'thorn'
+S'ogonek'
+S'Ograve'
+S'y'
+S'questiondown'
+S'oacute'
+tp25
+s."
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: Adobe Glyph List
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 1
+WinInfo: 63 21 4
+Grid
+-1000 -135 m 0
+ 2000 -135 l 0
+EndSplineSet
+BeginChars: 65538 62
+
+StartChar: .notdef
+Encoding: 65536 -1 0
+Width: 30
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'.notdef'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I30
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+EndChar
+
+StartChar: A
+Encoding: 65 65 1
+Width: 810
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'A'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I810
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F275
+sS'smooth'
+p17
+I00
+sS'y'
+F67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F275
+sg17
+I00
+sS'y'
+F652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+551 308 m 1
+ 257 308 l 1
+ 257 246 l 1
+ 551 246 l 1
+ 551 308 l 1
+329 0 m 1
+ 329 67 l 1
+ 206 67 l 1
+ 387 626 l 1
+ 580 67 l 1
+ 471 67 l 1
+ 471 0 l 1
+ 807 0 l 1
+ 807 67 l 1
+ 705 67 l 1
+ 464 722 l 1
+ 343 722 l 1
+ 111 67 l 1
+ 3 67 l 1
+ 3 0 l 1
+ 329 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: AE
+Encoding: 198 198 2
+Width: 1190
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'AE'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I1190
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+325.072 323 m 0
+ 325.072 251 440.072 292 440.072 202 c 1
+ 30.0723 202 l 2
+ 13.0723 202 15.0723 229 15.0723 236 c 0
+ 15.0723 247 12.7573 266.901 30.0723 269 c 0
+ 111.757 278.901 187.072 305 232.072 377 c 2
+ 474.072 768 l 1
+ 474.072 768 475.072 781 475.072 786 c 0
+ 475.072 792 476.072 828 461.072 828 c 2
+ 312.072 828 l 2
+ 294.427 828 294.072 898.844 294.072 918 c 1
+ 572.072 918 914.072 910 1174.07 902 c 1
+ 1174.07 899 1175.07 885 1175.07 882 c 0
+ 1175.07 877 1174.07 863 1174.07 862 c 0
+ 1173.05 825.042 1174.5 605 1141.07 605 c 0
+ 1107.07 605 1095.07 773 1013.07 808 c 0
+ 944.072 837 845.072 816 784.072 816 c 1
+ 784.072 597 l 1
+ 956.072 597 911.072 718 986.072 718 c 1
+ 986.072 377 l 1
+ 945.072 377 l 1
+ 934.072 459 889.072 513 806.072 513 c 0
+ 756.072 513 769.072 439 769.072 404 c 0
+ 769.072 290 792.072 268 905.072 268 c 0
+ 1054.07 268 1098.07 342 1134.07 485 c 1
+ 1174.07 485 l 1
+ 1174.07 202 l 1
+ 1161.07 189 l 1
+ 1158.07 188 1076.07 187 1045.07 187 c 0
+ 842.072 187 692.072 191 474.072 202 c 1
+ 474.072 256 l 1
+ 622.072 286 l 1
+ 622.072 512 l 1
+ 434.072 498 l 1
+ 408.169 498 338.776 361.252 326.072 337 c 0
+ 326.072 335 325.072 325 325.072 323 c 0
+488.072 606 m 2
+ 488.072 593 l 1
+ 622.072 593 l 1
+ 622.072 808 l 1
+ 581.558 783.692 488.072 608.363 488.072 606 c 2
+EndSplineSet
+EndChar
+
+StartChar: B
+Encoding: 66 66 3
+Width: 732
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'B'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I732
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F275
+sS'smooth'
+p17
+I00
+sS'y'
+F67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F275
+sg17
+I00
+sS'y'
+F652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+40 0 m 1
+ 40 67 l 1
+ 160 67 l 1
+ 160 652 l 1
+ 40 652 l 1
+ 40 722 l 1
+ 347 722 l 2
+ 466 722 656 695 656 540 c 0
+ 656 534 655 529 655 523 c 0
+ 649 450 608 408 527 385 c 1
+ 630 358 695 305 695 201 c 0
+ 695 10 478 0 349 0 c 2
+ 40 0 l 1
+275 67 m 1
+ 458 67 580 73 580 205 c 0
+ 580 309 480 346 381 346 c 0
+ 355 346 301 346 275 346 c 1
+ 275 67 l 1
+275 411 m 1
+ 381 411 l 2
+ 460 411 550 438 550 524 c 0
+ 550 646 436 652 275 652 c 1
+ 275 411 l 1
+EndSplineSet
+EndChar
+
+StartChar: C
+Encoding: 67 67 4
+Width: 731
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'C'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I731
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F-13
+sS'x'
+F154
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F174
+sS'x'
+F38
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F38
+sg15
+I01
+sS'y'
+F362
+s(dp20
+S'y'
+F549
+sS'x'
+F38
+sg15
+I00
+s(dp21
+S'y'
+F737
+sS'x'
+F154
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F388
+sg15
+I01
+sS'y'
+F737
+s(dp24
+S'y'
+F737
+sS'x'
+F621
+sg15
+I00
+s(dp25
+S'y'
+F549
+sS'x'
+F738
+sg15
+I00
+s(dp26
+g18
+S'curve'
+p27
+sS'x'
+F738
+sg15
+I01
+sS'y'
+F362
+s(dp28
+S'y'
+F174
+sS'x'
+F738
+sg15
+I00
+s(dp29
+S'y'
+F-13
+sS'x'
+F621
+sg15
+I00
+s(dp30
+g18
+S'curve'
+p31
+sS'x'
+F388
+sg15
+I01
+sS'y'
+F-13
+stp32
+s(dp33
+g13
+((dp34
+S'y'
+F673
+sS'x'
+F244
+sg15
+I00
+s(dp35
+S'y'
+F520
+sS'x'
+F166
+sg15
+I00
+s(dp36
+g18
+S'curve'
+p37
+sS'x'
+F166
+sg15
+I01
+sS'y'
+F363
+s(dp38
+S'y'
+F205
+sS'x'
+F166
+sg15
+I00
+s(dp39
+S'y'
+F52
+sS'x'
+F244
+sg15
+I00
+s(dp40
+g18
+S'curve'
+p41
+sS'x'
+F388
+sg15
+I01
+sS'y'
+F52
+s(dp42
+S'y'
+F52
+sS'x'
+F532
+sg15
+I00
+s(dp43
+S'y'
+F204
+sS'x'
+F610
+sg15
+I00
+s(dp44
+g18
+S'curve'
+p45
+sS'x'
+F610
+sg15
+I01
+sS'y'
+F361
+s(dp46
+S'y'
+F517
+sS'x'
+F610
+sg15
+I00
+s(dp47
+S'y'
+F670
+sS'x'
+F532
+sg15
+I00
+s(dp48
+g18
+S'curve'
+p49
+sS'x'
+F388
+sg15
+I00
+sS'y'
+F673
+stp50
+stp51
+sS'components'
+p52
+(tsS'anchors'
+p53
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+396.141724591 737.007986869 m 0
+ 180.641469212 737.007986869 41.0397946673 585.838686272 38 369 c 0
+ 38 367 38 365 38 363 c 0
+ 38 157 182 -13 385 -13 c 0
+ 556 -13 661 75 695 223 c 1
+ 630 255 l 1
+ 609 173 536 77 416 77 c 0
+ 412 77 409 77 405 77 c 0
+ 255 84 167 228 167 367 c 0
+ 167 557 265 667 395 667 c 0
+ 483 667 545.029300369 622.919555009 574 580 c 1
+ 543 580 487 558 487 502 c 0
+ 487 500 487 497 487 495 c 0
+ 490 449 524 421 570 421 c 0
+ 632.098895252 421 666.021446096 469.579904151 666.021446096 510.23534916 c 0
+ 666.021446096 643.895756917 529.137289403 737.007986869 396.141724591 737.007986869 c 0
+EndSplineSet
+EndChar
+
+StartChar: Ccedilla
+Encoding: 199 199 5
+Width: 755
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'Ccedilla'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I755
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+Refer: 4 67 N 1 0 0 1 0 0 2
+Refer: 36 184 N 1 0 0 1 292 0 2
+EndChar
+
+StartChar: D
+Encoding: 68 68 6
+Width: 830
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'D'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I830
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F275
+sS'smooth'
+p17
+I00
+sS'y'
+F67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F275
+sg17
+I00
+sS'y'
+F652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+41 652 m 1
+ 160 652 l 1
+ 160 67 l 1
+ 41 67 l 1
+ 41 0 l 1
+ 280 0 l 2
+ 556 0 757 96 760 357 c 0
+ 760 359 760 360 760 362 c 0
+ 760 648 511 722 262 722 c 2
+ 41 722 l 1
+ 41 652 l 1
+275 67 m 1
+ 275 651 l 1
+ 456 651 635 610 635 362 c 0
+ 635 361 635 359 635 358 c 0
+ 633 122 469 67 275 67 c 1
+EndSplineSet
+EndChar
+
+StartChar: E
+Encoding: 69 69 7
+Width: 779
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'E'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I779
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F275
+sS'smooth'
+p17
+I00
+sS'y'
+F67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F275
+sg17
+I00
+sS'y'
+F652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+40 0 m 1
+ 40 67 l 1
+ 160 67 l 1
+ 160 652 l 1
+ 40 652 l 1
+ 40 722 l 1
+ 704 722 l 1
+ 704 439 l 1
+ 616 439 l 1
+ 616 652 l 1
+ 275 652 l 1
+ 275 397 l 1
+ 457 397 l 1
+ 457 507 l 1
+ 522 507 l 1
+ 522 207 l 1
+ 457 207 l 1
+ 457 341 l 1
+ 275 341 l 1
+ 275 67 l 1
+ 616 67 l 1
+ 616 279 l 1
+ 704 279 l 1
+ 704 0 l 1
+ 40 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: F
+Encoding: 70 70 8
+Width: 771
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'F'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+F771
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+25 0 m 1
+ 25 87 l 1
+ 144 87 l 1
+ 144 632 l 1
+ 25 632 l 1
+ 25 722 l 1
+ 756 722 l 1
+ 756 439 l 1
+ 636 439 l 1
+ 636 632 l 1
+ 289 632 l 1
+ 289 412 l 1
+ 447 412 l 1
+ 447 515 l 1
+ 532 515 l 1
+ 532 212 l 1
+ 447 212 l 1
+ 447 336 l 1
+ 289 336 l 1
+ 289 87 l 1
+ 416 87 l 1
+ 416 0 l 1
+ 25 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: G
+Encoding: 71 71 9
+Width: 851
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'G'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I851
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F173
+sS'x'
+F609
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F74
+sS'x'
+F538
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F418
+sg15
+I01
+sS'y'
+F74
+s(dp20
+S'y'
+F74
+sS'x'
+F414
+sg15
+I00
+s(dp21
+S'y'
+F74
+sS'x'
+F411
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F407
+sg15
+I01
+sS'y'
+F74
+s(dp24
+S'y'
+F81
+sS'x'
+F257
+sg15
+I00
+s(dp25
+S'y'
+F228
+sS'x'
+F167
+sg15
+I00
+s(dp26
+g18
+S'curve'
+p27
+sS'x'
+F167
+sg15
+I01
+sS'y'
+F367
+s(dp28
+S'y'
+F557
+sS'x'
+F167
+sg15
+I00
+s(dp29
+S'y'
+I673
+sS'x'
+I295
+sg15
+I00
+s(dp30
+g18
+S'curve'
+p31
+sS'x'
+I425
+sg15
+I01
+sS'y'
+I673
+s(dp32
+S'y'
+I673
+sS'x'
+I513
+sg15
+I00
+s(dp33
+S'y'
+I633
+sS'x'
+I590
+sg15
+I00
+s(dp34
+g18
+S'curve'
+p35
+sS'x'
+I619
+sg15
+I00
+sS'y'
+I590
+s(dp36
+S'y'
+I590
+sS'x'
+I588
+sg15
+I00
+s(dp37
+S'y'
+I568
+sS'x'
+I532
+sg15
+I00
+s(dp38
+g18
+S'curve'
+p39
+sS'x'
+I532
+sg15
+I01
+sS'y'
+I512
+s(dp40
+S'y'
+I510
+sS'x'
+I532
+sg15
+I00
+s(dp41
+S'y'
+I507
+sS'x'
+I532
+sg15
+I00
+s(dp42
+g18
+S'curve'
+p43
+sS'x'
+I532
+sg15
+I01
+sS'y'
+I505
+s(dp44
+S'y'
+I459
+sS'x'
+I535
+sg15
+I00
+s(dp45
+S'y'
+I431
+sS'x'
+I569
+sg15
+I00
+s(dp46
+g18
+S'curve'
+p47
+sS'x'
+I615
+sg15
+I01
+sS'y'
+I431
+s(dp48
+S'y'
+I431
+sS'x'
+I678
+sg15
+I00
+s(dp49
+S'y'
+I481
+sS'x'
+I712
+sg15
+I00
+s(dp50
+g18
+S'curve'
+p51
+sS'x'
+I711
+sg15
+I01
+sS'y'
+I522
+s(dp52
+S'y'
+I655
+sS'x'
+I709
+sg15
+I00
+s(dp53
+S'y'
+I738
+sS'x'
+I558
+sg15
+I00
+s(dp54
+g18
+S'curve'
+p55
+sS'x'
+I424
+sg15
+I01
+sS'y'
+I737
+s(dp56
+S'y'
+I735
+sS'x'
+I210
+sg15
+I00
+s(dp57
+S'y'
+F586.042654028436
+sS'x'
+F41.042654028436019
+sg15
+I00
+s(dp58
+g18
+S'curve'
+p59
+sS'x'
+F38
+sg15
+I01
+sS'y'
+F369
+s(dp60
+S'y'
+F367
+sS'x'
+F38
+sg15
+I00
+s(dp61
+S'y'
+F365
+sS'x'
+F38
+sg15
+I00
+s(dp62
+g18
+S'curve'
+p63
+sS'x'
+F38
+sg15
+I01
+sS'y'
+F363
+s(dp64
+S'y'
+F157
+sS'x'
+F38
+sg15
+I00
+s(dp65
+S'y'
+F-13
+sS'x'
+F182
+sg15
+I00
+s(dp66
+g18
+S'curve'
+p67
+sS'x'
+F385
+sg15
+I01
+sS'y'
+F-13
+s(dp68
+S'y'
+F-13
+sS'x'
+F556
+sg15
+I00
+s(dp69
+S'y'
+F75
+sS'x'
+F661
+sg15
+I00
+s(dp70
+g18
+S'curve'
+p71
+sS'x'
+F695
+sg15
+I00
+sS'y'
+F223
+s(dp72
+S'y'
+F223
+sS'x'
+F695
+sg15
+I00
+s(dp73
+S'y'
+F255
+sS'x'
+F630
+sg15
+I00
+s(dp74
+g18
+S'curve'
+p75
+sS'x'
+F630
+sg15
+I00
+sS'y'
+F255
+stp76
+stp77
+sS'components'
+p78
+(tsS'anchors'
+p79
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+613 103 m 1
+ 637 0 l 1
+ 696 0 l 1
+ 696 278 l 1
+ 790 278 l 1
+ 790 352 l 1
+ 458 352 l 1
+ 458 278 l 1
+ 596 278 l 1
+ 596 218 l 2
+ 596 160 518 74 413 74 c 0
+ 267 74 164 211 166 368 c 0
+ 168 537 258 673 419 673 c 0
+ 472 673 560 649 603 591 c 1
+ 572 591 516 565 516 509 c 0
+ 516 507 516 504 516 502 c 0
+ 519 456 553 431 599 431 c 0
+ 662 431 695 481 695 522 c 0
+ 694 660 539 737 410 737 c 0
+ 409 737 408 737 407 737 c 0
+ 172 735 38 560 38 363 c 0
+ 38 178 150 -10 382 -13 c 1
+ 463 -12 567 12 613 103 c 1
+EndSplineSet
+EndChar
+
+StartChar: H
+Encoding: 72 72 10
+Width: 844
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'H'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I844
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I59
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I59
+sg17
+I00
+sS'y'
+I47
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I111
+sg17
+I01
+sS'y'
+I47
+s(dp22
+S'y'
+I47
+sS'x'
+I152
+sg17
+I00
+s(dp23
+S'y'
+I58
+sS'x'
+I164
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+I164
+sg17
+I01
+sS'y'
+I95
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+I164
+sg17
+I01
+sS'y'
+I625
+s(dp28
+S'y'
+I661
+sS'x'
+I164
+sg17
+I00
+s(dp29
+S'y'
+I672
+sS'x'
+I152
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I111
+sg17
+I01
+sS'y'
+I672
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I59
+sg17
+I00
+sS'y'
+I672
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I59
+sg17
+I00
+sS'y'
+I719
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I719
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I672
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I324
+sg17
+I01
+sS'y'
+I672
+s(dp42
+S'y'
+I672
+sS'x'
+I283
+sg17
+I00
+s(dp43
+S'y'
+I662
+sS'x'
+I272
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+I272
+sg17
+I01
+sS'y'
+I625
+s(dp46
+g15
+S'line'
+p47
+sS'x'
+I272
+sg17
+I00
+sS'y'
+I402
+s(dp48
+g15
+S'line'
+p49
+sS'x'
+I609
+sg17
+I00
+sS'y'
+I402
+s(dp50
+g15
+S'line'
+p51
+sS'x'
+I609
+sg17
+I01
+sS'y'
+I625
+s(dp52
+S'y'
+I661
+sS'x'
+I609
+sg17
+I00
+s(dp53
+S'y'
+I672
+sS'x'
+I597
+sg17
+I00
+s(dp54
+g15
+S'curve'
+p55
+sS'x'
+I556
+sg17
+I01
+sS'y'
+I672
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I503
+sg17
+I00
+sS'y'
+I672
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I503
+sg17
+I00
+sS'y'
+I719
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I822
+sg17
+I00
+sS'y'
+I719
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I822
+sg17
+I00
+sS'y'
+I672
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I769
+sg17
+I01
+sS'y'
+I672
+s(dp66
+S'y'
+I672
+sS'x'
+I728
+sg17
+I00
+s(dp67
+S'y'
+I661
+sS'x'
+I716
+sg17
+I00
+s(dp68
+g15
+S'curve'
+p69
+sS'x'
+I716
+sg17
+I01
+sS'y'
+I625
+s(dp70
+g15
+S'line'
+p71
+sS'x'
+I716
+sg17
+I01
+sS'y'
+I95
+s(dp72
+S'y'
+I58
+sS'x'
+I716
+sg17
+I00
+s(dp73
+S'y'
+I47
+sS'x'
+I728
+sg17
+I00
+s(dp74
+g15
+S'curve'
+p75
+sS'x'
+I769
+sg17
+I01
+sS'y'
+I47
+s(dp76
+g15
+S'line'
+p77
+sS'x'
+I822
+sg17
+I00
+sS'y'
+I47
+s(dp78
+g15
+S'line'
+p79
+sS'x'
+I822
+sg17
+I00
+sS'y'
+I0
+s(dp80
+g15
+S'line'
+p81
+sS'x'
+I503
+sg17
+I00
+sS'y'
+I0
+s(dp82
+g15
+S'line'
+p83
+sS'x'
+I503
+sg17
+I00
+sS'y'
+I47
+s(dp84
+g15
+S'line'
+p85
+sS'x'
+I556
+sg17
+I01
+sS'y'
+I47
+s(dp86
+S'y'
+I47
+sS'x'
+I597
+sg17
+I00
+s(dp87
+S'y'
+I58
+sS'x'
+I609
+sg17
+I00
+s(dp88
+g15
+S'curve'
+p89
+sS'x'
+I609
+sg17
+I01
+sS'y'
+I95
+s(dp90
+g15
+S'line'
+p91
+sS'x'
+I609
+sg17
+I00
+sS'y'
+I352
+s(dp92
+g15
+S'line'
+p93
+sS'x'
+I272
+sg17
+I00
+sS'y'
+I352
+s(dp94
+g15
+S'line'
+p95
+sS'x'
+I272
+sg17
+I01
+sS'y'
+I95
+s(dp96
+S'y'
+I58
+sS'x'
+I272
+sg17
+I00
+s(dp97
+S'y'
+I47
+sS'x'
+I283
+sg17
+I00
+s(dp98
+g15
+S'curve'
+p99
+sS'x'
+I324
+sg17
+I01
+sS'y'
+I47
+s(dp100
+g15
+S'line'
+p101
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I47
+s(dp102
+g15
+S'line'
+p103
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I0
+stp104
+stp105
+sS'components'
+p106
+(tsS'anchors'
+p107
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+810 67 m 1
+ 810 0 l 1
+ 463 0 l 1
+ 463 67 l 1
+ 576 67 l 1
+ 576 341 l 1
+ 268 341 l 1
+ 268 67 l 1
+ 380 67 l 1
+ 380 0 l 1
+ 34 0 l 1
+ 34 67 l 1
+ 153 67 l 1
+ 153 652 l 1
+ 34 652 l 1
+ 34 722 l 1
+ 380 722 l 1
+ 380 652 l 1
+ 268 652 l 1
+ 268 403 l 1
+ 576 403 l 1
+ 576 652 l 1
+ 463 652 l 1
+ 463 722 l 1
+ 810 722 l 1
+ 810 652 l 1
+ 691 652 l 1
+ 691 67 l 1
+ 810 67 l 1
+EndSplineSet
+EndChar
+
+StartChar: I
+Encoding: 73 73 11
+Width: 426
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'I'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I426
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I817
+sS'smooth'
+p17
+I00
+sS'y'
+I67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I817
+sg17
+I00
+sS'y'
+I0
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I470
+sg17
+I00
+sS'y'
+I0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I470
+sg17
+I00
+sS'y'
+I67
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+I583
+sg17
+I00
+sS'y'
+I67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+I583
+sg17
+I00
+sS'y'
+I341
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+I275
+sg17
+I00
+sS'y'
+I341
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+I275
+sg17
+I00
+sS'y'
+I67
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I387
+sg17
+I00
+sS'y'
+I67
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I387
+sg17
+I00
+sS'y'
+I0
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I67
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I160
+sg17
+I00
+sS'y'
+I67
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I160
+sg17
+I00
+sS'y'
+I652
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I652
+s(dp46
+g15
+S'line'
+p47
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I722
+s(dp48
+g15
+S'line'
+p49
+sS'x'
+I387
+sg17
+I00
+sS'y'
+I722
+s(dp50
+g15
+S'line'
+p51
+sS'x'
+I387
+sg17
+I00
+sS'y'
+I652
+s(dp52
+g15
+S'line'
+p53
+sS'x'
+I275
+sg17
+I00
+sS'y'
+I652
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I275
+sg17
+I00
+sS'y'
+I403
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I583
+sg17
+I00
+sS'y'
+I403
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I583
+sg17
+I00
+sS'y'
+I652
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I470
+sg17
+I00
+sS'y'
+I652
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I470
+sg17
+I00
+sS'y'
+I722
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I817
+sg17
+I00
+sS'y'
+I722
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I817
+sg17
+I00
+sS'y'
+I652
+s(dp68
+g15
+S'line'
+p69
+sS'x'
+I698
+sg17
+I00
+sS'y'
+I652
+s(dp70
+g15
+S'line'
+p71
+sS'x'
+I698
+sg17
+I00
+sS'y'
+I67
+stp72
+stp73
+sS'components'
+p74
+(tsS'anchors'
+p75
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+275 67 m 1
+ 387 67 l 1
+ 387 0 l 1
+ 41 0 l 1
+ 41 67 l 1
+ 160 67 l 1
+ 160 652 l 1
+ 41 652 l 1
+ 41 722 l 1
+ 387 722 l 1
+ 387 652 l 1
+ 275 652 l 1
+ 275 67 l 1
+EndSplineSet
+EndChar
+
+StartChar: J
+Encoding: 74 74 12
+Width: 619
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'J'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I619
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I475
+sS'smooth'
+p17
+I00
+sS'y'
+I67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I587
+sg17
+I00
+sS'y'
+I67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I587
+sg17
+I00
+sS'y'
+I0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I241
+sg17
+I00
+sS'y'
+I0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+I241
+sg17
+I00
+sS'y'
+I67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+I360
+sg17
+I00
+sS'y'
+I67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+I360
+sg17
+I00
+sS'y'
+I652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+I241
+sg17
+I00
+sS'y'
+I652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I241
+sg17
+I00
+sS'y'
+I722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I587
+sg17
+I00
+sS'y'
+I722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I587
+sg17
+I00
+sS'y'
+I652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I475
+sg17
+I00
+sS'y'
+I652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+250 -98 m 0
+ 463 -98 475 70 475 195 c 0
+ 475 212 475 227 475 242 c 2
+ 475 652 l 1
+ 475 652 523 652 554 652 c 0
+ 582 652 l 1
+ 582 722 l 1
+ 220 722 l 1
+ 220 652 l 1
+ 360 652 l 1
+ 360 190 l 2
+ 360 72 345 -43 245 -43 c 0
+ 212 -43 154 -28 154 -3 c 0
+ 154 22 211 15 211 82 c 0
+ 211 132 170 162 130 162 c 0
+ 88 162 47 132 47 60 c 0
+ 47 -37 127 -98 250 -98 c 0
+EndSplineSet
+EndChar
+
+StartChar: K
+Encoding: 75 75 13
+Width: 815
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'K'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I815
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+F454
+sS'smooth'
+p17
+I00
+sS'y'
+F0
+s(dp18
+S'y'
+F0
+sS'x'
+F454
+sg17
+I00
+s(dp19
+S'y'
+F67
+sS'x'
+F454
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+F454
+sg17
+I00
+sS'y'
+F67
+s(dp22
+S'y'
+F67
+sS'x'
+F454
+sg17
+I00
+s(dp23
+S'y'
+F67
+sS'x'
+F553
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+F553
+sg17
+I01
+sS'y'
+F67
+s(dp26
+S'y'
+F67
+sS'x'
+F553
+sg17
+I00
+s(dp27
+S'y'
+F337
+sS'x'
+F348
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+F348
+sg17
+I01
+sS'y'
+F337
+s(dp30
+S'y'
+F337
+sS'x'
+F348
+sg17
+I00
+s(dp31
+S'y'
+F270
+sS'x'
+F268
+sg17
+I00
+s(dp32
+g15
+S'curve'
+p33
+sS'x'
+F268
+sg17
+I00
+sS'y'
+F270
+s(dp34
+S'y'
+F270
+sS'x'
+F268
+sg17
+I00
+s(dp35
+S'y'
+F67
+sS'x'
+F268
+sg17
+I00
+s(dp36
+g15
+S'curve'
+p37
+sS'x'
+F268
+sg17
+I00
+sS'y'
+F67
+s(dp38
+S'y'
+F67
+sS'x'
+F268
+sg17
+I00
+s(dp39
+S'y'
+F67
+sS'x'
+F371
+sg17
+I00
+s(dp40
+g15
+S'curve'
+p41
+sS'x'
+F371
+sg17
+I01
+sS'y'
+F67
+s(dp42
+S'y'
+F67
+sS'x'
+F371
+sg17
+I00
+s(dp43
+S'y'
+F0
+sS'x'
+F371
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+F371
+sg17
+I00
+sS'y'
+F0
+s(dp46
+g15
+S'line'
+p47
+sS'x'
+F34
+sg17
+I00
+sS'y'
+F0
+s(dp48
+g15
+S'line'
+p49
+sS'x'
+F34
+sg17
+I00
+sS'y'
+F67
+s(dp50
+S'y'
+F67
+sS'x'
+F34
+sg17
+I00
+s(dp51
+S'y'
+F67
+sS'x'
+F153
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+F153
+sg17
+I00
+sS'y'
+F67
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+F153
+sg17
+I00
+sS'y'
+F652
+s(dp56
+S'y'
+F652
+sS'x'
+F153
+sg17
+I00
+s(dp57
+S'y'
+F652
+sS'x'
+F34
+sg17
+I00
+s(dp58
+g15
+S'curve'
+p59
+sS'x'
+F34
+sg17
+I00
+sS'y'
+F652
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+F34
+sg17
+I00
+sS'y'
+F722
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+F371
+sg17
+I00
+sS'y'
+F722
+s(dp64
+S'y'
+F722
+sS'x'
+F371
+sg17
+I00
+s(dp65
+S'y'
+F652
+sS'x'
+F371
+sg17
+I00
+s(dp66
+g15
+S'curve'
+p67
+sS'x'
+F371
+sg17
+I01
+sS'y'
+F652
+s(dp68
+S'y'
+F652
+sS'x'
+F371
+sg17
+I00
+s(dp69
+S'y'
+F652
+sS'x'
+F268
+sg17
+I00
+s(dp70
+g15
+S'curve'
+p71
+sS'x'
+F268
+sg17
+I00
+sS'y'
+F652
+s(dp72
+g15
+S'line'
+p73
+sS'x'
+F268
+sg17
+I00
+sS'y'
+F359
+s(dp74
+S'y'
+F361
+sS'x'
+F275
+sg17
+I00
+s(dp75
+S'y'
+F395
+sS'x'
+F312
+sg17
+I00
+s(dp76
+g15
+S'curve'
+p77
+sS'x'
+F317
+sg17
+I01
+sS'y'
+F399
+s(dp78
+S'y'
+F429
+sS'x'
+F348
+sg17
+I00
+s(dp79
+S'y'
+F652
+sS'x'
+F564
+sg17
+I00
+s(dp80
+g15
+S'curve'
+p81
+sS'x'
+F564
+sg17
+I01
+sS'y'
+F652
+s(dp82
+S'y'
+F652
+sS'x'
+F564
+sg17
+I00
+s(dp83
+S'y'
+F652
+sS'x'
+F431
+sg17
+I00
+s(dp84
+g15
+S'curve'
+p85
+sS'x'
+F431
+sg17
+I00
+sS'y'
+F652
+s(dp86
+S'y'
+F652
+sS'x'
+F431
+sg17
+I00
+s(dp87
+S'y'
+F722
+sS'x'
+F431
+sg17
+I00
+s(dp88
+g15
+S'curve'
+p89
+sS'x'
+F431
+sg17
+I00
+sS'y'
+F722
+s(dp90
+S'y'
+F722
+sS'x'
+F431
+sg17
+I00
+s(dp91
+S'y'
+F722
+sS'x'
+F778
+sg17
+I00
+s(dp92
+g15
+S'curve'
+p93
+sS'x'
+F778
+sg17
+I00
+sS'y'
+F722
+s(dp94
+S'y'
+F722
+sS'x'
+F778
+sg17
+I00
+s(dp95
+S'y'
+F652
+sS'x'
+F778
+sg17
+I00
+s(dp96
+g15
+S'curve'
+p97
+sS'x'
+F778
+sg17
+I00
+sS'y'
+F652
+s(dp98
+S'y'
+F652
+sS'x'
+F778
+sg17
+I00
+s(dp99
+S'y'
+F652
+sS'x'
+F687
+sg17
+I00
+s(dp100
+g15
+S'curve'
+p101
+sS'x'
+F687
+sg17
+I01
+sS'y'
+F652
+s(dp102
+S'y'
+F652
+sS'x'
+F687
+sg17
+I00
+s(dp103
+S'y'
+F424
+sS'x'
+F463
+sg17
+I00
+s(dp104
+g15
+S'curve'
+p105
+sS'x'
+F463
+sg17
+I01
+sS'y'
+F424
+s(dp106
+S'y'
+F424
+sS'x'
+F463
+sg17
+I00
+s(dp107
+S'y'
+F67
+sS'x'
+F719
+sg17
+I00
+s(dp108
+g15
+S'curve'
+p109
+sS'x'
+F719
+sg17
+I00
+sS'y'
+F67
+s(dp110
+S'y'
+F67
+sS'x'
+F719
+sg17
+I00
+s(dp111
+S'y'
+F67
+sS'x'
+F822
+sg17
+I00
+s(dp112
+g15
+S'curve'
+p113
+sS'x'
+F822
+sg17
+I01
+sS'y'
+F67
+s(dp114
+S'y'
+F67
+sS'x'
+F822
+sg17
+I00
+s(dp115
+S'y'
+F0
+sS'x'
+F822
+sg17
+I00
+s(dp116
+g15
+S'curve'
+p117
+sS'x'
+F822
+sg17
+I00
+sS'y'
+F0
+s(dp118
+S'y'
+F0
+sS'x'
+F822
+sg17
+I00
+s(dp119
+S'y'
+F0
+sS'x'
+F454
+sg17
+I00
+stp120
+stp121
+sS'components'
+p122
+(tsS'anchors'
+p123
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+460 0 m 1
+ 460 67 l 1
+ 569 67 l 1
+ 352 340 l 1
+ 268 270 l 1
+ 268 67 l 1
+ 371 67 l 1
+ 371 0 l 1
+ 34 0 l 1
+ 34 67 l 1
+ 153 67 l 1
+ 153 652 l 1
+ 34 652 l 1
+ 34 722 l 1
+ 371 722 l 1
+ 371 652 l 1
+ 268 652 l 1
+ 268 359 l 1
+ 275 361 312 395 317 399 c 0
+ 348 429 564 652 564 652 c 1
+ 452 652 l 1
+ 452 722 l 1
+ 799 722 l 1
+ 799 652 l 1
+ 687 652 l 1
+ 439 403 l 1
+ 719 67 l 1
+ 814 67 l 1
+ 814 0 l 1
+ 460 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: L
+Encoding: 76 76 14
+Width: 695
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'L'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I695
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F275
+sS'smooth'
+p17
+I00
+sS'y'
+F67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F160
+sg17
+I00
+sS'y'
+F652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F41
+sg17
+I00
+sS'y'
+F722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F387
+sg17
+I00
+sS'y'
+F652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F275
+sg17
+I00
+sS'y'
+F652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+623 0 m 6
+ 638 305 l 5
+ 584 305 l 5
+ 532 117 l 6
+ 522 81 503 67 457 67 c 6
+ 275 67 l 5
+ 275 652 l 5
+ 387 652 l 5
+ 387 722 l 5
+ 41 722 l 5
+ 41 652 l 5
+ 160 652 l 5
+ 160 67 l 5
+ 41 67 l 5
+ 41 0 l 5
+ 41 0 623 -1 623 0 c 6
+EndSplineSet
+EndChar
+
+StartChar: M
+Encoding: 77 77 15
+Width: 1049
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'M'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1049
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+44 0 m 1
+ 44 67 l 1
+ 172 67 l 1
+ 172 652 l 1
+ 35 652 l 1
+ 35 722 l 1
+ 370 722 l 1
+ 534 206 l 1
+ 681 722 l 1
+ 1007 722 l 1
+ 1007 652 l 1
+ 870 652 l 1
+ 870 67 l 1
+ 1014 67 l 1
+ 1014 0 l 1
+ 643 0 l 1
+ 643 67 l 1
+ 750 67 l 1
+ 750 638 l 1
+ 560 26 l 2
+ 552 1 534 0 522 0 c 0
+ 506 0 493 4 486 23 c 2
+ 272 646 l 1
+ 272 67 l 1
+ 395 67 l 1
+ 395 0 l 1
+ 44 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: N
+Encoding: 78 78 16
+Width: 855
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'N'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I855
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F843
+sS'smooth'
+p17
+I00
+sS'y'
+F87
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F731
+sg17
+I00
+sS'y'
+F87
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F731
+sg17
+I00
+sS'y'
+F537
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F1083
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F1205
+sg17
+I00
+sS'y'
+F0
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F1205
+sg17
+I00
+sS'y'
+F632
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F1317
+sg17
+I00
+sS'y'
+F632
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F1317
+sg17
+I00
+sS'y'
+F722
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F974
+sg17
+I00
+sS'y'
+F722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F974
+sg17
+I00
+sS'y'
+F632
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F1106
+sg17
+I00
+sS'y'
+F632
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F1106
+sg17
+I00
+sS'y'
+F245
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+F802
+sg17
+I00
+sS'y'
+F722
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+F500
+sg17
+I00
+sS'y'
+F722
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+F500
+sg17
+I00
+sS'y'
+F632
+s(dp46
+g15
+S'line'
+p47
+sS'x'
+F624
+sg17
+I00
+sS'y'
+F632
+s(dp48
+g15
+S'line'
+p49
+sS'x'
+F624
+sg17
+I00
+sS'y'
+F87
+s(dp50
+g15
+S'line'
+p51
+sS'x'
+F505
+sg17
+I00
+sS'y'
+F87
+s(dp52
+g15
+S'line'
+p53
+sS'x'
+F505
+sg17
+I00
+sS'y'
+F0
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+F843
+sg17
+I00
+sS'y'
+F0
+stp56
+stp57
+sS'components'
+p58
+(tsS'anchors'
+p59
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+357 67 m 1
+ 245 67 l 1
+ 245 618 l 1
+ 608 0 l 1
+ 738 0 l 1
+ 738 652 l 1
+ 850 652 l 1
+ 850 722 l 1
+ 526 722 l 1
+ 526 652 l 1
+ 645 652 l 1
+ 645 130 l 1
+ 298 722 l 1
+ 34 722 l 1
+ 34 652 l 1
+ 152 652 l 1
+ 152 67 l 1
+ 34 67 l 1
+ 34 0 l 1
+ 357 0 l 1
+ 357 67 l 1
+EndSplineSet
+EndChar
+
+StartChar: O
+Encoding: 79 79 17
+Width: 776
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'O'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I776
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+F388
+sS'smooth'
+p17
+I01
+sS'y'
+F-13
+s(dp18
+S'y'
+F-13
+sS'x'
+F154
+sg17
+I00
+s(dp19
+S'y'
+F174
+sS'x'
+F38
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+F38
+sg17
+I01
+sS'y'
+F362
+s(dp22
+S'y'
+F549
+sS'x'
+F38
+sg17
+I00
+s(dp23
+S'y'
+F737
+sS'x'
+F154
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+F388
+sg17
+I01
+sS'y'
+F737
+s(dp26
+S'y'
+F737
+sS'x'
+F621
+sg17
+I00
+s(dp27
+S'y'
+F549
+sS'x'
+F738
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+F738
+sg17
+I01
+sS'y'
+F362
+s(dp30
+S'y'
+F174
+sS'x'
+F738
+sg17
+I00
+s(dp31
+S'y'
+F-13
+sS'x'
+F621
+sg17
+I00
+stp32
+s(dp33
+g13
+((dp34
+g15
+S'curve'
+p35
+sS'x'
+F388
+sg17
+I00
+sS'y'
+F672
+s(dp36
+S'y'
+F672
+sS'x'
+F244
+sg17
+I00
+s(dp37
+S'y'
+F522
+sS'x'
+F167
+sg17
+I00
+s(dp38
+g15
+S'curve'
+p39
+sS'x'
+F167
+sg17
+I01
+sS'y'
+F362
+s(dp40
+S'y'
+F202
+sS'x'
+F167
+sg17
+I00
+s(dp41
+S'y'
+F52
+sS'x'
+F244
+sg17
+I00
+s(dp42
+g15
+S'curve'
+p43
+sS'x'
+F388
+sg17
+I01
+sS'y'
+F52
+s(dp44
+S'y'
+F52
+sS'x'
+F532
+sg17
+I00
+s(dp45
+S'y'
+F200
+sS'x'
+F609
+sg17
+I00
+s(dp46
+g15
+S'curve'
+p47
+sS'x'
+F609
+sg17
+I01
+sS'y'
+F360
+s(dp48
+S'y'
+F519
+sS'x'
+F609
+sg17
+I00
+s(dp49
+S'y'
+F669
+sS'x'
+F532
+sg17
+I00
+stp50
+stp51
+sS'components'
+p52
+(tsS'anchors'
+p53
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+166 363 m 0
+ 166 205 244 55 388 55 c 0
+ 532 55 610 204 610 361 c 0
+ 610 517 532 667 388 670 c 1
+ 244 670 166 520 166 363 c 0
+41 362 m 0
+ 41 549 154 737 388 737 c 0
+ 621 737 735 549 735 362 c 0
+ 735 174 621 -13 388 -13 c 0
+ 154 -13 41 174 41 362 c 0
+EndSplineSet
+EndChar
+
+StartChar: OE
+Encoding: 338 338 18
+Width: 1094
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'OE'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I1094
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+1079 875 m 1
+ 1079 862 l 1
+ 1077 822 1068 633 1066 593 c 1
+ 1063 589 1044 579 1039 579 c 0
+ 1004 579 1049 796 776 796 c 0
+ 763 796 702 795 689 795 c 1
+ 665 708 679 683 679 584 c 1
+ 786 584 807 589 850 700 c 1
+ 893 700 l 1
+ 893 594 885 463 877 364 c 1
+ 837 364 l 1
+ 827 437 786 499 708 499 c 0
+ 700 499 675 502 675 485 c 2
+ 675 269 l 1
+ 702 256 l 2
+ 706 255 757 254 774 254 c 0
+ 979 254 965 290 1025 471 c 0
+ 1027 475 1036 485 1039 485 c 0
+ 1080 485 1079 482 1079 461 c 2
+ 1079 444 l 1
+ 1075 364 1066 175 1066 175 c 1
+ 1039 162 l 2
+ 1035 161 949 160 916 160 c 0
+ 697 160 534 165 298 175 c 1
+ 130 194 15 365 15 525 c 0
+ 15 722 166 861 352 889 c 1
+ 388 889 558 890 594 890 c 0
+ 774 890 900 892 1079 875 c 1
+176 525 m 0
+ 176 401 207 255 359 255 c 0
+ 520 255 528 420 528 545 c 0
+ 528 675 523 796 369 796 c 0
+ 214 796 176 659 176 525 c 0
+EndSplineSet
+EndChar
+
+StartChar: P
+Encoding: 80 80 19
+Width: 675
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'P'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+F675
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F268
+sS'smooth'
+p17
+I00
+sS'y'
+I67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F380
+sg17
+I00
+sS'y'
+I67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F380
+sg17
+I00
+sS'y'
+I0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F34
+sg17
+I00
+sS'y'
+I0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F34
+sg17
+I00
+sS'y'
+I67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F153
+sg17
+I00
+sS'y'
+I67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F153
+sg17
+I00
+sS'y'
+I652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F34
+sg17
+I00
+sS'y'
+I652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F34
+sg17
+I00
+sS'y'
+I722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F380
+sg17
+I00
+sS'y'
+I722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F380
+sg17
+I00
+sS'y'
+I652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F268
+sg17
+I00
+sS'y'
+I652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+34 722 m 1
+ 334 722 l 2
+ 451 722 660 714 660 523 c 0
+ 660 331 474 317 307 317 c 2
+ 268 317 l 1
+ 268 67 l 1
+ 390 67 l 1
+ 390 0 l 1
+ 34 0 l 1
+ 34 67 l 1
+ 153 67 l 1
+ 153 652 l 1
+ 34 652 l 1
+ 34 722 l 1
+301 652 m 1
+ 268 652 l 1
+ 268 380 l 1
+ 336 380 l 2
+ 440 380 542 406 542 519 c 0
+ 542 652 432 651 301 652 c 1
+EndSplineSet
+EndChar
+
+StartChar: Q
+Encoding: 81 81 20
+Width: 828
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'Q'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I828
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+F257
+sS'smooth'
+p17
+I01
+sS'y'
+F130
+s(dp18
+S'y'
+F72
+sS'x'
+F257
+sg17
+I00
+s(dp19
+S'y'
+F75
+sS'x'
+F307
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+F355
+sg17
+I01
+sS'y'
+F75
+s(dp22
+S'y'
+F75
+sS'x'
+F369
+sg17
+I00
+s(dp23
+S'y'
+F69
+sS'x'
+F451
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+F451
+sg17
+I01
+sS'y'
+F108
+s(dp26
+S'y'
+F160
+sS'x'
+F451
+sg17
+I00
+s(dp27
+S'y'
+F205
+sS'x'
+F383
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+F335
+sg17
+I01
+sS'y'
+F205
+s(dp30
+S'y'
+F205
+sS'x'
+F296
+sg17
+I00
+s(dp31
+S'y'
+F168
+sS'x'
+F257
+sg17
+I00
+stp32
+s(dp33
+g13
+((dp34
+g15
+S'curve'
+p35
+sS'x'
+F355
+sg17
+I01
+sS'y'
+F627
+s(dp36
+S'y'
+F627
+sS'x'
+F267
+sg17
+I00
+s(dp37
+S'y'
+F576
+sS'x'
+F182
+sg17
+I00
+s(dp38
+g15
+S'curve'
+p39
+sS'x'
+F182
+sg17
+I01
+sS'y'
+F473
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+F182
+sg17
+I00
+sS'y'
+F213
+s(dp42
+S'y'
+F213
+sS'x'
+F236
+sg17
+I00
+s(dp43
+S'y'
+F295
+sS'x'
+F269
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+F334
+sg17
+I01
+sS'y'
+F295
+s(dp46
+S'y'
+F295
+sS'x'
+F404
+sg17
+I00
+s(dp47
+S'y'
+F229
+sS'x'
+F454
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+F515
+sg17
+I01
+sS'y'
+F229
+s(dp50
+S'y'
+F229
+sS'x'
+F516
+sg17
+I00
+s(dp51
+S'y'
+F230
+sS'x'
+F525
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+F527
+sg17
+I00
+sS'y'
+F230
+s(dp54
+S'y'
+F273
+sS'x'
+F533
+sg17
+I00
+s(dp55
+S'y'
+F320
+sS'x'
+F540
+sg17
+I00
+s(dp56
+g15
+S'curve'
+p57
+sS'x'
+F540
+sg17
+I01
+sS'y'
+F365
+s(dp58
+S'y'
+F493
+sS'x'
+F540
+sg17
+I00
+s(dp59
+S'y'
+F627
+sS'x'
+F500
+sg17
+I00
+stp60
+s(dp61
+g13
+((dp62
+g15
+S'curve'
+p63
+sS'x'
+F502
+sg17
+I00
+sS'y'
+F13
+s(dp64
+S'y'
+F-14
+sS'x'
+F444
+sg17
+I00
+s(dp65
+S'y'
+F-15
+sS'x'
+F413
+sg17
+I00
+s(dp66
+g15
+S'curve'
+p67
+sS'x'
+F355
+sg17
+I01
+sS'y'
+F-15
+s(dp68
+S'y'
+F-15
+sS'x'
+F146
+sg17
+I00
+s(dp69
+S'y'
+F157
+sS'x'
+F15
+sg17
+I00
+s(dp70
+g15
+S'curve'
+p71
+sS'x'
+F15
+sg17
+I01
+sS'y'
+F355
+s(dp72
+S'y'
+F551
+sS'x'
+F15
+sg17
+I00
+s(dp73
+S'y'
+F717
+sS'x'
+F162
+sg17
+I00
+s(dp74
+g15
+S'curve'
+p75
+sS'x'
+F361
+sg17
+I01
+sS'y'
+F717
+s(dp76
+S'y'
+F717
+sS'x'
+F553
+sg17
+I00
+s(dp77
+S'y'
+F561
+sS'x'
+F695
+sg17
+I00
+s(dp78
+g15
+S'curve'
+p79
+sS'x'
+F695
+sg17
+I01
+sS'y'
+F374
+s(dp80
+S'y'
+F275
+sS'x'
+F695
+sg17
+I00
+s(dp81
+S'y'
+F158
+sS'x'
+F616
+sg17
+I00
+s(dp82
+g15
+S'curve'
+p83
+sS'x'
+F616
+sg17
+I01
+sS'y'
+F108
+s(dp84
+S'y'
+F83
+sS'x'
+F616
+sg17
+I00
+s(dp85
+S'y'
+F63
+sS'x'
+F660
+sg17
+I00
+s(dp86
+g15
+S'curve'
+p87
+sS'x'
+F682
+sg17
+I01
+sS'y'
+F63
+s(dp88
+S'y'
+F63
+sS'x'
+F766
+sg17
+I00
+s(dp89
+S'y'
+F184
+sS'x'
+F684
+sg17
+I00
+s(dp90
+g15
+S'curve'
+p91
+sS'x'
+F813
+sg17
+I00
+sS'y'
+F184
+s(dp92
+S'y'
+F86
+sS'x'
+F813
+sg17
+I00
+s(dp93
+S'y'
+F-78
+sS'x'
+F792
+sg17
+I00
+s(dp94
+g15
+S'curve'
+p95
+sS'x'
+F660
+sg17
+I01
+sS'y'
+F-78
+s(dp96
+S'y'
+F-78
+sS'x'
+F596
+sg17
+I00
+s(dp97
+S'y'
+F-30
+sS'x'
+F545
+sg17
+I00
+stp98
+stp99
+sS'components'
+p100
+(tsS'anchors'
+p101
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+218 193 m 1
+ 218 193 250 289 356 296 c 0
+ 560 309 587 43 706 43 c 0
+ 745.498545988 43 773 79 773 149 c 0
+ 773 150 773 175 773 180 c 1
+ 832 180 l 1
+ 832 174 832 154 832 149 c 0
+ 832 -34 760 -77 666 -77 c 0
+ 470 -77 471 220 347 220 c 0
+ 286 220 253 146 253 146 c 1
+ 218 193 l 1
+38 362 m 0
+ 38 549 154 737 388 737 c 0
+ 621 737 738 549 738 362 c 0
+ 738 174 621 -13 388 -13 c 0
+ 154 -13 38 174 38 362 c 0
+197 362 m 0
+ 197 222 264 82 388 82 c 0
+ 512 82 579 220 579 360 c 0
+ 579 499 512 639 388 642 c 1
+ 264 642 197 502 197 362 c 0
+EndSplineSet
+EndChar
+
+StartChar: R
+Encoding: 82 82 21
+Width: 805
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'R'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I805
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I265
+sS'smooth'
+p17
+I00
+sS'y'
+I67
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I0
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I31
+sg17
+I00
+sS'y'
+I0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+I31
+sg17
+I00
+sS'y'
+I67
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+I150
+sg17
+I00
+sS'y'
+I67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+I150
+sg17
+I00
+sS'y'
+I652
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+I31
+sg17
+I00
+sS'y'
+I652
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I31
+sg17
+I00
+sS'y'
+I722
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I377
+sg17
+I00
+sS'y'
+I652
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I265
+sg17
+I00
+sS'y'
+I652
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+641 -16 m 0
+ 711 -16 787 12 787 158 c 2
+ 787 230 l 1
+ 721 230 l 1
+ 721 167 l 2
+ 721 95 699 69 664 69 c 0
+ 559 69 662 308 479 347 c 1
+ 580 368 659 409 661 524 c 0
+ 661 525 661 527 661 528 c 0
+ 661 720 457 722 312 722 c 2
+ 31 722 l 1
+ 31 652 l 1
+ 150 652 l 1
+ 150 67 l 1
+ 31 67 l 1
+ 31 0 l 1
+ 376 0 l 1
+ 376 67 l 1
+ 265 67 l 1
+ 265 322 l 1
+ 294 322 l 1
+ 318 323 357 321 380 322 c 1
+ 370 320 l 1
+ 370 320 373 321 378 321 c 0
+ 393 321 462 305 480 202 c 0
+ 505 58 536 -16 641 -16 c 0
+265 395 m 1
+ 265 652 l 1
+ 322 652 l 2
+ 479 652 555 625 558 524 c 0
+ 558 522 558 521 558 519 c 0
+ 558 425 472 395 326 395 c 2
+ 265 395 l 1
+EndSplineSet
+EndChar
+
+StartChar: S
+Encoding: 83 83 22
+Width: 684
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'S'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I684
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+I368
+sS'smooth'
+p17
+I01
+sS'y'
+I-13
+s(dp18
+S'y'
+I-13
+sS'x'
+I134
+sg17
+I00
+s(dp19
+S'y'
+I174
+sS'x'
+I18
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+I18
+sg17
+I01
+sS'y'
+I362
+s(dp22
+S'y'
+I549
+sS'x'
+I18
+sg17
+I00
+s(dp23
+S'y'
+I737
+sS'x'
+I134
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+I368
+sg17
+I01
+sS'y'
+I737
+s(dp26
+S'y'
+I737
+sS'x'
+I601
+sg17
+I00
+s(dp27
+S'y'
+I549
+sS'x'
+I718
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+I718
+sg17
+I01
+sS'y'
+I362
+s(dp30
+S'y'
+I174
+sS'x'
+I718
+sg17
+I00
+s(dp31
+S'y'
+I-13
+sS'x'
+I601
+sg17
+I00
+stp32
+s(dp33
+g13
+((dp34
+g15
+S'curve'
+p35
+sS'x'
+I368
+sg17
+I00
+sS'y'
+I642
+s(dp36
+S'y'
+I642
+sS'x'
+I244
+sg17
+I00
+s(dp37
+S'y'
+I502
+sS'x'
+I177
+sg17
+I00
+s(dp38
+g15
+S'curve'
+p39
+sS'x'
+I177
+sg17
+I01
+sS'y'
+I362
+s(dp40
+S'y'
+I222
+sS'x'
+I177
+sg17
+I00
+s(dp41
+S'y'
+I82
+sS'x'
+I244
+sg17
+I00
+s(dp42
+g15
+S'curve'
+p43
+sS'x'
+I368
+sg17
+I01
+sS'y'
+I82
+s(dp44
+S'y'
+I82
+sS'x'
+I492
+sg17
+I00
+s(dp45
+S'y'
+I220
+sS'x'
+I559
+sg17
+I00
+s(dp46
+g15
+S'curve'
+p47
+sS'x'
+I559
+sg17
+I01
+sS'y'
+I360
+s(dp48
+S'y'
+I499
+sS'x'
+I559
+sg17
+I00
+s(dp49
+S'y'
+I639
+sS'x'
+I492
+sg17
+I00
+stp50
+stp51
+sS'components'
+p52
+(tsS'anchors'
+p53
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+374 -13 m 0
+ 556 -6 640 98 640 214 c 0
+ 640 302 592 371 475 406 c 1
+ 264 480 l 1
+ 222 492 201 524 200 554 c 1
+ 200 620 288 649 371 649 c 0
+ 429 649 484 636 506 613 c 1
+ 475 613 431 596 431 540 c 0
+ 431 492 462 462 510 462 c 0
+ 573 462 606 507 606 548 c 0
+ 606 700 443 737 333 737 c 0
+ 170 737 52 646 52 523 c 0
+ 52 424 101 354 218 320 c 1
+ 395 254 l 1
+ 458 235 485 202 485 169 c 0
+ 485 120 429 73 349 73 c 0
+ 263 73 167 101 144 124 c 1
+ 175 124 219 141 219 197 c 0
+ 219 245 188 275 140 275 c 0
+ 77 275 44 230 44 189 c 0
+ 44 37 208 -19 374 -13 c 0
+EndSplineSet
+EndChar
+
+StartChar: T
+Encoding: 84 84 23
+Width: 740
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'T'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+F740
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+F274
+sS'smooth'
+p17
+I01
+sS'y'
+F644
+s(dp18
+S'y'
+F644
+sS'x'
+F274
+sg17
+I00
+s(dp19
+S'y'
+F644
+sS'x'
+F220
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+F220
+sg17
+I00
+sS'y'
+F644
+s(dp22
+S'y'
+F644
+sS'x'
+F112
+sg17
+I00
+s(dp23
+S'y'
+F512
+sS'x'
+F87
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+F62
+sg17
+I00
+sS'y'
+F430
+s(dp26
+S'y'
+F430
+sS'x'
+F60
+sg17
+I00
+s(dp27
+S'y'
+F429
+sS'x'
+F52
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+F50
+sg17
+I01
+sS'y'
+F429
+s(dp30
+S'y'
+F429
+sS'x'
+F41
+sg17
+I00
+s(dp31
+S'y'
+F429
+sS'x'
+F23
+sg17
+I00
+s(dp32
+g15
+S'curve'
+p33
+sS'x'
+F23
+sg17
+I01
+sS'y'
+F443
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F23
+sg17
+I00
+sS'y'
+F722
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F277
+sg17
+I01
+sS'y'
+F722
+s(dp38
+S'y'
+F722
+sS'x'
+F277
+sg17
+I00
+s(dp39
+S'y'
+F644
+sS'x'
+F274
+sg17
+I00
+stp40
+stp41
+sS'components'
+p42
+(tsS'anchors'
+p43
+(tsss."
+LayerCount: 2
+Back
+SplineSet
+703 722 m 5
+ 480.666666667 722 258.333333333 722 36 722 c 5
+ 21 417 l 5
+ 75 417 l 5
+ 127 605 l 6
+ 137 641 156 655 202 655 c 6
+ 312 655 l 5
+ 312 70 l 5
+ 200 70 l 5
+ 200 0 l 5
+ 546 0 l 5
+ 546 70 l 5
+ 427 70 l 5
+ 427 655 l 5
+ 537 655 l 6
+ 583 655 602 641 612 605 c 6
+ 664 417 l 5
+ 718 417 l 5
+ 703 722 l 5
+EndSplineSet
+Fore
+SplineSet
+703 722 m 1
+ 36 722 l 1
+ 21 417 l 1
+ 75 417 l 1
+ 127 605 l 2
+ 137 641 156 655 202 655 c 2
+ 312 655 l 1
+ 312 70 l 1
+ 200 70 l 1
+ 200 0 l 1
+ 546 0 l 1
+ 546 70 l 1
+ 427 70 l 1
+ 427 655 l 1
+ 537 655 l 2
+ 583 655 602 641 612 605 c 2
+ 664 417 l 1
+ 718 417 l 1
+ 703 722 l 1
+EndSplineSet
+EndChar
+
+StartChar: U
+Encoding: 85 85 24
+Width: 843
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'U'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I843
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F523
+sS'x'
+F706
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F523
+sS'x'
+F604
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F604
+sg15
+I00
+sS'y'
+F523
+s(dp20
+g18
+S'line'
+p21
+sS'x'
+F604
+sg15
+I00
+sS'y'
+F632
+s(dp22
+g18
+S'line'
+p23
+sS'x'
+F485
+sg15
+I00
+sS'y'
+F632
+s(dp24
+g18
+S'line'
+p25
+sS'x'
+F485
+sg15
+I00
+sS'y'
+F722
+s(dp26
+g18
+S'line'
+p27
+sS'x'
+F818
+sg15
+I00
+sS'y'
+F722
+s(dp28
+g18
+S'line'
+p29
+sS'x'
+F818
+sg15
+I00
+sS'y'
+F632
+s(dp30
+g18
+S'line'
+p31
+sS'x'
+F706
+sg15
+I00
+sS'y'
+F632
+s(dp32
+g18
+S'line'
+p33
+sS'x'
+F706
+sg15
+I00
+sS'y'
+F523
+stp34
+s(dp35
+g13
+((dp36
+g18
+S'line'
+p37
+sS'x'
+F283
+sg15
+I00
+sS'y'
+F523
+s(dp38
+S'y'
+F523
+sS'x'
+F283
+sg15
+I00
+s(dp39
+S'y'
+F523
+sS'x'
+F144
+sg15
+I00
+s(dp40
+g18
+S'curve'
+p41
+sS'x'
+F144
+sg15
+I00
+sS'y'
+F523
+s(dp42
+g18
+S'line'
+p43
+sS'x'
+F144
+sg15
+I00
+sS'y'
+F632
+s(dp44
+g18
+S'line'
+p45
+sS'x'
+F25
+sg15
+I00
+sS'y'
+F632
+s(dp46
+g18
+S'line'
+p47
+sS'x'
+F25
+sg15
+I00
+sS'y'
+F722
+s(dp48
+g18
+S'line'
+p49
+sS'x'
+F395
+sg15
+I00
+sS'y'
+F722
+s(dp50
+g18
+S'line'
+p51
+sS'x'
+F395
+sg15
+I00
+sS'y'
+F632
+s(dp52
+g18
+S'line'
+p53
+sS'x'
+F283
+sg15
+I00
+sS'y'
+F632
+stp54
+stp55
+sS'components'
+p56
+(tsS'anchors'
+p57
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+425 -13 m 0
+ 646 -13 706 108 706 267 c 2
+ 706 632 l 1
+ 818 632 l 1
+ 818 722 l 1
+ 488 722 l 1
+ 488 632 l 1
+ 607 632 l 1
+ 607 261 l 2
+ 607 142 546 93 436 93 c 0
+ 317 93 283 161 283 258 c 2
+ 283 632 l 1
+ 395 632 l 1
+ 395 722 l 1
+ 25 722 l 1
+ 25 632 l 1
+ 140 632 l 1
+ 140 252 l 2
+ 140 100 226 -13 425 -13 c 0
+EndSplineSet
+EndChar
+
+StartChar: V
+Encoding: 86 86 25
+Width: 909
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'V'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I909
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+I16
+sS'smooth'
+p17
+I00
+sS'y'
+I656
+s(dp18
+S'y'
+I661
+sS'x'
+I16
+sg17
+I00
+s(dp19
+S'y'
+I679
+sS'x'
+I15
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+I15
+sg17
+I01
+sS'y'
+I683
+s(dp22
+S'y'
+I693
+sS'x'
+I15
+sg17
+I00
+s(dp23
+S'y'
+I719
+sS'x'
+I11
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+I29
+sg17
+I00
+sS'y'
+I723
+s(dp26
+S'y'
+I723
+sS'x'
+I48
+sg17
+I00
+s(dp27
+S'y'
+I724
+sS'x'
+I137
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+I156
+sg17
+I01
+sS'y'
+I724
+s(dp30
+S'y'
+I724
+sS'x'
+I258
+sg17
+I00
+s(dp31
+S'y'
+I725
+sS'x'
+I323
+sg17
+I00
+s(dp32
+g15
+S'curve'
+p33
+sS'x'
+I427
+sg17
+I00
+sS'y'
+I709
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I427
+sg17
+I00
+sS'y'
+I636
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I321
+sg17
+I01
+sS'y'
+I636
+s(dp38
+S'y'
+I636
+sS'x'
+I311
+sg17
+I00
+s(dp39
+S'y'
+I619
+sS'x'
+I307
+sg17
+I00
+s(dp40
+g15
+S'curve'
+p41
+sS'x'
+I307
+sg17
+I01
+sS'y'
+I610
+s(dp42
+S'y'
+I610
+sS'x'
+I307
+sg17
+I00
+s(dp43
+S'y'
+I605
+sS'x'
+I308
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+I308
+sg17
+I01
+sS'y'
+I604
+s(dp46
+S'y'
+I551
+sS'x'
+I325
+sg17
+I00
+s(dp47
+S'y'
+I310
+sS'x'
+I409
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I427
+sg17
+I00
+sS'y'
+I258
+s(dp50
+S'y'
+I251
+sS'x'
+I431
+sg17
+I00
+s(dp51
+S'y'
+I203
+sS'x'
+I448
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I467
+sg17
+I00
+sS'y'
+I193
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I600
+sg17
+I00
+sS'y'
+I577
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I600
+sg17
+I01
+sS'y'
+I584
+s(dp58
+S'y'
+I675
+sS'x'
+I600
+sg17
+I00
+s(dp59
+S'y'
+I576
+sS'x'
+I475
+sg17
+I00
+s(dp60
+g15
+S'curve'
+p61
+sS'x'
+I475
+sg17
+I00
+sS'y'
+I709
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I851
+sg17
+I00
+sS'y'
+I709
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I851
+sg17
+I00
+sS'y'
+I643
+s(dp66
+S'y'
+I640
+sS'x'
+I818
+sg17
+I00
+s(dp67
+S'y'
+I623
+sS'x'
+I737
+sg17
+I00
+s(dp68
+g15
+S'curve'
+p69
+sS'x'
+I719
+sg17
+I01
+sS'y'
+I577
+s(dp70
+g15
+S'line'
+p71
+sS'x'
+I493
+sg17
+I00
+sS'y'
+I-7
+s(dp72
+g15
+S'line'
+p73
+sS'x'
+I374
+sg17
+I00
+sS'y'
+I-7
+s(dp74
+g15
+S'line'
+p75
+sS'x'
+I162
+sg17
+I01
+sS'y'
+I564
+s(dp76
+S'y'
+I639
+sS'x'
+I134
+sg17
+I00
+s(dp77
+S'y'
+I660
+sS'x'
+I103
+sg17
+I00
+stp78
+stp79
+sS'components'
+p80
+(tsS'anchors'
+p81
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+348 52 m 2
+ 366 4 400 -19 435 -19 c 0
+ 472 -19 509 6 526 52 c 2
+ 739 632 l 1
+ 851 632 l 1
+ 851 722 l 1
+ 475 722 l 1
+ 475 632 l 1
+ 614 632 l 1
+ 458 160 l 1
+ 300 632 l 1
+ 412 632 l 1
+ 412 722 l 1
+ 25 722 l 1
+ 25 632 l 1
+ 137 632 l 1
+ 348 52 l 2
+EndSplineSet
+EndChar
+
+StartChar: W
+Encoding: 87 87 26
+Width: 1207
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'W'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I1207
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+I-4
+sS'smooth'
+p17
+I00
+sS'y'
+I639
+s(dp18
+S'y'
+I648
+sS'x'
+I-6
+sg17
+I00
+s(dp19
+S'y'
+I681
+sS'x'
+I-17
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+I-17
+sg17
+I01
+sS'y'
+I700
+s(dp22
+S'y'
+I710
+sS'x'
+I-17
+sg17
+I00
+s(dp23
+S'y'
+I714
+sS'x'
+I-16
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+I-4
+sg17
+I00
+sS'y'
+I720
+s(dp26
+S'y'
+I720
+sS'x'
+I16
+sg17
+I00
+s(dp27
+S'y'
+I721
+sS'x'
+I105
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+I124
+sg17
+I01
+sS'y'
+I721
+s(dp30
+S'y'
+I721
+sS'x'
+I208
+sg17
+I00
+s(dp31
+S'y'
+I724
+sS'x'
+I278
+sg17
+I00
+s(dp32
+g15
+S'curve'
+p33
+sS'x'
+I360
+sg17
+I00
+sS'y'
+I706
+s(dp34
+S'y'
+I701
+sS'x'
+I362
+sg17
+I00
+s(dp35
+S'y'
+I678
+sS'x'
+I365
+sg17
+I00
+s(dp36
+g15
+S'curve'
+p37
+sS'x'
+I365
+sg17
+I01
+sS'y'
+I673
+s(dp38
+S'y'
+I606
+sS'x'
+I365
+sg17
+I00
+s(dp39
+S'y'
+I651
+sS'x'
+I305
+sg17
+I00
+s(dp40
+g15
+S'curve'
+p41
+sS'x'
+I279
+sg17
+I00
+sS'y'
+I599
+s(dp42
+S'y'
+I548
+sS'x'
+I297
+sg17
+I00
+s(dp43
+S'y'
+I312
+sS'x'
+I382
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+I400
+sg17
+I01
+sS'y'
+I262
+s(dp46
+S'y'
+I247
+sS'x'
+I406
+sg17
+I00
+s(dp47
+S'y'
+I231
+sS'x'
+I414
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I427
+sg17
+I00
+sS'y'
+I221
+s(dp50
+S'y'
+I231
+sS'x'
+I441
+sg17
+I00
+s(dp51
+S'y'
+I247
+sS'x'
+I449
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I454
+sg17
+I01
+sS'y'
+I262
+s(dp54
+S'y'
+I296
+sS'x'
+I467
+sg17
+I00
+s(dp55
+S'y'
+I456
+sS'x'
+I523
+sg17
+I00
+s(dp56
+g15
+S'curve'
+p57
+sS'x'
+I535
+sg17
+I00
+sS'y'
+I491
+s(dp58
+S'y'
+I495
+sS'x'
+I535
+sg17
+I00
+s(dp59
+S'y'
+I514
+sS'x'
+I537
+sg17
+I00
+s(dp60
+g15
+S'curve'
+p61
+sS'x'
+I537
+sg17
+I01
+sS'y'
+I518
+s(dp62
+S'y'
+I647
+sS'x'
+I537
+sg17
+I00
+s(dp63
+S'y'
+I595
+sS'x'
+I399
+sg17
+I00
+s(dp64
+g15
+S'curve'
+p65
+sS'x'
+I399
+sg17
+I00
+sS'y'
+I706
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I815
+sg17
+I00
+sS'y'
+I706
+s(dp68
+S'y'
+I588
+sS'x'
+I815
+sg17
+I00
+s(dp69
+S'y'
+I666
+sS'x'
+I682
+sg17
+I00
+s(dp70
+g15
+S'curve'
+p71
+sS'x'
+I682
+sg17
+I01
+sS'y'
+I578
+s(dp72
+S'y'
+I575
+sS'x'
+I682
+sg17
+I00
+s(dp73
+S'y'
+I561
+sS'x'
+I683
+sg17
+I00
+s(dp74
+g15
+S'curve'
+p75
+sS'x'
+I683
+sg17
+I00
+sS'y'
+I558
+s(dp76
+S'y'
+I510
+sS'x'
+I701
+sg17
+I00
+s(dp77
+S'y'
+I283
+sS'x'
+I786
+sg17
+I00
+s(dp78
+g15
+S'curve'
+p79
+sS'x'
+I804
+sg17
+I01
+sS'y'
+I235
+s(dp80
+S'y'
+I222
+sS'x'
+I809
+sg17
+I00
+s(dp81
+S'y'
+I207
+sS'x'
+I810
+sg17
+I00
+s(dp82
+g15
+S'curve'
+p83
+sS'x'
+I825
+sg17
+I01
+sS'y'
+I207
+s(dp84
+S'y'
+I207
+sS'x'
+I839
+sg17
+I00
+s(dp85
+S'y'
+I222
+sS'x'
+I840
+sg17
+I00
+s(dp86
+g15
+S'curve'
+p87
+sS'x'
+I845
+sg17
+I01
+sS'y'
+I235
+s(dp88
+S'y'
+I277
+sS'x'
+I860
+sg17
+I00
+s(dp89
+S'y'
+I475
+sS'x'
+I926
+sg17
+I00
+s(dp90
+g15
+S'curve'
+p91
+sS'x'
+I939
+sg17
+I00
+sS'y'
+I518
+s(dp92
+S'y'
+I524
+sS'x'
+I939
+sg17
+I00
+s(dp93
+S'y'
+I552
+sS'x'
+I940
+sg17
+I00
+s(dp94
+g15
+S'curve'
+p95
+sS'x'
+I940
+sg17
+I01
+sS'y'
+I558
+s(dp96
+S'y'
+I625
+sS'x'
+I940
+sg17
+I00
+s(dp97
+S'y'
+I620
+sS'x'
+I921
+sg17
+I00
+s(dp98
+g15
+S'curve'
+p99
+sS'x'
+I845
+sg17
+I00
+sS'y'
+I639
+s(dp100
+S'y'
+I652
+sS'x'
+I839
+sg17
+I00
+s(dp101
+S'y'
+I670
+sS'x'
+I831
+sg17
+I00
+s(dp102
+g15
+S'curve'
+p103
+sS'x'
+I831
+sg17
+I01
+sS'y'
+I687
+s(dp104
+S'y'
+I694
+sS'x'
+I831
+sg17
+I00
+s(dp105
+S'y'
+I706
+sS'x'
+I833
+sg17
+I00
+s(dp106
+g15
+S'curve'
+p107
+sS'x'
+I845
+sg17
+I01
+sS'y'
+I706
+s(dp108
+g15
+S'line'
+p109
+sS'x'
+I1182
+sg17
+I01
+sS'y'
+I706
+s(dp110
+S'y'
+I706
+sS'x'
+I1198
+sg17
+I00
+s(dp111
+S'y'
+I680
+sS'x'
+I1196
+sg17
+I00
+s(dp112
+g15
+S'curve'
+p113
+sS'x'
+I1196
+sg17
+I01
+sS'y'
+I673
+s(dp114
+S'y'
+I600
+sS'x'
+I1196
+sg17
+I00
+s(dp115
+S'y'
+I626
+sS'x'
+I1071
+sg17
+I00
+s(dp116
+g15
+S'curve'
+p117
+sS'x'
+I1033
+sg17
+I01
+sS'y'
+I518
+s(dp118
+g15
+S'line'
+p119
+sS'x'
+I858
+sg17
+I00
+sS'y'
+I19
+s(dp120
+g15
+S'line'
+p121
+sS'x'
+I845
+sg17
+I01
+sS'y'
+I-8
+s(dp122
+S'y'
+I-8
+sS'x'
+I844
+sg17
+I00
+s(dp123
+S'y'
+I-10
+sS'x'
+I821
+sg17
+I00
+s(dp124
+g15
+S'curve'
+p125
+sS'x'
+I812
+sg17
+I01
+sS'y'
+I-10
+s(dp126
+S'y'
+I-10
+sS'x'
+I796
+sg17
+I00
+s(dp127
+S'y'
+I-18
+sS'x'
+I760
+sg17
+I00
+s(dp128
+g15
+S'curve'
+p129
+sS'x'
+I751
+sg17
+I01
+sS'y'
+I6
+s(dp130
+g15
+S'line'
+p131
+sS'x'
+I602
+sg17
+I00
+sS'y'
+I370
+s(dp132
+g15
+S'line'
+p133
+sS'x'
+I589
+sg17
+I00
+sS'y'
+I370
+s(dp134
+g15
+S'line'
+p135
+sS'x'
+I441
+sg17
+I01
+sS'y'
+I-8
+s(dp136
+S'y'
+I-8
+sS'x'
+I440
+sg17
+I00
+s(dp137
+S'y'
+I-10
+sS'x'
+I422
+sg17
+I00
+s(dp138
+g15
+S'curve'
+p139
+sS'x'
+I414
+sg17
+I01
+sS'y'
+I-10
+s(dp140
+S'y'
+I-10
+sS'x'
+I397
+sg17
+I00
+s(dp141
+S'y'
+I-16
+sS'x'
+I369
+sg17
+I00
+s(dp142
+g15
+S'curve'
+p143
+sS'x'
+I360
+sg17
+I01
+sS'y'
+I6
+s(dp144
+g15
+S'line'
+p145
+sS'x'
+I118
+sg17
+I00
+sS'y'
+I599
+s(dp146
+S'y'
+I633
+sS'x'
+I103
+sg17
+I00
+s(dp147
+S'y'
+I638
+sS'x'
+I10
+sg17
+I00
+stp148
+stp149
+sS'components'
+p150
+(tsS'anchors'
+p151
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+791 -16 m 0
+ 824 -16 862 7 878 52 c 2
+ 1080 632 l 1
+ 1192 632 l 1
+ 1192 722 l 1
+ 850 722 l 1
+ 850 632 l 1
+ 969 632 l 1
+ 820 160 l 1
+ 675 632 l 1
+ 777 632 l 1
+ 777 722 l 1
+ 440 722 l 1
+ 440 632 l 1
+ 544 632 l 1
+ 412 160 l 1
+ 270 632 l 1
+ 358 632 l 1
+ 358 722 l 1
+ 15 722 l 1
+ 15 632 l 1
+ 107 632 l 1
+ 302 52 l 1
+ 319 6 351 -16 383 -16 c 0
+ 416 -16 457 7 471 52 c 2
+ 587 429 l 1
+ 706 52 l 2
+ 721 6 759 -16 791 -16 c 0
+EndSplineSet
+EndChar
+
+StartChar: X
+Encoding: 88 88 27
+Width: 904
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'X'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I904
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+I454
+sS'smooth'
+p17
+I01
+sS'y'
+I48
+s(dp18
+S'y'
+I54
+sS'x'
+I454
+sg17
+I00
+s(dp19
+S'y'
+I76
+sS'x'
+I458
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+I459
+sg17
+I00
+sS'y'
+I81
+s(dp22
+S'y'
+I83
+sS'x'
+I485
+sg17
+I00
+s(dp23
+S'y'
+I78
+sS'x'
+I552
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+I552
+sg17
+I01
+sS'y'
+I120
+s(dp26
+S'y'
+I122
+sS'x'
+I552
+sg17
+I00
+s(dp27
+S'y'
+I131
+sS'x'
+I551
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+I551
+sg17
+I00
+sS'y'
+I133
+s(dp30
+S'y'
+I151
+sS'x'
+I538
+sg17
+I00
+s(dp31
+S'y'
+I234
+sS'x'
+I473
+sg17
+I00
+s(dp32
+g15
+S'curve'
+p33
+sS'x'
+I459
+sg17
+I01
+sS'y'
+I250
+s(dp34
+S'y'
+I255
+sS'x'
+I455
+sg17
+I00
+s(dp35
+S'y'
+I273
+sS'x'
+I437
+sg17
+I00
+s(dp36
+g15
+S'curve'
+p37
+sS'x'
+I433
+sg17
+I00
+sS'y'
+I276
+s(dp38
+S'y'
+I260
+sS'x'
+I417
+sg17
+I00
+s(dp39
+S'y'
+I178
+sS'x'
+I344
+sg17
+I00
+s(dp40
+g15
+S'curve'
+p41
+sS'x'
+I328
+sg17
+I01
+sS'y'
+I159
+s(dp42
+S'y'
+I146
+sS'x'
+I316
+sg17
+I00
+s(dp43
+S'y'
+I135
+sS'x'
+I314
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+I314
+sg17
+I01
+sS'y'
+I120
+s(dp46
+S'y'
+I59
+sS'x'
+I314
+sg17
+I00
+s(dp47
+S'y'
+I125
+sS'x'
+I431
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I431
+sg17
+I00
+sS'y'
+I16
+s(dp50
+g15
+S'line'
+p51
+sS'x'
+I39
+sg17
+I01
+sS'y'
+I16
+s(dp52
+S'y'
+I16
+sS'x'
+I21
+sg17
+I00
+s(dp53
+S'y'
+I53
+sS'x'
+I25
+sg17
+I00
+s(dp54
+g15
+S'curve'
+p55
+sS'x'
+I25
+sg17
+I01
+sS'y'
+I57
+s(dp56
+S'y'
+I101
+sS'x'
+I25
+sg17
+I00
+s(dp57
+S'y'
+I149
+sS'x'
+I185
+sg17
+I00
+s(dp58
+g15
+S'curve'
+p59
+sS'x'
+I222
+sg17
+I01
+sS'y'
+I185
+s(dp60
+S'y'
+I199
+sS'x'
+I237
+sg17
+I00
+s(dp61
+S'y'
+I290
+sS'x'
+I319
+sg17
+I00
+s(dp62
+g15
+S'curve'
+p63
+sS'x'
+I342
+sg17
+I01
+sS'y'
+I316
+s(dp64
+S'y'
+I327
+sS'x'
+I350
+sg17
+I00
+s(dp65
+S'y'
+I344
+sS'x'
+I368
+sg17
+I00
+s(dp66
+g15
+S'curve'
+p67
+sS'x'
+I368
+sg17
+I01
+sS'y'
+I362
+s(dp68
+g15
+S'line'
+p69
+sS'x'
+I368
+sg17
+I01
+sS'y'
+I368
+s(dp70
+S'y'
+I403
+sS'x'
+I341
+sg17
+I00
+s(dp71
+S'y'
+I567
+sS'x'
+I212
+sg17
+I00
+s(dp72
+g15
+S'curve'
+p73
+sS'x'
+I184
+sg17
+I01
+sS'y'
+I603
+s(dp74
+S'y'
+I615
+sS'x'
+I174
+sg17
+I00
+s(dp75
+S'y'
+I654
+sS'x'
+I52
+sg17
+I00
+s(dp76
+g15
+S'curve'
+p77
+sS'x'
+I52
+sg17
+I00
+sS'y'
+I654
+s(dp78
+g15
+S'line'
+p79
+sS'x'
+I52
+sg17
+I00
+sS'y'
+I720
+s(dp80
+g15
+S'line'
+p81
+sS'x'
+I433
+sg17
+I00
+sS'y'
+I720
+s(dp82
+g15
+S'line'
+p83
+sS'x'
+I433
+sg17
+I00
+sS'y'
+I643
+s(dp84
+S'y'
+I643
+sS'x'
+I417
+sg17
+I00
+s(dp85
+S'y'
+I643
+sS'x'
+I367
+sg17
+I00
+s(dp86
+g15
+S'curve'
+p87
+sS'x'
+I367
+sg17
+I01
+sS'y'
+I623
+s(dp88
+S'y'
+I611
+sS'x'
+I367
+sg17
+I00
+s(dp89
+S'y'
+I600
+sS'x'
+I374
+sg17
+I00
+s(dp90
+g15
+S'curve'
+p91
+sS'x'
+I381
+sg17
+I01
+sS'y'
+I589
+s(dp92
+S'y'
+I558
+sS'x'
+I403
+sg17
+I00
+s(dp93
+S'y'
+I485
+sS'x'
+I457
+sg17
+I00
+s(dp94
+g15
+S'curve'
+p95
+sS'x'
+I459
+sg17
+I01
+sS'y'
+I485
+s(dp96
+g15
+S'line'
+p97
+sS'x'
+I472
+sg17
+I01
+sS'y'
+I485
+s(dp98
+S'y'
+I485
+sS'x'
+I488
+sg17
+I00
+s(dp99
+S'y'
+I571
+sS'x'
+I565
+sg17
+I00
+s(dp100
+g15
+S'curve'
+p101
+sS'x'
+I565
+sg17
+I01
+sS'y'
+I602
+s(dp102
+S'y'
+I663
+sS'x'
+I565
+sg17
+I00
+s(dp103
+S'y'
+I607
+sS'x'
+I472
+sg17
+I00
+s(dp104
+g15
+S'curve'
+p105
+sS'x'
+I472
+sg17
+I01
+sS'y'
+I688
+s(dp106
+S'y'
+I696
+sS'x'
+I472
+sg17
+I00
+s(dp107
+S'y'
+I706
+sS'x'
+I474
+sg17
+I00
+s(dp108
+g15
+S'curve'
+p109
+sS'x'
+I485
+sg17
+I01
+sS'y'
+I706
+s(dp110
+g15
+S'line'
+p111
+sS'x'
+I852
+sg17
+I00
+sS'y'
+I706
+s(dp112
+g15
+S'line'
+p113
+sS'x'
+I852
+sg17
+I01
+sS'y'
+I642
+s(dp114
+S'y'
+I619
+sS'x'
+I852
+sg17
+I00
+s(dp115
+S'y'
+I605
+sS'x'
+I723
+sg17
+I00
+s(dp116
+g15
+S'curve'
+p117
+sS'x'
+I695
+sg17
+I01
+sS'y'
+I577
+s(dp118
+S'y'
+I530
+sS'x'
+I649
+sg17
+I00
+s(dp119
+S'y'
+I411
+sS'x'
+I538
+sg17
+I00
+s(dp120
+g15
+S'curve'
+p121
+sS'x'
+I538
+sg17
+I01
+sS'y'
+I407
+s(dp122
+g15
+S'line'
+p123
+sS'x'
+I538
+sg17
+I00
+sS'y'
+I381
+s(dp124
+g15
+S'line'
+p125
+sS'x'
+I761
+sg17
+I01
+sS'y'
+I107
+s(dp126
+S'y'
+I44
+sS'x'
+I812
+sg17
+I00
+s(dp127
+S'y'
+I119
+sS'x'
+I902
+sg17
+I00
+s(dp128
+g15
+S'curve'
+p129
+sS'x'
+I902
+sg17
+I00
+sS'y'
+I3
+s(dp130
+g15
+S'line'
+p131
+sS'x'
+I512
+sg17
+I01
+sS'y'
+I3
+s(dp132
+S'y'
+I3
+sS'x'
+I461
+sg17
+I00
+s(dp133
+S'y'
+I8
+sS'x'
+I454
+sg17
+I00
+stp134
+stp135
+sS'components'
+p136
+(tsS'anchors'
+p137
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+401 0 m 1
+ 401 87 l 1
+ 269 87 l 1
+ 435 279 l 1
+ 585 87 l 1
+ 474 87 l 1
+ 474 0 l 1
+ 890 0 l 1
+ 890 87 l 1
+ 771 87 l 1
+ 532 392 l 1
+ 739 632 l 1
+ 851 632 l 1
+ 851 722 l 1
+ 495 722 l 1
+ 495 632 l 1
+ 614 632 l 1
+ 473 468 l 1
+ 345 632 l 1
+ 433 632 l 1
+ 433 722 l 1
+ 57 722 l 1
+ 57 632 l 1
+ 159 632 l 1
+ 375 355 l 1
+ 144 87 l 1
+ 25 87 l 1
+ 25 0 l 1
+ 401 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: Y
+Encoding: 89 89 28
+Width: 943
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'Y'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I943
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+211.352 7 m 0
+ 211.352 11 208.352 56 225.352 56 c 2
+ 337.352 56 l 1
+ 365.352 91 l 1
+ 365.352 286 l 1
+ 156.352 607 l 2
+ 119.352 663 15.3516 616 15.3516 688 c 0
+ 15.3516 699 11.3516 728 30.3516 732 c 1
+ 41.3516 732 90.3516 733 100.352 733 c 0
+ 234.352 733 314.352 728 476.352 718 c 1
+ 476.352 642 l 1
+ 365.352 642 l 2
+ 355.352 642 350.352 622 350.352 613 c 0
+ 350.352 612 351.352 607 351.352 607 c 1
+ 490.352 384 l 2
+ 491.352 383 495.352 383 497.352 383 c 0
+ 528.352 383 644.352 549 644.352 600 c 0
+ 644.352 646 546.352 649 532.352 649 c 1
+ 532.352 718 l 1
+ 928.352 718 l 1
+ 928.352 599 849.352 638 769.352 579 c 1
+ 737.352 535 591.352 330 560.352 286 c 0
+ 529.352 242 531.352 184 531.352 133 c 0
+ 531.352 122 532.352 74 532.352 63 c 1
+ 560.352 39 642.352 36 658.352 35 c 1
+ 658.352 -34 l 1
+ 225.352 -34 l 2
+ 206.352 -34 211.352 2 211.352 7 c 0
+EndSplineSet
+EndChar
+
+StartChar: Z
+Encoding: 90 90 29
+Width: 756
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'Z'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I756
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+15 -48 m 1
+ 15 77 l 1
+ 531 607 l 1
+ 294 607 l 2
+ 291 607 271 597 266 593 c 0
+ 197 535 176 491 141 398 c 1
+ 95 398 l 1
+ 95 492 96 608 113 704 c 1
+ 138 708 255 718 280 718 c 0
+ 349 718 671 708 740 704 c 1
+ 740 698 741 669 741 662 c 0
+ 741 642 743 596 726 579 c 2
+ 224 77 l 1
+ 224 49 l 1
+ 461 49 l 2
+ 617 49 586 291 690 291 c 1
+ 690 255 686 85 684 49 c 0
+ 684 37 674 -21 670 -34 c 0
+ 669 -39 660 -48 656 -48 c 2
+ 15 -48 l 1
+EndSplineSet
+EndChar
+
+StartChar: a
+Encoding: 97 97 30
+Width: 645
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'a'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I645
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I217
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I217
+sg17
+I00
+sS'y'
+I67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I128
+sg17
+I00
+sS'y'
+I67
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I128
+sg17
+I01
+sS'y'
+I286
+s(dp24
+S'y'
+I377
+sS'x'
+I128
+sg17
+I00
+s(dp25
+S'y'
+I471
+sS'x'
+I166
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I263
+sg17
+I01
+sS'y'
+I471
+s(dp28
+S'y'
+I470
+sS'x'
+I318
+sg17
+I00
+s(dp29
+S'y'
+I435
+sS'x'
+I356
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I356
+sg17
+I01
+sS'y'
+I347
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I356
+sg17
+I00
+sS'y'
+I67
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I267
+sg17
+I00
+sS'y'
+I67
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I267
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I561
+sg17
+I00
+sS'y'
+I0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I561
+sg17
+I00
+sS'y'
+I67
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I461
+sg17
+I00
+sS'y'
+I67
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I461
+sg17
+I01
+sS'y'
+I348
+s(dp46
+S'y'
+I518
+sS'x'
+I461
+sg17
+I00
+s(dp47
+S'y'
+I538
+sS'x'
+I358
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I299
+sg17
+I01
+sS'y'
+I538
+s(dp50
+S'y'
+I538
+sS'x'
+I238
+sg17
+I00
+s(dp51
+S'y'
+I504
+sS'x'
+I159
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I125
+sg17
+I00
+sS'y'
+I426
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I125
+sg17
+I00
+sS'y'
+I524
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I-72
+sg17
+I00
+sS'y'
+I524
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I-72
+sg17
+I00
+sS'y'
+I454
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I23
+sg17
+I00
+sS'y'
+I454
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I23
+sg17
+I00
+sS'y'
+I67
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I-72
+sg17
+I00
+sS'y'
+I67
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I-72
+sg17
+I00
+sS'y'
+I0
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+500 -14 m 0
+ 574 -14 634 18 634 153 c 2
+ 634 216 l 1
+ 581 216 l 1
+ 581 143 l 2
+ 581 91 566 56 519 56 c 0
+ 474 56 461 105 461 138 c 2
+ 461 363 l 2
+ 461 495 375 538 273 538 c 0
+ 168.956739767 538 66 479.798789237 66 407 c 0
+ 66 284 211 305 211 389 c 0
+ 211 418 185 446 141 446 c 1
+ 164 472 207 487 252 487 c 0
+ 316 487 356 453 356 377 c 0
+ 356 252 49 271 49 107 c 0
+ 49 30.2679649448 101.048548226 -14 179 -14 c 4
+ 257 -13 331 41 365 98 c 1
+ 376 21 438 -14 500 -14 c 0
+210 57 m 0
+ 171 57 153 81 153 112 c 0
+ 153 197 259 189 356 285 c 1
+ 356 181 l 2
+ 356 126 276 57 210 57 c 0
+EndSplineSet
+EndChar
+
+StartChar: acute
+Encoding: 180 180 31
+Width: 620
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'acute'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I620
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+484 698 m 1
+ 435 648 212 576 212 576 c 1
+ 187 611 l 1
+ 276 687 419 788 419 788 c 1
+ 484 698 l 1
+EndSplineSet
+EndChar
+
+StartChar: ampersand
+Encoding: 38 38 32
+Width: 777
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'ampersand'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I777
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+15 359 m 0
+ 15 496 101 510 178 606 c 1
+ 168 738 189 877 350 877 c 0
+ 440 877 489 833 489 740 c 0
+ 489 661 438 614 367 579 c 1
+ 367 552 l 2
+ 367 549 414 455 434 418 c 0
+ 440 407 445 403 454 403 c 0
+ 493 403 530 479 530 517 c 0
+ 530 581 460 537 460 620 c 1
+ 762 620 l 1
+ 762 517 500 465 500 330 c 0
+ 500 286 574 256 609 256 c 0
+ 700 256 663 397 760 397 c 1
+ 760 258 690 160 552 160 c 0
+ 492 160 449 216 401 216 c 0
+ 340 216 279 160 210 160 c 0
+ 95 160 15 246 15 359 c 0
+137 405 m 0
+ 137 335 173 242 258 242 c 0
+ 272 242 370 267 353 296 c 2
+ 232 512 l 1
+ 232 512 224 513 221 513 c 0
+ 161 513 137 454 137 405 c 0
+285 741 m 0
+ 285 705 289 659 333 659 c 0
+ 382 659 408 694 408 741 c 0
+ 408 781 396 809 354 809 c 0
+ 306 809 285 789 285 741 c 0
+EndSplineSet
+EndChar
+
+StartChar: b
+Encoding: 98 98 33
+Width: 585
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'b'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I585
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I262
+sS'smooth'
+p17
+I00
+sS'y'
+I212
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I262
+sg17
+I00
+sS'y'
+I270
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I173
+sg17
+I00
+sS'y'
+I270
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I173
+sg17
+I01
+sS'y'
+I498
+s(dp24
+S'y'
+I589
+sS'x'
+I173
+sg17
+I00
+s(dp25
+S'y'
+I683
+sS'x'
+I211
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I308
+sg17
+I01
+sS'y'
+I683
+s(dp28
+S'y'
+I682
+sS'x'
+I363
+sg17
+I00
+s(dp29
+S'y'
+I647
+sS'x'
+I401
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I401
+sg17
+I01
+sS'y'
+I559
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I401
+sg17
+I00
+sS'y'
+I270
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I312
+sg17
+I00
+sS'y'
+I270
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I312
+sg17
+I00
+sS'y'
+I212
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I606
+sg17
+I00
+sS'y'
+I212
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I606
+sg17
+I00
+sS'y'
+I270
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I506
+sg17
+I00
+sS'y'
+I270
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I506
+sg17
+I01
+sS'y'
+I560
+s(dp46
+S'y'
+I730
+sS'x'
+I506
+sg17
+I00
+s(dp47
+S'y'
+I750
+sS'x'
+I403
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I344
+sg17
+I01
+sS'y'
+I750
+s(dp50
+S'y'
+I750
+sS'x'
+I283
+sg17
+I00
+s(dp51
+S'y'
+I716
+sS'x'
+I204
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I170
+sg17
+I00
+sS'y'
+I638
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I170
+sg17
+I00
+sS'y'
+I750
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I-27
+sg17
+I00
+sS'y'
+I736
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I-27
+sg17
+I00
+sS'y'
+I691
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I68
+sg17
+I00
+sS'y'
+I681
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I68
+sg17
+I00
+sS'y'
+I270
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I-27
+sg17
+I00
+sS'y'
+I270
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I-27
+sg17
+I00
+sS'y'
+I212
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+323 -13 m 4
+ 453 -13 543 106 543 262 c 4
+ 543 421.914369935 455.722929207 538 318 538 c 5
+ 260 534 206 509 173 460 c 5
+ 173 750 l 5
+ -33 750 l 5
+ -33 690 l 5
+ 68 690 l 5
+ 68 0 l 5
+ 113 0 l 5
+ 151 97 l 5
+ 185 17 258 -13 323 -13 c 4
+303 483 m 4
+ 397 483 431 363 431 256 c 4
+ 431 152 387 46 303 46 c 4
+ 222 46 173 153 173 285 c 4
+ 173 366 212 483 303 483 c 4
+EndSplineSet
+EndChar
+
+StartChar: c
+Encoding: 99 99 34
+Width: 560
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'c'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I560
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F484
+sS'x'
+F224
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F418
+sS'x'
+F167
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F159
+sg15
+I00
+sS'y'
+F322
+s(dp20
+g18
+S'line'
+p21
+sS'x'
+F425
+sg15
+I00
+sS'y'
+F322
+s(dp22
+S'y'
+F418
+sS'x'
+F422
+sg15
+I00
+s(dp23
+S'y'
+F484
+sS'x'
+F365
+sg15
+I00
+s(dp24
+g18
+S'curve'
+p25
+sS'x'
+F295
+sg15
+I01
+sS'y'
+F484
+stp26
+s(dp27
+g13
+((dp28
+S'y'
+F-13
+sS'x'
+F153
+sg15
+I00
+s(dp29
+S'y'
+F107
+sS'x'
+F40
+sg15
+I00
+s(dp30
+g18
+S'curve'
+p31
+sS'x'
+F40
+sg15
+I01
+sS'y'
+F261
+s(dp32
+S'y'
+F416
+sS'x'
+F40
+sg15
+I00
+s(dp33
+S'y'
+F539
+sS'x'
+F143
+sg15
+I00
+s(dp34
+g18
+S'curve'
+p35
+sS'x'
+F283
+sg15
+I01
+sS'y'
+F539
+s(dp36
+S'y'
+F539
+sS'x'
+F419
+sg15
+I00
+s(dp37
+S'y'
+F450
+sS'x'
+F529
+sg15
+I00
+s(dp38
+g18
+S'curve'
+p39
+sS'x'
+F532
+sg15
+I00
+sS'y'
+F269
+s(dp40
+g18
+S'line'
+p41
+sS'x'
+F156
+sg15
+I00
+sS'y'
+F269
+s(dp42
+S'y'
+F157
+sS'x'
+F155
+sg15
+I00
+s(dp43
+S'y'
+F47
+sS'x'
+F200
+sg15
+I00
+s(dp44
+g18
+S'curve'
+p45
+sS'x'
+F311
+sg15
+I01
+sS'y'
+F46
+s(dp46
+S'y'
+F45
+sS'x'
+F378
+sg15
+I00
+s(dp47
+S'y'
+F97
+sS'x'
+F441
+sg15
+I00
+s(dp48
+g18
+S'curve'
+p49
+sS'x'
+F465
+sg15
+I00
+sS'y'
+F181
+s(dp50
+S'y'
+F181
+sS'x'
+F465
+sg15
+I00
+s(dp51
+S'y'
+F163
+sS'x'
+F522
+sg15
+I00
+s(dp52
+g18
+S'curve'
+p53
+sS'x'
+F522
+sg15
+I00
+sS'y'
+F163
+s(dp54
+S'y'
+F57
+sS'x'
+F497
+sg15
+I00
+s(dp55
+S'y'
+F-14
+sS'x'
+F414
+sg15
+I00
+s(dp56
+g18
+S'curve'
+p57
+sS'x'
+F296
+sg15
+I01
+sS'y'
+F-14
+s(dp58
+S'y'
+F-14
+sS'x'
+F295
+sg15
+I00
+s(dp59
+S'y'
+F-14
+sS'x'
+F294
+sg15
+I00
+s(dp60
+g18
+S'curve'
+p61
+sS'x'
+F293
+sg15
+I01
+sS'y'
+F-14
+stp62
+stp63
+sS'components'
+p64
+(tsS'anchors'
+p65
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+39 252 m 0
+ 39 401 129 539 304 539 c 0
+ 396 539 506 485 511 367 c 1
+ 511 333.538032907 486.166133079 288 434 288 c 0
+ 393 288 358 315 359 359 c 0
+ 360 403 398 424 434 424 c 1
+ 414 456 374 483 321 483 c 0
+ 203.352432288 483 155 372 155 268 c 0
+ 155 143 213 60 316 60 c 0
+ 400.364824864 60 454.856137086 142.544434105 467 181 c 1
+ 522 163 l 1
+ 498 59 417 -14 292 -14 c 0
+ 152 -14 39 89 39 252 c 0
+EndSplineSet
+EndChar
+
+StartChar: ccedilla
+Encoding: 231 231 35
+Width: 557
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'ccedilla'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I557
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+Refer: 34 99 N 1 0 0 1 0 0 2
+Refer: 36 184 N 1 0 0 1 198 0 2
+EndChar
+
+StartChar: cedilla
+Encoding: 184 184 36
+Width: 165
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'cedilla'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I165
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+150 -135 m 2
+ 150 -198 18 -217 18 -217 c 1
+ 4 -182 l 1
+ 36 -176 75 -164 75 -150 c 0
+ 75 -129 29 -105.736653548 29 -82 c 0
+ 29 -47 72 0 131 0 c 0
+ 132 0 146 0 150 0 c 1
+ 150 -135 l 2
+EndSplineSet
+EndChar
+
+StartChar: d
+Encoding: 100 100 37
+Width: 649
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'd'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I649
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Back
+SplineSet
+667 763 m 0
+ 797 763 887 644 887 488 c 0
+ 887 328 800 212 662 212 c 1
+ 604 216 550 241 517 290 c 1
+ 517 60 l 1
+ 625 59.98046875 l 1
+ 625 0 l 1
+ 412 0 l 1
+ 412 60 l 1
+ 412 60 l 1
+ 412 750 l 1
+ 457 750 l 1
+ 495 653 l 1
+ 529 733 602 763 667 763 c 0
+647 267 m 0
+ 741 267 775 387 775 494 c 0
+ 775 598 731 704 647 704 c 0
+ 566 704 517 597 517 465 c 0
+ 517 384 556 267 647 267 c 0
+EndSplineSet
+Fore
+SplineSet
+262 -13 m 4
+ 132 -13 42 106 42 262 c 4
+ 42 422 129 538 267 538 c 5
+ 325 534 379 509 412 460 c 5
+ 412 690 l 5
+ 304 690.01953125 l 5
+ 304 750 l 5
+ 517 750 l 5
+ 517 690 l 5
+ 517 690 l 5
+ 517 60 l 5
+ 625 60 l 5
+ 625 0 l 5
+ 432 0 l 5
+ 412.43359375 59.6201171875 l 4
+ 374.018884911 7.49458315932 315.334287963 -13 262 -13 c 4
+282 483 m 4
+ 188 483 154 363 154 256 c 4
+ 154 152 198 46 282 46 c 4
+ 363 46 412 153 412 285 c 4
+ 412 366 373 483 282 483 c 4
+EndSplineSet
+EndChar
+
+StartChar: e
+Encoding: 101 101 38
+Width: 562
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'e'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+F562.07265213362371
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F-14
+sS'x'
+F151.07265213362365
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F89
+sS'x'
+F38.072652133623649
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F38.072652133623649
+sg15
+I01
+sS'y'
+F252
+s(dp20
+S'y'
+F401
+sS'x'
+F38.072652133623649
+sg15
+I00
+s(dp21
+S'y'
+F539
+sS'x'
+F128.07265213362365
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F303.07265213362365
+sg15
+I01
+sS'y'
+F539
+s(dp24
+S'y'
+F539
+sS'x'
+F395.07265213362365
+sg15
+I00
+s(dp25
+S'y'
+F487
+sS'x'
+F505.07265213362371
+sg15
+I00
+s(dp26
+g18
+S'curve'
+p27
+sS'x'
+F510.07265213362371
+sg15
+I01
+sS'y'
+F369
+s(dp28
+S'y'
+F368
+sS'x'
+F510.07265213362371
+sg15
+I00
+s(dp29
+S'y'
+F368
+sS'x'
+F510.07265213362371
+sg15
+I00
+s(dp30
+g18
+S'curve'
+p31
+sS'x'
+F510.07265213362371
+sg15
+I01
+sS'y'
+F367
+s(dp32
+S'y'
+F335
+sS'x'
+F510.07265213362371
+sg15
+I00
+s(dp33
+S'y'
+F296
+sS'x'
+F481.07265213362365
+sg15
+I00
+s(dp34
+g18
+S'curve'
+p35
+sS'x'
+F430.07265213362365
+sg15
+I01
+sS'y'
+F296
+s(dp36
+S'y'
+F296
+sS'x'
+F391.07265213362365
+sg15
+I00
+s(dp37
+S'y'
+F317
+sS'x'
+F364.07265213362365
+sg15
+I00
+s(dp38
+g18
+S'curve'
+p39
+sS'x'
+F361.07265213362365
+sg15
+I01
+sS'y'
+F353
+s(dp40
+S'y'
+F355
+sS'x'
+F361.07265213362365
+sg15
+I00
+s(dp41
+S'y'
+F357
+sS'x'
+F361.07265213362365
+sg15
+I00
+s(dp42
+g18
+S'curve'
+p43
+sS'x'
+F361.07265213362365
+sg15
+I01
+sS'y'
+F359
+s(dp44
+S'y'
+F403
+sS'x'
+F361.07265213362365
+sg15
+I00
+s(dp45
+S'y'
+F424
+sS'x'
+F403.07265213362365
+sg15
+I00
+s(dp46
+g18
+S'curve'
+p47
+sS'x'
+F429.07265213362365
+sg15
+I00
+sS'y'
+F424
+s(dp48
+S'y'
+F456
+sS'x'
+F409.07265213362365
+sg15
+I00
+s(dp49
+S'y'
+F483
+sS'x'
+F373.07265213362365
+sg15
+I00
+s(dp50
+g18
+S'curve'
+p51
+sS'x'
+F320.07265213362365
+sg15
+I01
+sS'y'
+F483
+s(dp52
+S'y'
+F483
+sS'x'
+F202.42508442205298
+sg15
+I00
+s(dp53
+S'y'
+F368.15773100916988
+sS'x'
+F154.07265213362365
+sg15
+I00
+s(dp54
+g18
+S'curve'
+p55
+sS'x'
+F154.07265213362365
+sg15
+I01
+sS'y'
+F264
+s(dp56
+S'y'
+F139
+sS'x'
+F154.07265213362365
+sg15
+I00
+s(dp57
+S'y'
+F60
+sS'x'
+F212.07265213362365
+sg15
+I00
+s(dp58
+g18
+S'curve'
+p59
+sS'x'
+F315.07265213362365
+sg15
+I01
+sS'y'
+F60
+s(dp60
+S'y'
+F60
+sS'x'
+F316.07265213362365
+sg15
+I00
+s(dp61
+S'y'
+F60
+sS'x'
+F316.07265213362365
+sg15
+I00
+s(dp62
+g18
+S'curve'
+p63
+sS'x'
+F317.07265213362365
+sg15
+I01
+sS'y'
+F60
+s(dp64
+S'y'
+F61
+sS'x'
+F400.07265213362365
+sg15
+I00
+s(dp65
+S'y'
+F143
+sS'x'
+F454.07265213362365
+sg15
+I00
+s(dp66
+g18
+S'curve'
+p67
+sS'x'
+F466.07265213362365
+sg15
+I00
+sS'y'
+F181
+s(dp68
+g18
+S'line'
+p69
+sS'x'
+F521.07265213362371
+sg15
+I00
+sS'y'
+F163
+s(dp70
+S'y'
+F59
+sS'x'
+F497.07265213362365
+sg15
+I00
+s(dp71
+S'y'
+F-14
+sS'x'
+F416.07265213362365
+sg15
+I00
+s(dp72
+g18
+S'curve'
+p73
+sS'x'
+F291.07265213362365
+sg15
+I01
+sS'y'
+F-14
+stp74
+stp75
+sS'components'
+p76
+(tsS'anchors'
+p77
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+42.8810882901 255.274419032 m 0
+ 42.8810882901 395.904399246 130.852757362 539 292.072652134 539 c 0
+ 424.072652134 539 528.072652134 445 531.072652134 269 c 1
+ 155.072652134 269 l 1
+ 155.072652134 268 155.072652134 267 155.072652134 265 c 0
+ 155.072652134 156.595972921 200.407113445 60 308.072652134 60 c 0
+ 371.072652134 60 442.072652134 100 464.072652134 181 c 1
+ 521.072652134 163 l 1
+ 496.072652134 57 413.072652134 -14 295.072652134 -14 c 0
+ 122.663487209 -14 42.8810882901 124.037231 42.8810882901 255.274419032 c 0
+158.072652134 322 m 1
+ 424.072652134 322 l 1
+ 421.072652134 418 365.072652134 481 295.072652134 481 c 0
+ 224.072652134 481 166.072652134 418 158.072652134 322 c 1
+EndSplineSet
+EndChar
+
+StartChar: eacute
+Encoding: 233 233 39
+Width: 588
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'eacute'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I588
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+Refer: 31 180 N 1 0 0 1 0 0 2
+Refer: 38 101 N 1 0 0 1 0 0 2
+EndChar
+
+StartChar: f
+Encoding: 102 102 40
+Width: 397
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'f'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I397
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I325
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I325
+sg17
+I00
+sS'y'
+I58
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I236
+sg17
+I00
+sS'y'
+I58
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I236
+sg17
+I01
+sS'y'
+I286
+s(dp24
+S'y'
+I377
+sS'x'
+I236
+sg17
+I00
+s(dp25
+S'y'
+I471
+sS'x'
+I274
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I371
+sg17
+I01
+sS'y'
+I471
+s(dp28
+S'y'
+I470
+sS'x'
+I426
+sg17
+I00
+s(dp29
+S'y'
+I435
+sS'x'
+I464
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I464
+sg17
+I01
+sS'y'
+I347
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I464
+sg17
+I00
+sS'y'
+I58
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I375
+sg17
+I00
+sS'y'
+I58
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I375
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I669
+sg17
+I00
+sS'y'
+I0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I669
+sg17
+I00
+sS'y'
+I58
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I569
+sg17
+I00
+sS'y'
+I58
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I569
+sg17
+I01
+sS'y'
+I348
+s(dp46
+S'y'
+I518
+sS'x'
+I569
+sg17
+I00
+s(dp47
+S'y'
+I538
+sS'x'
+I466
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I407
+sg17
+I01
+sS'y'
+I538
+s(dp50
+S'y'
+I538
+sS'x'
+I346
+sg17
+I00
+s(dp51
+S'y'
+I504
+sS'x'
+I267
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I233
+sg17
+I00
+sS'y'
+I426
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I233
+sg17
+I00
+sS'y'
+I538
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I36
+sg17
+I00
+sS'y'
+I524
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I36
+sg17
+I00
+sS'y'
+I479
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I131
+sg17
+I00
+sS'y'
+I469
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I131
+sg17
+I00
+sS'y'
+I58
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I36
+sg17
+I00
+sS'y'
+I58
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I36
+sg17
+I00
+sS'y'
+I0
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+131 465 m 1
+ 131 57 l 1
+ 36 57 l 1
+ 36 0 l 1
+ 351 0 l 1
+ 351 57 l 1
+ 236 57 l 1
+ 236 465 l 1
+ 352 465 l 1
+ 352 524 l 1
+ 233 524 l 1
+ 233 607 l 2
+ 233 697 273 732 330 732 c 0
+ 361 732 405 717 406 691 c 1
+ 379 691 343 669 343 632 c 0
+ 343 593 375 566 409 566 c 0
+ 449 566 482 597 482 650 c 0
+ 482 700 428 773 315 773 c 0
+ 178 773 131 690 131 524 c 1
+ 36 524 l 1
+ 36 465 l 1
+ 131 465 l 1
+EndSplineSet
+EndChar
+
+StartChar: g
+Encoding: 103 103 41
+Width: 609
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'g'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I609
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F-213
+sS'x'
+F92
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F-256
+sS'x'
+F183
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F278
+sg15
+I01
+sS'y'
+F-256
+s(dp20
+S'y'
+F-256
+sS'x'
+F453
+sg15
+I00
+s(dp21
+S'y'
+F-122
+sS'x'
+F517
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F517
+sg15
+I01
+sS'y'
+F25
+s(dp24
+g18
+S'line'
+p25
+sS'x'
+F517
+sg15
+I00
+sS'y'
+F466
+s(dp26
+g18
+S'line'
+p27
+sS'x'
+F587
+sg15
+I00
+sS'y'
+F466
+s(dp28
+g18
+S'line'
+p29
+sS'x'
+F587
+sg15
+I00
+sS'y'
+F524
+s(dp30
+g18
+S'line'
+p31
+sS'x'
+F424
+sg15
+I00
+sS'y'
+F524
+s(dp32
+S'y'
+F524
+sS'x'
+F424
+sg15
+I00
+s(dp33
+S'y'
+F465
+sS'x'
+F412
+sg15
+I00
+s(dp34
+g18
+S'curve'
+p35
+sS'x'
+F412
+sg15
+I00
+sS'y'
+F465
+s(dp36
+S'y'
+F516
+sS'x'
+F374
+sg15
+I00
+s(dp37
+S'y'
+F538
+sS'x'
+F315
+sg15
+I00
+s(dp38
+g18
+S'curve'
+p39
+sS'x'
+F262
+sg15
+I01
+sS'y'
+F538
+s(dp40
+S'y'
+F538
+sS'x'
+F132
+sg15
+I00
+s(dp41
+S'y'
+F419
+sS'x'
+F42
+sg15
+I00
+s(dp42
+g18
+S'curve'
+p43
+sS'x'
+F42
+sg15
+I01
+sS'y'
+F263
+s(dp44
+S'y'
+F112
+sS'x'
+F42
+sg15
+I00
+s(dp45
+S'y'
+F-13
+sS'x'
+F127
+sg15
+I00
+s(dp46
+g18
+S'curve'
+p47
+sS'x'
+F254
+sg15
+I01
+sS'y'
+F-13
+s(dp48
+g18
+S'line'
+p49
+sS'x'
+F267
+sg15
+I00
+sS'y'
+F-13
+s(dp50
+S'y'
+F-9
+sS'x'
+F325
+sg15
+I00
+s(dp51
+S'y'
+F16
+sS'x'
+F379
+sg15
+I00
+s(dp52
+g18
+S'curve'
+p53
+sS'x'
+F412
+sg15
+I00
+sS'y'
+F65
+s(dp54
+g18
+S'line'
+p55
+sS'x'
+F415
+sg15
+I00
+sS'y'
+F64
+s(dp56
+S'y'
+F64
+sS'x'
+F413
+sg15
+I00
+s(dp57
+S'y'
+F64
+sS'x'
+F412
+sg15
+I00
+s(dp58
+g18
+S'curve'
+p59
+sS'x'
+F412
+sg15
+I00
+sS'y'
+F64
+s(dp60
+g18
+S'line'
+p61
+sS'x'
+F412
+sg15
+I01
+sS'y'
+F11
+s(dp62
+S'y'
+F-124
+sS'x'
+F412
+sg15
+I00
+s(dp63
+S'y'
+F-201
+sS'x'
+F371
+sg15
+I00
+s(dp64
+g18
+S'curve'
+p65
+sS'x'
+F266
+sg15
+I01
+sS'y'
+F-201
+s(dp66
+S'y'
+F-201
+sS'x'
+F232
+sg15
+I00
+s(dp67
+S'y'
+F-190
+sS'x'
+F207
+sg15
+I00
+s(dp68
+g18
+S'curve'
+p69
+sS'x'
+F180
+sg15
+I00
+sS'y'
+F-175
+s(dp70
+S'y'
+F-175
+sS'x'
+F206
+sg15
+I00
+s(dp71
+S'y'
+F-158
+sS'x'
+F242
+sg15
+I00
+s(dp72
+g18
+S'curve'
+p73
+sS'x'
+F242
+sg15
+I01
+sS'y'
+F-116
+s(dp74
+S'y'
+F-115
+sS'x'
+F242
+sg15
+I00
+s(dp75
+S'y'
+F-115
+sS'x'
+F242
+sg15
+I00
+s(dp76
+g18
+S'curve'
+p77
+sS'x'
+F242
+sg15
+I01
+sS'y'
+F-114
+s(dp78
+S'y'
+F-72
+sS'x'
+F241
+sg15
+I00
+s(dp79
+S'y'
+F-51
+sS'x'
+F209
+sg15
+I00
+s(dp80
+g18
+S'curve'
+p81
+sS'x'
+F175
+sg15
+I01
+sS'y'
+F-51
+s(dp82
+S'y'
+F-51
+sS'x'
+F136
+sg15
+I00
+s(dp83
+S'y'
+F-77
+sS'x'
+F98
+sg15
+I00
+s(dp84
+g18
+S'curve'
+p85
+sS'x'
+F96
+sg15
+I01
+sS'y'
+F-128
+stp86
+s(dp87
+g13
+((dp88
+S'y'
+F159
+sS'x'
+F412
+sg15
+I00
+s(dp89
+S'y'
+F42
+sS'x'
+F373
+sg15
+I00
+s(dp90
+g18
+S'curve'
+p91
+sS'x'
+F282
+sg15
+I01
+sS'y'
+F42
+s(dp92
+S'y'
+F42
+sS'x'
+F188
+sg15
+I00
+s(dp93
+S'y'
+F162
+sS'x'
+F154
+sg15
+I00
+s(dp94
+g18
+S'curve'
+p95
+sS'x'
+F154
+sg15
+I01
+sS'y'
+F269
+s(dp96
+S'y'
+F373
+sS'x'
+F154
+sg15
+I00
+s(dp97
+S'y'
+F479
+sS'x'
+F198
+sg15
+I00
+s(dp98
+g18
+S'curve'
+p99
+sS'x'
+F282
+sg15
+I01
+sS'y'
+F479
+s(dp100
+S'y'
+F479
+sS'x'
+F363
+sg15
+I00
+s(dp101
+S'y'
+F372
+sS'x'
+F412
+sg15
+I00
+s(dp102
+g18
+S'curve'
+p103
+sS'x'
+F412
+sg15
+I01
+sS'y'
+F240
+stp104
+stp105
+sS'components'
+p106
+(tsS'anchors'
+p107
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+280 47 m 0
+ 186 47 154 162 154 269 c 0
+ 154 373 198 473 282 473 c 0
+ 363 473 412 382 412 250 c 0
+ 412 150 371 47 280 47 c 0
+175 -47 m 0
+ 134.280286498 -47 92.8767137847 -76.8301724707 92.8767137847 -131.209188833 c 0
+ 92.8767137847 -212.918163461 184.958762887 -258 278 -258 c 0
+ 453 -258 517 -122 517 25 c 2
+ 517 466 l 1
+ 587 466 l 1
+ 587 524 l 1
+ 424 524 l 1
+ 412 440 l 1
+ 390 511 315 538 262 538 c 0
+ 118.987621564 538 46.7491570346 398.352242969 46.7491570346 259.663146454 c 0
+ 46.7491570346 122.865226217 117.030954133 -13 259 -13 c 0
+ 261.092569624 -13.0573306746 263.165418411 -13.0859017946 265.218687687 -13.0859017946 c 0
+ 334.794412429 -13.0859017946 381.888625457 19.7199202393 412 78 c 1
+ 412 11 l 2
+ 412 -124 371 -203 266 -203 c 0
+ 232 -203 204 -195 180 -175 c 1
+ 206 -175 245 -161 245 -119 c 0
+ 245 -71 210 -47 175 -47 c 0
+EndSplineSet
+EndChar
+
+StartChar: h
+Encoding: 104 104 42
+Width: 693
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'h'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I693
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I337
+sS'smooth'
+p17
+I00
+sS'y'
+I212
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I337
+sg17
+I00
+sS'y'
+I270
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I248
+sg17
+I00
+sS'y'
+I270
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I248
+sg17
+I01
+sS'y'
+I498
+s(dp24
+S'y'
+I589
+sS'x'
+I248
+sg17
+I00
+s(dp25
+S'y'
+I683
+sS'x'
+I286
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I383
+sg17
+I01
+sS'y'
+I683
+s(dp28
+S'y'
+I682
+sS'x'
+I438
+sg17
+I00
+s(dp29
+S'y'
+I647
+sS'x'
+I476
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I476
+sg17
+I01
+sS'y'
+I559
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I476
+sg17
+I00
+sS'y'
+I270
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I387
+sg17
+I00
+sS'y'
+I270
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I387
+sg17
+I00
+sS'y'
+I212
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I681
+sg17
+I00
+sS'y'
+I212
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I681
+sg17
+I00
+sS'y'
+I270
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I581
+sg17
+I00
+sS'y'
+I270
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I581
+sg17
+I01
+sS'y'
+I560
+s(dp46
+S'y'
+I730
+sS'x'
+I581
+sg17
+I00
+s(dp47
+S'y'
+I750
+sS'x'
+I478
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I419
+sg17
+I01
+sS'y'
+I750
+s(dp50
+S'y'
+I750
+sS'x'
+I358
+sg17
+I00
+s(dp51
+S'y'
+I716
+sS'x'
+I279
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I245
+sg17
+I00
+sS'y'
+I638
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I245
+sg17
+I00
+sS'y'
+I750
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I48
+sg17
+I00
+sS'y'
+I736
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I48
+sg17
+I00
+sS'y'
+I691
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I143
+sg17
+I00
+sS'y'
+I681
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I143
+sg17
+I00
+sS'y'
+I270
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I48
+sg17
+I00
+sS'y'
+I270
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I48
+sg17
+I00
+sS'y'
+I212
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+581 353 m 2
+ 581 521 475 538 419 538 c 0
+ 361 538 287 511 248 431 c 1
+ 248 750 l 1
+ 47 736 l 1
+ 47 691 l 1
+ 143 680 l 1
+ 143 57 l 1
+ 39 57 l 1
+ 39 0 l 1
+ 343 0 l 1
+ 343 57 l 1
+ 248 57 l 1
+ 248 292 l 2
+ 248 391.84826661 331.946008744 468.974686117 397.964192364 468.974686117 c 0
+ 440.746528153 468.974686117 476 436.585128835 476 357 c 2
+ 476 57 l 1
+ 381 57 l 1
+ 381 0 l 1
+ 686 0 l 1
+ 686 57 l 1
+ 581 57 l 1
+ 581 353 l 2
+EndSplineSet
+EndChar
+
+StartChar: i
+Encoding: 105 105 43
+Width: 328
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'i'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I328
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I314
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I314
+sg17
+I00
+sS'y'
+I58
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I225
+sg17
+I00
+sS'y'
+I58
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I225
+sg17
+I01
+sS'y'
+I286
+s(dp24
+S'y'
+I377
+sS'x'
+I225
+sg17
+I00
+s(dp25
+S'y'
+I471
+sS'x'
+I263
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I360
+sg17
+I01
+sS'y'
+I471
+s(dp28
+S'y'
+I470
+sS'x'
+I415
+sg17
+I00
+s(dp29
+S'y'
+I435
+sS'x'
+I453
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I453
+sg17
+I01
+sS'y'
+I347
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I453
+sg17
+I00
+sS'y'
+I58
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I364
+sg17
+I00
+sS'y'
+I58
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I364
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I658
+sg17
+I00
+sS'y'
+I0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I658
+sg17
+I00
+sS'y'
+I58
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I558
+sg17
+I00
+sS'y'
+I58
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I558
+sg17
+I01
+sS'y'
+I348
+s(dp46
+S'y'
+I518
+sS'x'
+I558
+sg17
+I00
+s(dp47
+S'y'
+I538
+sS'x'
+I455
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I396
+sg17
+I01
+sS'y'
+I538
+s(dp50
+S'y'
+I538
+sS'x'
+I335
+sg17
+I00
+s(dp51
+S'y'
+I504
+sS'x'
+I256
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I222
+sg17
+I00
+sS'y'
+I426
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I222
+sg17
+I00
+sS'y'
+I538
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I25
+sg17
+I00
+sS'y'
+I524
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I25
+sg17
+I00
+sS'y'
+I479
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I120
+sg17
+I00
+sS'y'
+I469
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I120
+sg17
+I00
+sS'y'
+I58
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I25
+sg17
+I00
+sS'y'
+I58
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I25
+sg17
+I00
+sS'y'
+I0
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+225 524 m 1
+ 225 57 l 1
+ 321 57 l 1
+ 321 0 l 1
+ 26 0 l 1
+ 26 57 l 1
+ 120 57 l 1
+ 120 469 l 1
+ 25 469 l 1
+ 25 524 l 1
+ 225 524 l 1
+91 688 m 0
+ 91 728 123 761 163 761 c 0
+ 202 761 236 728 236 688 c 0
+ 236 649 202 616 163 616 c 0
+ 123 616 91 649 91 688 c 0
+EndSplineSet
+EndChar
+
+StartChar: j
+Encoding: 106 106 44
+Width: 340
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'j'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I340
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I250
+sS'smooth'
+p17
+I00
+sS'y'
+I524
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I250
+sg17
+I00
+sS'y'
+I67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I346
+sg17
+I00
+sS'y'
+I67
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I346
+sg17
+I00
+sS'y'
+I0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+I51
+sg17
+I00
+sS'y'
+I0
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+I51
+sg17
+I00
+sS'y'
+I67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+I145
+sg17
+I00
+sS'y'
+I67
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+I145
+sg17
+I00
+sS'y'
+I454
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I51
+sg17
+I00
+sS'y'
+I454
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I51
+sg17
+I00
+sS'y'
+I524
+stp36
+stp37
+sS'components'
+p38
+(tsS'anchors'
+p39
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+111 688 m 0
+ 111 728 143 761 183 761 c 0
+ 222 761 256 728 256 688 c 0
+ 256 649 222 616 183 616 c 0
+ 143 616 111 649 111 688 c 0
+78 -190 m 0
+ 80 -190 81 -190 82 -190 c 0
+ 178 -189 250 -126 250 -4 c 2
+ 250 524 l 1
+ 26 524 l 1
+ 26 454 l 1
+ 145 454 l 1
+ 145 -19 l 2
+ 145 -119 99 -137 65 -137 c 0
+ 46 -137 30 -131 30 -131 c 1
+ 53 -121 58 -91 58 -69 c 0
+ 58 -33 30 -15 1 -15 c 0
+ -33 -15 -70 -38 -70 -84 c 0
+ -70 -149 -20 -190 78 -190 c 0
+EndSplineSet
+EndChar
+
+StartChar: k
+Encoding: 107 107 45
+Width: 658
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'k'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I658
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F229
+sS'smooth'
+p17
+I00
+sS'y'
+F750
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F229
+sg17
+I00
+sS'y'
+F67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F334
+sg17
+I00
+sS'y'
+F67
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F334
+sg17
+I00
+sS'y'
+F0
+s(dp24
+g15
+S'line'
+p25
+sS'x'
+F15
+sg17
+I00
+sS'y'
+F0
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+F15
+sg17
+I00
+sS'y'
+F67
+s(dp28
+g15
+S'line'
+p29
+sS'x'
+F124
+sg17
+I00
+sS'y'
+F67
+s(dp30
+g15
+S'line'
+p31
+sS'x'
+F124
+sg17
+I00
+sS'y'
+F680
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F15
+sg17
+I00
+sS'y'
+F680
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F15
+sg17
+I00
+sS'y'
+F750
+stp36
+stp37
+sS'components'
+p38
+(tsS'anchors'
+p39
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+380 314 m 1
+ 433.36093493 240.628714471 504.078709885 68.0548204159 614.203994411 68.0548204159 c 4
+ 625.714555766 68.0548204159 638.739130435 69.652173913 654 77 c 1
+ 674 11 l 1
+ 639.166666667 -9.16666666667 608.534722222 -10.0069444444 581.333912037 -10.0069444444 c 0
+ 508.201370816 -10.0069444444 465.428911031 33.3566334539 423 97 c 2
+ 311 261 l 1
+ 229 188 l 1
+ 229 57 l 1
+ 312 57 l 1
+ 312 0 l 1
+ 25 0 l 1
+ 25 57 l 1
+ 124 57 l 1
+ 124 690 l 1
+ 25 690 l 1
+ 25 750 l 1
+ 229 750 l 1
+ 229 279 l 1
+ 419 457 l 1
+ 336 457 l 1
+ 336 524 l 1
+ 629 524 l 1
+ 629 457 l 1
+ 536 457 l 1
+ 380 314 l 1
+EndSplineSet
+EndChar
+
+StartChar: l
+Encoding: 108 108 46
+Width: 370
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'l'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I370
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I330
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I330
+sg17
+I00
+sS'y'
+I58
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I241
+sg17
+I00
+sS'y'
+I58
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I241
+sg17
+I01
+sS'y'
+I286
+s(dp24
+S'y'
+I377
+sS'x'
+I241
+sg17
+I00
+s(dp25
+S'y'
+I471
+sS'x'
+I279
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I376
+sg17
+I01
+sS'y'
+I471
+s(dp28
+S'y'
+I470
+sS'x'
+I431
+sg17
+I00
+s(dp29
+S'y'
+I435
+sS'x'
+I469
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I469
+sg17
+I01
+sS'y'
+I347
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I469
+sg17
+I00
+sS'y'
+I58
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I380
+sg17
+I00
+sS'y'
+I58
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I380
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I674
+sg17
+I00
+sS'y'
+I0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I674
+sg17
+I00
+sS'y'
+I58
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I574
+sg17
+I00
+sS'y'
+I58
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I574
+sg17
+I01
+sS'y'
+I348
+s(dp46
+S'y'
+I518
+sS'x'
+I574
+sg17
+I00
+s(dp47
+S'y'
+I538
+sS'x'
+I471
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I412
+sg17
+I01
+sS'y'
+I538
+s(dp50
+S'y'
+I538
+sS'x'
+I351
+sg17
+I00
+s(dp51
+S'y'
+I504
+sS'x'
+I272
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I238
+sg17
+I00
+sS'y'
+I426
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I238
+sg17
+I00
+sS'y'
+I538
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I524
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I479
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I136
+sg17
+I00
+sS'y'
+I469
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I136
+sg17
+I00
+sS'y'
+I58
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I58
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I41
+sg17
+I00
+sS'y'
+I0
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+241 750 m 1
+ 241 57 l 1
+ 346 57 l 1
+ 346 0 l 1
+ 27 0 l 1
+ 27 57 l 1
+ 136 57 l 1
+ 136 690 l 1
+ 27 690 l 1
+ 27 750 l 1
+ 241 750 l 1
+EndSplineSet
+EndChar
+
+StartChar: m
+Encoding: 109 109 47
+Width: 943
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'm'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I943
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+F303
+sS'smooth'
+p17
+I00
+sS'y'
+F0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+F303
+sg17
+I00
+sS'y'
+F87
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+F247
+sg17
+I00
+sS'y'
+F87
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+F247
+sg17
+I01
+sS'y'
+F262
+s(dp24
+S'y'
+F354
+sS'x'
+F247
+sg17
+I00
+s(dp25
+S'y'
+F451
+sS'x'
+F253
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+F345
+sg17
+I01
+sS'y'
+F451
+s(dp28
+S'y'
+F451
+sS'x'
+F381
+sg17
+I00
+s(dp29
+S'y'
+F430
+sS'x'
+F425
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+F425
+sg17
+I01
+sS'y'
+F371
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+F425
+sg17
+I00
+sS'y'
+F87
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+F356
+sg17
+I00
+sS'y'
+F87
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+F356
+sg17
+I00
+sS'y'
+F0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+F604
+sg17
+I00
+sS'y'
+F0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+F604
+sg17
+I00
+sS'y'
+F87
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+F550
+sg17
+I00
+sS'y'
+F87
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+F550
+sg17
+I01
+sS'y'
+F353
+s(dp46
+S'y'
+F406
+sS'x'
+F550
+sg17
+I00
+s(dp47
+S'y'
+F451
+sS'x'
+F578
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+F640
+sg17
+I01
+sS'y'
+F451
+s(dp50
+S'y'
+F451
+sS'x'
+F676
+sg17
+I00
+s(dp51
+S'y'
+F430
+sS'x'
+F720
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+F720
+sg17
+I01
+sS'y'
+F371
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+F720
+sg17
+I00
+sS'y'
+F87
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+F655
+sg17
+I00
+sS'y'
+F87
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+F655
+sg17
+I00
+sS'y'
+F0
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+F924
+sg17
+I00
+sS'y'
+F0
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+F924
+sg17
+I00
+sS'y'
+F87
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+F845
+sg17
+I00
+sS'y'
+F87
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+F845
+sg17
+I01
+sS'y'
+F353
+s(dp68
+S'y'
+F521
+sS'x'
+F845
+sg17
+I00
+s(dp69
+S'y'
+F538
+sS'x'
+F736
+sg17
+I00
+s(dp70
+g15
+S'curve'
+p71
+sS'x'
+F686
+sg17
+I01
+sS'y'
+F538
+s(dp72
+S'y'
+F538
+sS'x'
+F622
+sg17
+I00
+s(dp73
+S'y'
+F512
+sS'x'
+F570
+sg17
+I00
+s(dp74
+g15
+S'curve'
+p75
+sS'x'
+F535
+sg17
+I00
+sS'y'
+F433
+s(dp76
+S'y'
+F532
+sS'x'
+F508
+sg17
+I00
+s(dp77
+S'y'
+F538
+sS'x'
+F438
+sg17
+I00
+s(dp78
+g15
+S'curve'
+p79
+sS'x'
+F397
+sg17
+I01
+sS'y'
+F538
+s(dp80
+S'y'
+F538
+sS'x'
+F336
+sg17
+I00
+s(dp81
+S'y'
+F500
+sS'x'
+F273
+sg17
+I00
+s(dp82
+g15
+S'curve'
+p83
+sS'x'
+F244
+sg17
+I00
+sS'y'
+F433
+s(dp84
+g15
+S'line'
+p85
+sS'x'
+F244
+sg17
+I00
+sS'y'
+F524
+s(dp86
+g15
+S'line'
+p87
+sS'x'
+F18
+sg17
+I00
+sS'y'
+F524
+s(dp88
+g15
+S'line'
+p89
+sS'x'
+F18
+sg17
+I00
+sS'y'
+F434
+s(dp90
+g15
+S'line'
+p91
+sS'x'
+F122
+sg17
+I00
+sS'y'
+F434
+s(dp92
+g15
+S'line'
+p93
+sS'x'
+F122
+sg17
+I00
+sS'y'
+F87
+s(dp94
+g15
+S'line'
+p95
+sS'x'
+F18
+sg17
+I00
+sS'y'
+F87
+s(dp96
+g15
+S'line'
+p97
+sS'x'
+F18
+sg17
+I00
+sS'y'
+F0
+stp98
+stp99
+sS'components'
+p100
+(tsS'anchors'
+p101
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+309 67 m 1
+ 225 67 l 1
+ 225 286 l 2
+ 225 377 243 471 340 471 c 1
+ 395 470 433 435 433 347 c 2
+ 433 67 l 1
+ 349 67 l 1
+ 349 0 l 1
+ 622 0 l 1
+ 622 67 l 1
+ 538 67 l 1
+ 538 357 l 1
+ 548 420 577 471 648 471 c 1
+ 703 470 741 435 741 347 c 2
+ 741 67 l 1
+ 662 67 l 1
+ 662 0 l 1
+ 936 0 l 1
+ 936 67 l 1
+ 846 67 l 1
+ 846 348 l 2
+ 846 518 743 538 684 538 c 0
+ 624 538 562 511 528 434 c 1
+ 501 530 428 538 380 538 c 0
+ 319 538 256 510 222 432 c 1
+ 222 524 l 1
+ 25 524 l 1
+ 25 454 l 1
+ 120 454 l 1
+ 120 67 l 1
+ 25 67 l 1
+ 25 0 l 1
+ 309 0 l 1
+ 309 67 l 1
+EndSplineSet
+EndChar
+
+StartChar: n
+Encoding: 110 110 48
+Width: 665
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'n'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I665
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I36
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I36
+sg17
+I00
+sS'y'
+I48
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I84
+sg17
+I01
+sS'y'
+I50
+s(dp22
+S'y'
+I51
+sS'x'
+I116
+sg17
+I00
+s(dp23
+S'y'
+I58
+sS'x'
+I121
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+I121
+sg17
+I01
+sS'y'
+I92
+s(dp26
+g15
+S'line'
+p27
+sS'x'
+I121
+sg17
+I01
+sS'y'
+I437
+s(dp28
+S'y'
+I473
+sS'x'
+I121
+sg17
+I00
+s(dp29
+S'y'
+I482
+sS'x'
+I110
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I59
+sg17
+I01
+sS'y'
+I482
+s(dp32
+S'y'
+I482
+sS'x'
+I53
+sg17
+I00
+s(dp33
+S'y'
+I481
+sS'x'
+I34
+sg17
+I00
+s(dp34
+g15
+S'curve'
+p35
+sS'x'
+I25
+sg17
+I00
+sS'y'
+I481
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I25
+sg17
+I00
+sS'y'
+I526
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I220
+sg17
+I00
+sS'y'
+I539
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I220
+sg17
+I00
+sS'y'
+I430
+s(dp42
+S'y'
+I506
+sS'x'
+I271
+sg17
+I00
+s(dp43
+S'y'
+I539
+sS'x'
+I327
+sg17
+I00
+s(dp44
+g15
+S'curve'
+p45
+sS'x'
+I405
+sg17
+I01
+sS'y'
+I539
+s(dp46
+S'y'
+I539
+sS'x'
+I515
+sg17
+I00
+s(dp47
+S'y'
+I474
+sS'x'
+I577
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I577
+sg17
+I01
+sS'y'
+I358
+s(dp50
+g15
+S'line'
+p51
+sS'x'
+I577
+sg17
+I01
+sS'y'
+I92
+s(dp52
+S'y'
+I59
+sS'x'
+I577
+sg17
+I00
+s(dp53
+S'y'
+I51
+sS'x'
+I584
+sg17
+I00
+s(dp54
+g15
+S'curve'
+p55
+sS'x'
+I615
+sg17
+I01
+sS'y'
+I50
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I663
+sg17
+I00
+sS'y'
+I48
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I663
+sg17
+I00
+sS'y'
+I0
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I389
+sg17
+I00
+sS'y'
+I0
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I389
+sg17
+I00
+sS'y'
+I48
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I437
+sg17
+I01
+sS'y'
+I50
+s(dp66
+S'y'
+I51
+sS'x'
+I468
+sg17
+I00
+s(dp67
+S'y'
+I59
+sS'x'
+I475
+sg17
+I00
+s(dp68
+g15
+S'curve'
+p69
+sS'x'
+I475
+sg17
+I01
+sS'y'
+I92
+s(dp70
+g15
+S'line'
+p71
+sS'x'
+I475
+sg17
+I01
+sS'y'
+I362
+s(dp72
+S'y'
+I431
+sS'x'
+I475
+sg17
+I00
+s(dp73
+S'y'
+I469
+sS'x'
+I437
+sg17
+I00
+s(dp74
+g15
+S'curve'
+p75
+sS'x'
+I370
+sg17
+I01
+sS'y'
+I469
+s(dp76
+S'y'
+I469
+sS'x'
+I274
+sg17
+I00
+s(dp77
+S'y'
+I405
+sS'x'
+I225
+sg17
+I00
+s(dp78
+g15
+S'curve'
+p79
+sS'x'
+I225
+sg17
+I01
+sS'y'
+I279
+s(dp80
+g15
+S'line'
+p81
+sS'x'
+I225
+sg17
+I01
+sS'y'
+I92
+s(dp82
+S'y'
+I57
+sS'x'
+I225
+sg17
+I00
+s(dp83
+S'y'
+I51
+sS'x'
+I232
+sg17
+I00
+s(dp84
+g15
+S'curve'
+p85
+sS'x'
+I263
+sg17
+I01
+sS'y'
+I50
+s(dp86
+g15
+S'line'
+p87
+sS'x'
+I310
+sg17
+I00
+sS'y'
+I48
+s(dp88
+g15
+S'line'
+p89
+sS'x'
+I310
+sg17
+I00
+sS'y'
+I0
+stp90
+stp91
+sS'components'
+p92
+(tsS'anchors'
+p93
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+314 0 m 1
+ 314 58 l 1
+ 225 58 l 1
+ 225 286 l 2
+ 225 377 263 471 360 471 c 1
+ 415 470 453 435 453 347 c 2
+ 453 58 l 1
+ 364 58 l 1
+ 364 0 l 1
+ 658 0 l 1
+ 658 58 l 1
+ 558 58 l 1
+ 558 348 l 2
+ 558 518 455 538 396 538 c 0
+ 335 538 256 504 222 426 c 1
+ 222 538 l 1
+ 25 524 l 1
+ 25 469 l 1
+ 120 469 l 1
+ 120 58 l 1
+ 25 58 l 1
+ 25 0 l 1
+ 314 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: o
+Encoding: 111 111 49
+Width: 582
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'o'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+F582
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'curve'
+p16
+sS'x'
+F34
+sS'smooth'
+p17
+I01
+sS'y'
+I260
+s(dp18
+S'y'
+I427
+sS'x'
+F34
+sg17
+I00
+s(dp19
+S'y'
+I538
+sS'x'
+F135
+sg17
+I00
+s(dp20
+g15
+S'curve'
+p21
+sS'x'
+F285
+sg17
+I01
+sS'y'
+I538
+s(dp22
+S'y'
+I538
+sS'x'
+F435
+sg17
+I00
+s(dp23
+S'y'
+I427
+sS'x'
+F535
+sg17
+I00
+s(dp24
+g15
+S'curve'
+p25
+sS'x'
+F535
+sg17
+I01
+sS'y'
+I260
+s(dp26
+S'y'
+I96
+sS'x'
+F535
+sg17
+I00
+s(dp27
+S'y'
+I-15
+sS'x'
+F434
+sg17
+I00
+s(dp28
+g15
+S'curve'
+p29
+sS'x'
+F285
+sg17
+I01
+sS'y'
+I-15
+s(dp30
+S'y'
+I-15
+sS'x'
+F135
+sg17
+I00
+s(dp31
+S'y'
+I96
+sS'x'
+F34
+sg17
+I00
+stp32
+s(dp33
+g13
+((dp34
+g15
+S'curve'
+p35
+sS'x'
+F149
+sg17
+I01
+sS'y'
+I260
+s(dp36
+S'y'
+I100
+sS'x'
+F149
+sg17
+I00
+s(dp37
+S'y'
+I31
+sS'x'
+F190
+sg17
+I00
+s(dp38
+g15
+S'curve'
+p39
+sS'x'
+F284
+sg17
+I01
+sS'y'
+I31
+s(dp40
+S'y'
+I31
+sS'x'
+F381
+sg17
+I00
+s(dp41
+S'y'
+I98
+sS'x'
+F421
+sg17
+I00
+s(dp42
+g15
+S'curve'
+p43
+sS'x'
+F421
+sg17
+I01
+sS'y'
+I260
+s(dp44
+S'y'
+I422
+sS'x'
+F421
+sg17
+I00
+s(dp45
+S'y'
+I492
+sS'x'
+F380
+sg17
+I00
+s(dp46
+g15
+S'curve'
+p47
+sS'x'
+F285
+sg17
+I01
+sS'y'
+I492
+s(dp48
+S'y'
+I492
+sS'x'
+F190
+sg17
+I00
+s(dp49
+S'y'
+I422
+sS'x'
+F149
+sg17
+I00
+stp50
+stp51
+sS'components'
+p52
+(tsS'anchors'
+p53
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+292 -13 m 0
+ 132 -13 39 106 39 262 c 0
+ 39 418 131 538 291 538 c 0
+ 451 538 543 418 543 262 c 0
+ 543 108 451 -13 292 -13 c 0
+291 480 m 0
+ 191 480 151 383 151 256 c 0
+ 151 132 202 49 292 49 c 0
+ 381 49 431 134 431 256 c 0
+ 431 383 391 480 291 480 c 0
+EndSplineSet
+EndChar
+
+StartChar: p
+Encoding: 112 112 50
+Width: 615
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'p'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I615
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Back
+SplineSet
+385 538 m 4
+ 515 538 605 419 605 263 c 4
+ 605 103 518 -13 380 -13 c 5
+ 322 -9 268 16 235 65 c 5
+ 235 -136 l 5
+ 343 -136 l 5
+ 343 -196 l 5
+ 15 -196 l 5
+ 15 -137 l 5
+ 130 -137 l 5
+ 130 -137 l 5
+ 130 465 l 5
+ 22 465 l 5
+ 22 524 l 5
+ 235 524 l 5
+ 235 465 l 4
+ 273 517 332 538 385 538 c 4
+365 42 m 4
+ 459 42 493 162 493 269 c 4
+ 493 373 449 479 365 479 c 4
+ 284 479 235 372 235 240 c 4
+ 235 159 274 42 365 42 c 4
+EndSplineSet
+Fore
+SplineSet
+385 538 m 0
+ 515 538 605 419 605 263 c 0
+ 605 103 518 -13 380 -13 c 1
+ 322 -9 268 16 235 65 c 1
+ 235 -136 l 1
+ 343 -136 l 1
+ 343 -196 l 1
+ 15 -196 l 1
+ 15 -137 l 1
+ 130 -137 l 1
+ 130 -137 l 1
+ 130 465 l 1
+ 22 465 l 1
+ 22 524 l 1
+ 235 524 l 1
+ 235 465 l 0
+ 273 517 332 538 385 538 c 0
+365 42 m 0
+ 459 42 493 162 493 269 c 0
+ 493 373 449 479 365 479 c 0
+ 284 479 235 372 235 240 c 0
+ 235 159 274 42 365 42 c 0
+EndSplineSet
+EndChar
+
+StartChar: q
+Encoding: 113 113 51
+Width: 623
+VWidth: 0
+Flags: HW
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'q'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I623
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+231 538 m 4
+ 101 538 11 419 11 263 c 4
+ 11 103 98 -13 236 -13 c 5
+ 294 -9 348 16 381 65 c 5
+ 381 -135 l 5
+ 275 -134.5 l 5
+ 275 -195 l 5
+ 587 -195 l 5
+ 587 -135 l 5
+ 486 -135 l 5
+ 486 524 l 5
+ 441 524 l 5
+ 403 428 l 5
+ 369 508 296 538 231 538 c 4
+251 42 m 4
+ 157 42 123 162 123 269 c 4
+ 123 373 167 479 251 479 c 4
+ 332 479 381 372 381 240 c 4
+ 381 159 342 42 251 42 c 4
+EndSplineSet
+EndChar
+
+StartChar: r
+Encoding: 114 114 52
+Width: 508
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'r'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I508
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I323
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I323
+sg17
+I00
+sS'y'
+I58
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I234
+sg17
+I00
+sS'y'
+I58
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I234
+sg17
+I01
+sS'y'
+I286
+s(dp24
+S'y'
+I377
+sS'x'
+I234
+sg17
+I00
+s(dp25
+S'y'
+I471
+sS'x'
+I272
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I369
+sg17
+I01
+sS'y'
+I471
+s(dp28
+S'y'
+I470
+sS'x'
+I424
+sg17
+I00
+s(dp29
+S'y'
+I435
+sS'x'
+I462
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I462
+sg17
+I01
+sS'y'
+I347
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I462
+sg17
+I00
+sS'y'
+I58
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I373
+sg17
+I00
+sS'y'
+I58
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I373
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I667
+sg17
+I00
+sS'y'
+I0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I667
+sg17
+I00
+sS'y'
+I58
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I567
+sg17
+I00
+sS'y'
+I58
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I567
+sg17
+I01
+sS'y'
+I348
+s(dp46
+S'y'
+I518
+sS'x'
+I567
+sg17
+I00
+s(dp47
+S'y'
+I538
+sS'x'
+I464
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I405
+sg17
+I01
+sS'y'
+I538
+s(dp50
+S'y'
+I538
+sS'x'
+I344
+sg17
+I00
+s(dp51
+S'y'
+I504
+sS'x'
+I265
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I231
+sg17
+I00
+sS'y'
+I426
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I231
+sg17
+I00
+sS'y'
+I538
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I34
+sg17
+I00
+sS'y'
+I524
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I34
+sg17
+I00
+sS'y'
+I479
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I129
+sg17
+I00
+sS'y'
+I469
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I129
+sg17
+I00
+sS'y'
+I58
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I34
+sg17
+I00
+sS'y'
+I58
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I34
+sg17
+I00
+sS'y'
+I0
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+344 0 m 1
+ 344 57 l 1
+ 234 57 l 1
+ 234 281 l 2
+ 234 372 271 476 353 476 c 1
+ 353 476 333 456 333 433 c 0
+ 333 391 367 368 402 368 c 0
+ 439 368 477 394 477 448 c 0
+ 477 504 429 532 380 532 c 0
+ 300 532 243 467 229 418 c 1
+ 229 538 l 1
+ 34 524 l 1
+ 34 479 l 1
+ 129 468 l 1
+ 129 57 l 1
+ 34 57 l 1
+ 34 0 l 1
+ 344 0 l 1
+EndSplineSet
+EndChar
+
+StartChar: s
+Encoding: 115 115 53
+Width: 528
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S's'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I528
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F196
+sS'x'
+F80.546813245999999
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F167.22556073999999
+sS'x'
+F45
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F45
+sg15
+I01
+sS'y'
+F125
+s(dp20
+S'y'
+F16
+sS'x'
+F45
+sg15
+I00
+s(dp21
+S'y'
+F-13
+sS'x'
+F167
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F271
+sg15
+I01
+sS'y'
+F-13
+s(dp24
+S'y'
+F-13
+sS'x'
+F370
+sg15
+I00
+s(dp25
+S'y'
+F29
+sS'x'
+F478
+sg15
+I00
+s(dp26
+g18
+S'curve'
+p27
+sS'x'
+F478
+sg15
+I01
+sS'y'
+F152
+s(dp28
+S'y'
+F281
+sS'x'
+F478
+sg15
+I00
+s(dp29
+S'y'
+F303
+sS'x'
+F359
+sg15
+I00
+s(dp30
+g18
+S'curve'
+p31
+sS'x'
+F268
+sg15
+I01
+sS'y'
+F334
+s(dp32
+S'y'
+F361
+sS'x'
+F188
+sg15
+I00
+s(dp33
+S'y'
+F369
+sS'x'
+F150
+sg15
+I00
+s(dp34
+g18
+S'curve'
+p35
+sS'x'
+F152
+sg15
+I01
+sS'y'
+F414
+s(dp36
+S'y'
+F470
+sS'x'
+F155
+sg15
+I00
+s(dp37
+S'y'
+F479
+sS'x'
+F222
+sg15
+I00
+s(dp38
+g18
+S'curve'
+p39
+sS'x'
+F281
+sg15
+I01
+sS'y'
+F479
+s(dp40
+S'y'
+F479
+sS'x'
+F323
+sg15
+I00
+s(dp41
+S'y'
+F470
+sS'x'
+F371
+sg15
+I00
+s(dp42
+g18
+S'curve'
+p43
+sS'x'
+F399
+sg15
+I00
+sS'y'
+F446
+s(dp44
+S'y'
+F444
+sS'x'
+F383
+sg15
+I00
+s(dp45
+S'y'
+F424
+sS'x'
+F347
+sg15
+I00
+s(dp46
+g18
+S'curve'
+p47
+sS'x'
+F347
+sg15
+I01
+sS'y'
+F392
+s(dp48
+S'y'
+F351
+sS'x'
+F347
+sg15
+I00
+s(dp49
+S'y'
+F332
+sS'x'
+F377
+sg15
+I00
+s(dp50
+g18
+S'curve'
+p51
+sS'x'
+F408
+sg15
+I01
+sS'y'
+F332
+s(dp52
+S'y'
+F332
+sS'x'
+F444
+sg15
+I00
+s(dp53
+S'y'
+F360
+sS'x'
+F480
+sg15
+I00
+s(dp54
+g18
+S'curve'
+p55
+sS'x'
+F480
+sg15
+I01
+sS'y'
+F402
+s(dp56
+S'y'
+F518
+sS'x'
+F480
+sg15
+I00
+s(dp57
+S'y'
+F537
+sS'x'
+F339
+sg15
+I00
+s(dp58
+g18
+S'curve'
+p59
+sS'x'
+F250
+sg15
+I00
+sS'y'
+F537
+s(dp60
+S'y'
+F537
+sS'x'
+F176
+sg15
+I00
+s(dp61
+S'y'
+F498
+sS'x'
+F61
+sg15
+I00
+s(dp62
+g18
+S'curve'
+p63
+sS'x'
+F61
+sg15
+I01
+sS'y'
+F390
+s(dp64
+S'y'
+F282
+sS'x'
+F61
+sg15
+I00
+s(dp65
+S'y'
+F269
+sS'x'
+F157
+sg15
+I00
+s(dp66
+g18
+S'curve'
+p67
+sS'x'
+F247
+sg15
+I01
+sS'y'
+F237
+s(dp68
+S'y'
+F206
+sS'x'
+F335
+sg15
+I00
+s(dp69
+S'y'
+F191
+sS'x'
+F381
+sg15
+I00
+s(dp70
+g18
+S'curve'
+p71
+sS'x'
+F381
+sg15
+I01
+sS'y'
+F128
+s(dp72
+S'y'
+F81
+sS'x'
+F381
+sg15
+I00
+s(dp73
+S'y'
+F47
+sS'x'
+F331
+sg15
+I00
+s(dp74
+g18
+S'curve'
+p75
+sS'x'
+F269
+sg15
+I01
+sS'y'
+F47
+s(dp76
+S'y'
+F47
+sS'x'
+F230
+sg15
+I00
+s(dp77
+S'y'
+F48
+sS'x'
+F158
+sg15
+I00
+s(dp78
+g18
+S'curve'
+p79
+sS'x'
+F134
+sg15
+I00
+sS'y'
+F79
+s(dp80
+S'y'
+F81
+sS'x'
+F150
+sg15
+I00
+s(dp81
+S'y'
+F104
+sS'x'
+F178
+sg15
+I00
+s(dp82
+g18
+S'curve'
+p83
+sS'x'
+F178
+sg15
+I01
+sS'y'
+F136
+s(dp84
+S'y'
+F177
+sS'x'
+F178
+sg15
+I00
+s(dp85
+S'y'
+F196
+sS'x'
+F148
+sg15
+I00
+s(dp86
+g18
+S'curve'
+p87
+sS'x'
+F117
+sg15
+I01
+sS'y'
+F196
+stp88
+stp89
+sS'components'
+p90
+(tsS'anchors'
+p91
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+45 125 m 0
+ 45 19 169 -13 263 -13 c 0
+ 265 -13 268 -13 271 -13 c 0
+ 370 -11 478 29 478 152 c 0
+ 478 281 359 303 268 334 c 0
+ 190 360 152 369 152 411 c 0
+ 152 412 152 413 152 414 c 0
+ 155 470 222 479 281 479 c 0
+ 323 479 371 470 399 446 c 1
+ 383 444 347 424 347 392 c 0
+ 347 351 377 332 408 332 c 0
+ 444 332 480 360 480 402 c 0
+ 480 518 339 537 250 537 c 0
+ 176 537 61 498 61 390 c 0
+ 61 282 157 269 247 237 c 0
+ 335 206 375 191 381 128 c 0
+ 381 126 381 124 381 122 c 0
+ 381 71 318 44 251 44 c 0
+ 208 44 163 55 134 79 c 1
+ 150 81 178 104 178 136 c 0
+ 178 177 148 196 117 196 c 0
+ 81 196 45 167 45 125 c 0
+EndSplineSet
+EndChar
+
+StartChar: space
+Encoding: 32 32 54
+Width: 216
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'space'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I216
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+EndChar
+
+StartChar: t
+Encoding: 116 116 55
+Width: 442
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S't'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I442
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I295
+sS'smooth'
+p17
+I00
+sS'y'
+I0
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I295
+sg17
+I00
+sS'y'
+I67
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I206
+sg17
+I00
+sS'y'
+I67
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I206
+sg17
+I01
+sS'y'
+I286
+s(dp24
+S'y'
+I377
+sS'x'
+I206
+sg17
+I00
+s(dp25
+S'y'
+I471
+sS'x'
+I244
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I341
+sg17
+I01
+sS'y'
+I471
+s(dp28
+S'y'
+I470
+sS'x'
+I396
+sg17
+I00
+s(dp29
+S'y'
+I435
+sS'x'
+I434
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I434
+sg17
+I01
+sS'y'
+I347
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I434
+sg17
+I00
+sS'y'
+I67
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I345
+sg17
+I00
+sS'y'
+I67
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I345
+sg17
+I00
+sS'y'
+I0
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I639
+sg17
+I00
+sS'y'
+I0
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I639
+sg17
+I00
+sS'y'
+I67
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I539
+sg17
+I00
+sS'y'
+I67
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I539
+sg17
+I01
+sS'y'
+I348
+s(dp46
+S'y'
+I518
+sS'x'
+I539
+sg17
+I00
+s(dp47
+S'y'
+I538
+sS'x'
+I436
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I377
+sg17
+I01
+sS'y'
+I538
+s(dp50
+S'y'
+I538
+sS'x'
+I316
+sg17
+I00
+s(dp51
+S'y'
+I504
+sS'x'
+I237
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I203
+sg17
+I00
+sS'y'
+I426
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I203
+sg17
+I00
+sS'y'
+I524
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I6
+sg17
+I00
+sS'y'
+I524
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I6
+sg17
+I00
+sS'y'
+I454
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I101
+sg17
+I00
+sS'y'
+I454
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I101
+sg17
+I00
+sS'y'
+I67
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I6
+sg17
+I00
+sS'y'
+I67
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I6
+sg17
+I00
+sS'y'
+I0
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+101 469 m 1
+ 1 469 l 1
+ 1 492 l 1
+ 148 535 145 651 175 777 c 0
+ 178 788 186 794 193 794 c 0
+ 200 794 206 788 206 777 c 2
+ 206 524 l 1
+ 349 524 l 1
+ 349 468 l 1
+ 206 468 l 1
+ 206 141 l 2
+ 206 80 239 55 279 55 c 0
+ 325 55 356 80 356 171 c 2
+ 356 241 l 1
+ 415 241 l 1
+ 415 230 415 191 415 181 c 0
+ 415 62 382 -13 264 -13 c 0
+ 185 -13 101 32 101 144 c 2
+ 101 469 l 1
+EndSplineSet
+EndChar
+
+StartChar: tt
+Encoding: 65537 -1 56
+Width: 797
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'tt'
+p7
+sS'lib'
+p8
+(dp9
+sS'unicodes'
+p10
+(tsS'width'
+p11
+I797
+sS'contours'
+p12
+(tsS'components'
+p13
+(tsS'anchors'
+p14
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+481.228 457 m 1
+ 481.228 136 l 2
+ 481.228 31 561.228 -13 624.228 -13 c 0
+ 765.228 -13 785.228 91 781.228 220 c 1
+ 710.228 220 l 1
+ 710.228 182 l 2
+ 710.228 138 706.228 82 663.228 82 c 0
+ 610.228 82 610.228 132 610.228 149 c 2
+ 610.228 456 l 1
+ 753.228 456 l 1
+ 753.228 524 l 1
+ 610.228 524 l 1
+ 610.228 777 l 2
+ 610.228 788 601.228 794 591.228 794 c 0
+ 581.228 794 571.228 788 569.228 777 c 0
+ 546.228 652 492.341 524 426.341 524 c 2
+ 244 524 l 1
+ 244 777 l 2
+ 244 788 235 794 225 794 c 0
+ 215 794 205 788 203 777 c 0
+ 180 652 162 553 15 510 c 1
+ 15 457 l 1
+ 115 457 l 1
+ 115 136 l 2
+ 115 31 195 -13 258 -13 c 0
+ 399 -13 419 91 415 220 c 1
+ 344 220 l 1
+ 344 182 l 2
+ 344 138 340 82 297 82 c 0
+ 244 82 244 132 244 149 c 2
+ 244 456 l 1
+ 481.228 457 l 1
+EndSplineSet
+EndChar
+
+StartChar: u
+Encoding: 117 117 57
+Width: 668
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'u'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I668
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'segmentType'
+p15
+S'line'
+p16
+sS'x'
+I347
+sS'smooth'
+p17
+I00
+sS'y'
+I524
+s(dp18
+g15
+S'line'
+p19
+sS'x'
+I347
+sg17
+I00
+sS'y'
+I466
+s(dp20
+g15
+S'line'
+p21
+sS'x'
+I436
+sg17
+I00
+sS'y'
+I466
+s(dp22
+g15
+S'line'
+p23
+sS'x'
+I436
+sg17
+I01
+sS'y'
+I238
+s(dp24
+S'y'
+I147
+sS'x'
+I436
+sg17
+I00
+s(dp25
+S'y'
+I53
+sS'x'
+I398
+sg17
+I00
+s(dp26
+g15
+S'curve'
+p27
+sS'x'
+I301
+sg17
+I01
+sS'y'
+I53
+s(dp28
+S'y'
+I54
+sS'x'
+I246
+sg17
+I00
+s(dp29
+S'y'
+I89
+sS'x'
+I208
+sg17
+I00
+s(dp30
+g15
+S'curve'
+p31
+sS'x'
+I208
+sg17
+I01
+sS'y'
+I177
+s(dp32
+g15
+S'line'
+p33
+sS'x'
+I208
+sg17
+I00
+sS'y'
+I466
+s(dp34
+g15
+S'line'
+p35
+sS'x'
+I297
+sg17
+I00
+sS'y'
+I466
+s(dp36
+g15
+S'line'
+p37
+sS'x'
+I297
+sg17
+I00
+sS'y'
+I524
+s(dp38
+g15
+S'line'
+p39
+sS'x'
+I3
+sg17
+I00
+sS'y'
+I524
+s(dp40
+g15
+S'line'
+p41
+sS'x'
+I3
+sg17
+I00
+sS'y'
+I466
+s(dp42
+g15
+S'line'
+p43
+sS'x'
+I103
+sg17
+I00
+sS'y'
+I466
+s(dp44
+g15
+S'line'
+p45
+sS'x'
+I103
+sg17
+I01
+sS'y'
+I176
+s(dp46
+S'y'
+I6
+sS'x'
+I103
+sg17
+I00
+s(dp47
+S'y'
+I-14
+sS'x'
+I206
+sg17
+I00
+s(dp48
+g15
+S'curve'
+p49
+sS'x'
+I265
+sg17
+I01
+sS'y'
+I-14
+s(dp50
+S'y'
+I-14
+sS'x'
+I326
+sg17
+I00
+s(dp51
+S'y'
+I20
+sS'x'
+I405
+sg17
+I00
+s(dp52
+g15
+S'curve'
+p53
+sS'x'
+I439
+sg17
+I00
+sS'y'
+I98
+s(dp54
+g15
+S'line'
+p55
+sS'x'
+I439
+sg17
+I00
+sS'y'
+I-14
+s(dp56
+g15
+S'line'
+p57
+sS'x'
+I636
+sg17
+I00
+sS'y'
+I0
+s(dp58
+g15
+S'line'
+p59
+sS'x'
+I636
+sg17
+I00
+sS'y'
+I45
+s(dp60
+g15
+S'line'
+p61
+sS'x'
+I541
+sg17
+I00
+sS'y'
+I55
+s(dp62
+g15
+S'line'
+p63
+sS'x'
+I541
+sg17
+I00
+sS'y'
+I466
+s(dp64
+g15
+S'line'
+p65
+sS'x'
+I636
+sg17
+I00
+sS'y'
+I466
+s(dp66
+g15
+S'line'
+p67
+sS'x'
+I636
+sg17
+I00
+sS'y'
+I524
+stp68
+stp69
+sS'components'
+p70
+(tsS'anchors'
+p71
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+443 98 m 1
+ 443 -14 l 1
+ 640 0 l 1
+ 640 45 l 1
+ 545 55 l 1
+ 545 524 l 1
+ 351 524 l 1
+ 351 466 l 1
+ 440 466 l 1
+ 440 238 l 2
+ 440 147 392 55 299 53 c 0
+ 298 53 298 53 297 53 c 0
+ 243 53 208 90 208 177 c 2
+ 208 524 l 1
+ 3 524 l 1
+ 3 466 l 1
+ 103 466 l 1
+ 103 176 l 2
+ 103 6 208 -14 267 -14 c 0
+ 328 -14 409 20 443 98 c 1
+EndSplineSet
+EndChar
+
+StartChar: v
+Encoding: 118 118 58
+Width: 668
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'v'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I668
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F8
+sS'x'
+F275
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F-8
+sS'x'
+F297
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F336
+sg15
+I01
+sS'y'
+F-8
+s(dp20
+S'y'
+F-8
+sS'x'
+F378
+sg15
+I00
+s(dp21
+S'y'
+F2
+sS'x'
+F404
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F452
+sg15
+I01
+sS'y'
+F120
+s(dp24
+g18
+S'line'
+p25
+sS'x'
+F578
+sg15
+I01
+sS'y'
+F437
+s(dp26
+g18
+S'line'
+p27
+sS'x'
+F662
+sg15
+I01
+sS'y'
+F437
+s(dp28
+g18
+S'line'
+p29
+sS'x'
+F662
+sg15
+I01
+sS'y'
+F524
+s(dp30
+g18
+S'line'
+p31
+sS'x'
+F392
+sg15
+I01
+sS'y'
+F524
+s(dp32
+g18
+S'line'
+p33
+sS'x'
+F392
+sg15
+I01
+sS'y'
+F437
+s(dp34
+g18
+S'line'
+p35
+sS'x'
+F465
+sg15
+I01
+sS'y'
+F437
+s(dp36
+g18
+S'line'
+p37
+sS'x'
+F357
+sg15
+I01
+sS'y'
+F127
+s(dp38
+g18
+S'line'
+p39
+sS'x'
+F249
+sg15
+I01
+sS'y'
+F437
+s(dp40
+g18
+S'line'
+p41
+sS'x'
+F325
+sg15
+I01
+sS'y'
+F437
+s(dp42
+g18
+S'line'
+p43
+sS'x'
+F325
+sg15
+I01
+sS'y'
+F524
+s(dp44
+g18
+S'line'
+p45
+sS'x'
+F6
+sg15
+I01
+sS'y'
+F524
+s(dp46
+g18
+S'line'
+p47
+sS'x'
+F6
+sg15
+I01
+sS'y'
+F437
+s(dp48
+g18
+S'line'
+p49
+sS'x'
+F103
+sg15
+I01
+sS'y'
+F437
+s(dp50
+g18
+S'line'
+p51
+sS'x'
+F237
+sg15
+I01
+sS'y'
+F107
+stp52
+stp53
+sS'components'
+p54
+(tsS'anchors'
+p55
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+336 -8 m 0
+ 378 -8 407 0 442 90 c 2
+ 578 437 l 1
+ 662 437 l 1
+ 662 524 l 1
+ 392 524 l 1
+ 392 437 l 1
+ 465 437 l 1
+ 357 127 l 1
+ 249 437 l 1
+ 325 437 l 1
+ 325 524 l 1
+ 6 524 l 1
+ 6 437 l 1
+ 103 437 l 1
+ 247 77 l 2
+ 278 0 297 -8 336 -8 c 0
+EndSplineSet
+EndChar
+
+StartChar: w
+Encoding: 119 119 59
+Width: 917
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'w'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I917
+sS'contours'
+p11
+(tsS'components'
+p12
+(tsS'anchors'
+p13
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+619 -8 m 0
+ 661 -8 689 -2 733 118 c 1
+ 827 437 l 1
+ 911 437 l 1
+ 911 524 l 1
+ 652 524 l 1
+ 652 437 l 1
+ 725 437 l 1
+ 640 127 l 1
+ 532 437 l 1
+ 598 437 l 1
+ 598 524 l 1
+ 363 524 l 1
+ 363 437 l 1
+ 429 437 l 1
+ 321 127 l 1
+ 249 437 l 1
+ 307 437 l 1
+ 307 524 l 1
+ 6 524 l 1
+ 6 437 l 1
+ 103 437 l 1
+ 201 105 l 1
+ 236 5 261 -8 300 -8 c 0
+ 342 -8 371 -2 411 120 c 2
+ 465 283 l 1
+ 523 110 l 2
+ 556 11 580 -8 619 -8 c 0
+EndSplineSet
+EndChar
+
+StartChar: y
+Encoding: 121 121 60
+Width: 691
+VWidth: 0
+Flags: W
+PickledData: "(dp1
+S'com.typemytype.robofont.layerData'
+p2
+(dp3
+S'back'
+p4
+(dp5
+S'name'
+p6
+S'y'
+sS'lib'
+p7
+(dp8
+sS'unicodes'
+p9
+(tsS'width'
+p10
+I691
+sS'contours'
+p11
+((dp12
+S'points'
+p13
+((dp14
+S'y'
+F-232
+sS'x'
+F-26
+sS'smooth'
+p15
+I00
+s(dp16
+S'y'
+F-270
+sS'x'
+F82
+sg15
+I00
+s(dp17
+S'segmentType'
+p18
+S'curve'
+p19
+sS'x'
+F177
+sg15
+I01
+sS'y'
+F-270
+s(dp20
+S'y'
+F-270
+sS'x'
+F352
+sg15
+I00
+s(dp21
+S'y'
+F-130
+sS'x'
+F410
+sg15
+I00
+s(dp22
+g18
+S'curve'
+p23
+sS'x'
+F410
+sg15
+I01
+sS'y'
+F18
+s(dp24
+g18
+S'line'
+p25
+sS'x'
+F450
+sg15
+I00
+sS'y'
+F107
+s(dp26
+S'y'
+F107
+sS'x'
+F450
+sg15
+I00
+s(dp27
+S'y'
+F107
+sS'x'
+F325
+sg15
+I00
+s(dp28
+g18
+S'curve'
+p29
+sS'x'
+F325
+sg15
+I00
+sS'y'
+F107
+s(dp30
+g18
+S'line'
+p31
+sS'x'
+F285
+sg15
+I01
+sS'y'
+F0
+s(dp32
+S'y'
+F-135
+sS'x'
+F285
+sg15
+I00
+s(dp33
+S'y'
+F-204
+sS'x'
+F252
+sg15
+I00
+s(dp34
+g18
+S'curve'
+p35
+sS'x'
+F147
+sg15
+I01
+sS'y'
+F-204
+s(dp36
+S'y'
+F-204
+sS'x'
+F113
+sg15
+I00
+s(dp37
+S'y'
+F-195
+sS'x'
+F85
+sg15
+I00
+s(dp38
+g18
+S'curve'
+p39
+sS'x'
+F58
+sg15
+I00
+sS'y'
+F-180
+s(dp40
+S'y'
+F-180
+sS'x'
+F84
+sg15
+I00
+s(dp41
+S'y'
+F-162
+sS'x'
+F124
+sg15
+I00
+s(dp42
+g18
+S'curve'
+p43
+sS'x'
+F124
+sg15
+I01
+sS'y'
+F-118
+s(dp44
+S'y'
+F-80
+sS'x'
+F124
+sg15
+I00
+s(dp45
+S'y'
+F-55
+sS'x'
+F96
+sg15
+I00
+s(dp46
+g18
+S'curve'
+p47
+sS'x'
+F55
+sg15
+I01
+sS'y'
+F-55
+s(dp48
+S'y'
+F-55
+sS'x'
+F7
+sg15
+I00
+s(dp49
+S'y'
+F-92
+sS'x'
+F-26
+sg15
+I00
+s(dp50
+g18
+S'curve'
+p51
+sS'x'
+F-26
+sg15
+I01
+sS'y'
+F-133
+stp52
+stp53
+sS'components'
+p54
+(tsS'anchors'
+p55
+(tsss."
+LayerCount: 2
+Fore
+SplineSet
+185 -242 m 0
+ 323 -242 372 -112 413 -2 c 1
+ 583 437 l 1
+ 667 437 l 1
+ 667 524 l 1
+ 397 524 l 1
+ 397 437 l 1
+ 470 437 l 1
+ 362 127 l 1
+ 254 437 l 1
+ 330 437 l 1
+ 330 524 l 1
+ 11 524 l 1
+ 11 437 l 1
+ 108 437 l 1
+ 285 0 l 1
+ 260 -114 225 -173 168 -173 c 0
+ 131.875216264 -173 118 -165 102 -149 c 1
+ 128 -149 168 -131 168 -87 c 0
+ 168 -49 140 -24 99 -24 c 0
+ 51 -24 18 -61 18 -102 c 0
+ 18 -201 90 -242 185 -242 c 0
+EndSplineSet
+EndChar
+
+StartChar: bracketleft
+Encoding: 91 91 61
+Width: 695
+VWidth: 0
+Flags: HWO
+LayerCount: 2
+Fore
+SplineSet
+523 -120 m 2
+ 524 -53 l 1
+ 275 -53 l 1
+ 275 715 l 1
+ 524 715 l 1
+ 523 782 l 2
+ 523 783 41 782 41 782 c 1
+ 41 715 l 1
+ 160 715 l 1
+ 160 -53 l 1
+ 41 -53 l 1
+ 41 -120 l 1
+ 41 -120 523 -121 523 -120 c 2
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont

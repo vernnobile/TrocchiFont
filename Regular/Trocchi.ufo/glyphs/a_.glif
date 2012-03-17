@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="A" format="1">
+  <advance width="810"/>
+  <unicode hex="0041"/>
+  <outline>
+    <contour>
+      <point x="551" y="308" type="line" smooth="no"/>
+      <point x="257" y="308" type="line" smooth="no"/>
+      <point x="257" y="246" type="line" smooth="no"/>
+      <point x="551" y="246" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="329" y="0" type="line" smooth="no"/>
+      <point x="329" y="67" type="line" smooth="no"/>
+      <point x="206" y="67" type="line" smooth="no"/>
+      <point x="387" y="626" type="line" smooth="no"/>
+      <point x="580" y="67" type="line" smooth="no"/>
+      <point x="471" y="67" type="line" smooth="no"/>
+      <point x="471" y="0" type="line" smooth="no"/>
+      <point x="807" y="0" type="line" smooth="no"/>
+      <point x="807" y="67" type="line" smooth="no"/>
+      <point x="705" y="67" type="line" smooth="no"/>
+      <point x="464" y="722" type="line" smooth="no"/>
+      <point x="343" y="722" type="line" smooth="no"/>
+      <point x="111" y="67" type="line" smooth="no"/>
+      <point x="3" y="67" type="line" smooth="no"/>
+      <point x="3" y="0" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    <key>back</key>
+    <key>name</key>
+      <string>A</string>
+    <key>lib</key>
+    <key>unicodes</key>
+      <array>
+      </array>
+    <key>width</key>
+      <integer>810</integer>
+    <key>contours</key>
+      <array>
+      <key>points</key>
+      <array>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      <key>segmentType</key>
+      <string>line</string>
+    <key>x</key>
+    <key>smooth</key>
+      <false/>
+    <key>y</key>
+      </array>
+      </array>
+    <key>components</key>
+      <array>
+      </array>
+    <key>anchors</key>
+      <array>
+      </array>
+    </dict>
+  </lib>
+</glyph>
