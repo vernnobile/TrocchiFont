@@ -9,7 +9,7 @@
 	<key>descender</key>
 	<integer>-250</integer>
 	<key>familyName</key>
-	<string>Trocchi Normal</string>
+	<string>Trocchi Normal Normal</string>
 	<key>italicAngle</key>
 	<real>0.0</real>
 	<key>macintoshFONDName</key>
@@ -23,7 +23,7 @@
 	<key>openTypeNameDesignerURL</key>
 	<string>newtypography.co.uk</string>
 	<key>openTypeNamePreferredFamilyName</key>
-	<string>Trocchi</string>
+	<string>Trocchi Normal</string>
 	<key>openTypeNamePreferredSubfamilyName</key>
 	<string>Normal</string>
 	<key>openTypeNameVersion</key>
@@ -113,7 +113,7 @@
 	<key>trademark</key>
 	<string>Please refer to the Copyright section for the font trademark attribution notices.</string>
 	<key>unitsPerEm</key>
-	<integer>2048</integer>
+	<integer>1000</integer>
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="620"/>
+  <unicode hex="02C6"/>
+  <outline>
+    <contour>
+      <point x="375" y="684" type="curve"/>
+      <point x="337" y="650"/>
+      <point x="254" y="578"/>
+      <point x="254" y="578" type="curve"/>
+      <point x="223" y="602" type="line"/>
+      <point x="375" y="780" type="line"/>
+      <point x="552" y="604" type="line"/>
+      <point x="514" y="570" type="line"/>
+      <point x="514" y="570"/>
+      <point x="413" y="650"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>anchors</key>
+      <array>
+      </array>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>circumflex</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>620</integer>
+        </dict>
+      </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>circumflex</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>620</integer>
+    </dict>
+  </lib>
+</glyph>

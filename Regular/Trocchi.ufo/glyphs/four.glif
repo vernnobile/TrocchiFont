@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="four" format="1">
+  <advance width="601"/>
+  <unicode hex="0034"/>
+  <outline>
+    <contour>
+      <point x="335" y="323" type="line"/>
+      <point x="129" y="323" type="line"/>
+      <point x="335" y="622" type="line"/>
+    </contour>
+    <contour>
+      <point x="561" y="67" type="line"/>
+      <point x="440" y="67" type="line"/>
+      <point x="440" y="245" type="line"/>
+      <point x="561" y="245" type="line"/>
+      <point x="561" y="323" type="line"/>
+      <point x="440" y="323" type="line"/>
+      <point x="440" y="722" type="line"/>
+      <point x="305" y="722" type="line"/>
+      <point x="32" y="331" type="line"/>
+      <point x="32" y="245" type="line"/>
+      <point x="335" y="245" type="line"/>
+      <point x="335" y="67" type="line"/>
+      <point x="202" y="67" type="line"/>
+      <point x="202" y="0" type="line"/>
+      <point x="561" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="382.0" y="722.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="552.0" y="10.0" type="move" name="ogonek"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+      <key>com.typemytype.robofont.layerData</key>
+      <dict>
+      </dict>
+    </dict>
+  </lib>
+</glyph>
