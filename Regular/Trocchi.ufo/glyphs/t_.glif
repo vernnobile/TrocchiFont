@@ -1,36 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="T" format="1">
-  <advance width="697"/>
+  <advance width="701"/>
   <unicode hex="0054"/>
   <outline>
     <contour>
-      <point x="525" y="70" type="line"/>
-      <point x="408" y="70" type="line"/>
-      <point x="408" y="655" type="line"/>
-      <point x="591" y="655" type="line"/>
-      <point x="591" y="425" type="line"/>
-      <point x="682" y="425" type="line"/>
-      <point x="682" y="722" type="line"/>
-      <point x="15" y="722" type="line"/>
-      <point x="15" y="425" type="line"/>
-      <point x="106" y="425" type="line"/>
-      <point x="106" y="655" type="line"/>
-      <point x="106" y="656"/>
-      <point x="293" y="655"/>
-      <point x="293" y="655" type="curve"/>
-      <point x="293" y="70" type="line"/>
-      <point x="179" y="70" type="line"/>
-      <point x="179" y="0" type="line"/>
-      <point x="525" y="0" type="line"/>
+      <point x="527" y="70" type="line"/>
+      <point x="410" y="70" type="line"/>
+      <point x="410" y="668" type="line"/>
+      <point x="593" y="668" type="line"/>
+      <point x="593" y="438" type="line"/>
+      <point x="684" y="438" type="line"/>
+      <point x="684" y="735" type="line"/>
+      <point x="17" y="735" type="line"/>
+      <point x="17" y="438" type="line"/>
+      <point x="108" y="438" type="line"/>
+      <point x="108" y="668" type="line"/>
+      <point x="108" y="669"/>
+      <point x="295" y="668"/>
+      <point x="295" y="668" type="curve"/>
+      <point x="295" y="70" type="line"/>
+      <point x="181" y="70" type="line"/>
+      <point x="181" y="0" type="line"/>
+      <point x="527" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="349" y="722" type="move" name="top"/>
+      <point x="351" y="722" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="349" y="0" type="move" name="bottom"/>
+      <point x="351" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="349" y="361" type="move" name="center"/>
+      <point x="351" y="361" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
@@ -57,7 +57,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>697</integer>
+          <integer>701</integer>
         </dict>
       </dict>
     </dict>

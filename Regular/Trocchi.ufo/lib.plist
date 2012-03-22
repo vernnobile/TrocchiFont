@@ -35,12 +35,16 @@
 		<real>0.5</real>
 		<real>0.7</real>
 	</array>
+	<key>com.typemytype.robofont.italicSlantOffset</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.layerOrder</key>
 	<array>
 		<string>back</string>
 	</array>
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
+	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -258,6 +262,22 @@
 				<string>fl</string>
 				<string>ch</string>
 				<string>ck</string>
+				<string>quotesinglebase</string>
+				<string>ellipsis</string>
+				<string>guilsinglright</string>
+				<string>quotedblleft</string>
+				<string>quotedblright</string>
+				<string>ebreve</string>
+				<string>guilsinglleft</string>
+				<string>dagger</string>
+				<string>quotedblbase</string>
+				<string>quotesingle</string>
+				<string>kgreenlandic</string>
+				<string>fj</string>
+				<string>bullet</string>
+				<string>sk</string>
+				<string>sh</string>
+				<string>daggerdbl</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>

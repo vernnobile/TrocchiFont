@@ -63,6 +63,7 @@
 	<key>@MMK_L_k_Left</key>
 	<array>
 		<string>k</string>
+		<string>kgreenlandic</string>
 	</array>
 	<key>@MMK_L_n_Left</key>
 	<array>
@@ -157,6 +158,7 @@
 		<string>ae</string>
 		<string>aogonek</string>
 		<string>aring</string>
+		<string>agrave</string>
 	</array>
 	<key>@MMK_R_n_Right</key>
 	<array>

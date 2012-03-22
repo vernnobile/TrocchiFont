@@ -28,10 +28,10 @@
       <point x="598" y="0" type="line"/>
       <point x="598" y="56" type="line"/>
       <point x="510" y="56" type="line"/>
-      <point x="510" y="750" type="line"/>
-      <point x="290" y="750" type="line"/>
-      <point x="290" y="690" type="line"/>
-      <point x="405" y="690" type="line"/>
+      <point x="510" y="735" type="line"/>
+      <point x="290" y="735" type="line"/>
+      <point x="290" y="675" type="line"/>
+      <point x="405" y="675" type="line"/>
       <point x="405" y="460" type="line"/>
       <point x="372" y="509"/>
       <point x="314" y="538"/>
