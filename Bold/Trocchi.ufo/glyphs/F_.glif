@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="F" format="1">
-  <advance width="771.0"/>
+  <advance width="749"/>
   <unicode hex="0046"/>
   <outline>
     <contour>
@@ -10,10 +10,10 @@
       <point x="144.0" y="632.0" type="line"/>
       <point x="25.0" y="632.0" type="line"/>
       <point x="25.0" y="722.0" type="line"/>
-      <point x="756.0" y="722.0" type="line"/>
-      <point x="756.0" y="439.0" type="line"/>
-      <point x="636.0" y="439.0" type="line"/>
-      <point x="636.0" y="632.0" type="line"/>
+      <point x="734" y="722" type="line"/>
+      <point x="734" y="439" type="line"/>
+      <point x="614" y="439" type="line"/>
+      <point x="614" y="632" type="line"/>
       <point x="289.0" y="632.0" type="line"/>
       <point x="289.0" y="412" type="line"/>
       <point x="447.0" y="412" type="line"/>
@@ -54,7 +54,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>771.0</real>
+          <integer>749</integer>
         </dict>
       </dict>
     </dict>

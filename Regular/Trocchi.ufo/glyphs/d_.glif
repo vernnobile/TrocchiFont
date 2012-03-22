@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="D" format="1">
-  <advance width="788"/>
+  <advance width="778"/>
   <unicode hex="0044"/>
   <outline>
     <contour>
-      <point x="28" y="652" type="line"/>
-      <point x="147" y="652" type="line"/>
-      <point x="147" y="67" type="line"/>
-      <point x="28" y="67" type="line"/>
-      <point x="28" y="0" type="line"/>
-      <point x="267" y="0" type="line" smooth="yes"/>
-      <point x="543" y="0"/>
-      <point x="744" y="96"/>
-      <point x="747" y="357" type="curve" smooth="yes"/>
-      <point x="747" y="362" type="line" smooth="yes"/>
-      <point x="747" y="648"/>
-      <point x="498" y="722"/>
-      <point x="249" y="722" type="curve" smooth="yes"/>
-      <point x="28" y="722" type="line"/>
+      <point x="20" y="652" type="line"/>
+      <point x="139" y="652" type="line"/>
+      <point x="139" y="67" type="line"/>
+      <point x="20" y="67" type="line"/>
+      <point x="20" y="0" type="line"/>
+      <point x="259" y="0" type="line" smooth="yes"/>
+      <point x="535" y="0"/>
+      <point x="736" y="96"/>
+      <point x="739" y="357" type="curve" smooth="yes"/>
+      <point x="739" y="362" type="line" smooth="yes"/>
+      <point x="739" y="648"/>
+      <point x="490" y="722"/>
+      <point x="241" y="722" type="curve" smooth="yes"/>
+      <point x="20" y="722" type="line"/>
     </contour>
     <contour>
-      <point x="262" y="67" type="curve"/>
-      <point x="262" y="651" type="line"/>
-      <point x="443" y="651"/>
-      <point x="622" y="610"/>
-      <point x="622" y="362" type="curve" smooth="yes"/>
-      <point x="622" y="358" type="line" smooth="yes"/>
-      <point x="620" y="122"/>
-      <point x="456" y="67"/>
+      <point x="254" y="67" type="curve"/>
+      <point x="254" y="651" type="line"/>
+      <point x="435" y="651"/>
+      <point x="614" y="610"/>
+      <point x="614" y="362" type="curve" smooth="yes"/>
+      <point x="614" y="358" type="line" smooth="yes"/>
+      <point x="612" y="122"/>
+      <point x="448" y="67"/>
     </contour>
     <contour>
-      <point x="402" y="722" type="move" name="top"/>
+      <point x="394" y="722" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="402" y="361" type="move" name="center"/>
+      <point x="394" y="361" type="move" name="center"/>
     </contour>
   </outline>
   <lib>
@@ -60,7 +60,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>788</integer>
+          <integer>778</integer>
         </dict>
       </dict>
     </dict>

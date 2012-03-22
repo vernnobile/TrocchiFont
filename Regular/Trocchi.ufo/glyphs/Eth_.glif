@@ -3,7 +3,19 @@
   <advance width="788"/>
   <unicode hex="00D0"/>
   <outline>
+    <contour>
+      <point x="373" y="337" type="line"/>
+      <point x="373" y="407" type="line"/>
+      <point x="27" y="407" type="line"/>
+      <point x="27" y="337" type="line"/>
+    </contour>
     <component base="D"/>
+    <contour>
+      <point x="208.0" y="722.0" type="move" name="top"/>
+    </contour>
+    <contour>
+      <point x="378.0" y="10.0" type="move" name="ogonek"/>
+    </contour>
   </outline>
   <lib>
     <dict>

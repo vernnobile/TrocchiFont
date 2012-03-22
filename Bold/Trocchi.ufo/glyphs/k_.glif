@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="K" format="1">
-  <advance width="847.0"/>
+  <advance width="858"/>
   <unicode hex="004B"/>
   <outline>
     <contour>
@@ -72,12 +72,12 @@
       <point x="768" y="87"/>
       <point x="768" y="87" type="curve"/>
       <point x="768" y="87"/>
-      <point x="871" y="87"/>
-      <point x="871" y="87" type="curve" smooth="yes"/>
-      <point x="871" y="87"/>
-      <point x="871" y="0"/>
-      <point x="871" y="0" type="curve"/>
-      <point x="871" y="0"/>
+      <point x="851" y="87"/>
+      <point x="851" y="87" type="curve" smooth="yes"/>
+      <point x="851" y="87"/>
+      <point x="851" y="0"/>
+      <point x="851" y="0" type="curve"/>
+      <point x="851" y="0"/>
       <point x="475" y="0"/>
     </contour>
   </outline>
@@ -230,7 +230,7 @@
           <array>
           </array>
           <key>width</key>
-          <real>847.0</real>
+          <integer>858</integer>
         </dict>
       </dict>
     </dict>

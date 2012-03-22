@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="l" format="1">
-  <advance width="370"/>
+  <advance width="353"/>
   <unicode hex="006C"/>
   <outline>
     <contour>
-      <point x="241" y="750" type="line"/>
-      <point x="241" y="57" type="line"/>
-      <point x="346" y="57" type="line"/>
-      <point x="346" y="0" type="line"/>
-      <point x="27" y="0" type="line"/>
-      <point x="27" y="57" type="line"/>
-      <point x="136" y="57" type="line"/>
-      <point x="136" y="690" type="line"/>
-      <point x="27" y="690" type="line"/>
-      <point x="27" y="750" type="line"/>
+      <point x="239" y="750" type="line"/>
+      <point x="239" y="57" type="line"/>
+      <point x="344" y="57" type="line"/>
+      <point x="344" y="0" type="line"/>
+      <point x="25" y="0" type="line"/>
+      <point x="25" y="57" type="line"/>
+      <point x="134" y="57" type="line"/>
+      <point x="134" y="690" type="line"/>
+      <point x="25" y="690" type="line"/>
+      <point x="25" y="750" type="line"/>
     </contour>
     <contour>
-      <point x="185" y="524" type="move" name="top"/>
+      <point x="183" y="524" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="185" y="0" type="move" name="bottom"/>
+      <point x="183" y="0" type="move" name="bottom"/>
     </contour>
     <contour>
-      <point x="350" y="524" type="move" name="topright"/>
+      <point x="348" y="524" type="move" name="topright"/>
     </contour>
   </outline>
   <lib>
@@ -49,7 +49,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>370</integer>
+          <integer>353</integer>
         </dict>
       </dict>
     </dict>

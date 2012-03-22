@@ -4,24 +4,61 @@
   <unicode hex="02C7"/>
   <outline>
     <contour>
-      <point x="339" y="566" type="line"/>
-      <point x="289" y="615"/>
-      <point x="180" y="760"/>
-      <point x="180" y="760" type="curve"/>
-      <point x="229" y="797" type="line"/>
-      <point x="229" y="797"/>
-      <point x="407" y="615"/>
-      <point x="407" y="615" type="curve"/>
-    </contour>
-    <contour>
-      <point x="151" y="655" type="move" name="_top"/>
+      <point x="376" y="651" type="curve"/>
+      <point x="414" y="685"/>
+      <point x="487" y="782"/>
+      <point x="487" y="782" type="curve"/>
+      <point x="535" y="737" type="line"/>
+      <point x="376" y="566" type="line"/>
+      <point x="216" y="740" type="line"/>
+      <point x="264" y="784" type="line"/>
+      <point x="264" y="784"/>
+      <point x="338" y="685"/>
     </contour>
   </outline>
   <lib>
     <dict>
+      <key>anchors</key>
+      <array>
+      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
+        <key>back</key>
+        <dict>
+          <key>anchors</key>
+          <array>
+          </array>
+          <key>components</key>
+          <array>
+          </array>
+          <key>contours</key>
+          <array>
+          </array>
+          <key>lib</key>
+          <dict>
+          </dict>
+          <key>name</key>
+          <string>caron</string>
+          <key>unicodes</key>
+          <array>
+          </array>
+          <key>width</key>
+          <integer>620</integer>
+        </dict>
       </dict>
+      <key>components</key>
+      <array>
+      </array>
+      <key>contours</key>
+      <array>
+      </array>
+      <key>name</key>
+      <string>circumflex</string>
+      <key>unicodes</key>
+      <array>
+      </array>
+      <key>width</key>
+      <integer>620</integer>
     </dict>
   </lib>
 </glyph>
