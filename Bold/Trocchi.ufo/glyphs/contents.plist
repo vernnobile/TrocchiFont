@@ -96,8 +96,12 @@
 	<string>cedilla.glif</string>
 	<key>cent</key>
 	<string>cent.glif</string>
+	<key>ch</key>
+	<string>ch.glif</string>
 	<key>circumflex</key>
 	<string>circumflex.glif</string>
+	<key>ck</key>
+	<string>ck.glif</string>
 	<key>comma</key>
 	<string>comma.glif</string>
 	<key>copyright</key>
@@ -122,6 +126,18 @@
 	<string>exclam.glif</string>
 	<key>f</key>
 	<string>f.glif</string>
+	<key>ff</key>
+	<string>ff.glif</string>
+	<key>ffi</key>
+	<string>ffi.glif</string>
+	<key>ffl</key>
+	<string>ffl.glif</string>
+	<key>fi</key>
+	<string>fi.glif</string>
+	<key>fj</key>
+	<string>fj.glif</string>
+	<key>fl</key>
+	<string>fl.glif</string>
 	<key>g</key>
 	<string>g.glif</string>
 	<key>germandbls</key>
@@ -190,8 +206,12 @@
 	<string>section.glif</string>
 	<key>semicolon</key>
 	<string>semicolon.glif</string>
+	<key>sh</key>
+	<string>sh.glif</string>
 	<key>six</key>
 	<string>six.glif</string>
+	<key>sk</key>
+	<string>sk.glif</string>
 	<key>space</key>
 	<string>space.glif</string>
 	<key>t</key>
@@ -200,6 +220,8 @@
 	<string>tilde.glif</string>
 	<key>tt</key>
 	<string>tt.glif</string>
+	<key>two</key>
+	<string>two.glif</string>
 	<key>u</key>
 	<string>u.glif</string>
 	<key>v</key>
@@ -210,5 +232,9 @@
 	<string>x.glif</string>
 	<key>y</key>
 	<string>y.glif</string>
+	<key>z</key>
+	<string>z.glif</string>
+	<key>zero</key>
+	<string>zero.glif</string>
 </dict>
 </plist>

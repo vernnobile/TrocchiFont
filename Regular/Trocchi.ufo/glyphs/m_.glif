@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="M" format="1">
-  <advance width="956"/>
+  <advance width="946"/>
   <unicode hex="004D"/>
   <outline>
     <contour>
@@ -10,15 +10,15 @@
       <point x="132" y="665" type="line"/>
       <point x="16" y="665" type="line"/>
       <point x="16" y="735" type="line"/>
-      <point x="309" y="735" type="line"/>
+      <point x="312" y="735" type="line"/>
       <point x="486" y="272" type="line"/>
       <point x="648" y="735" type="line"/>
-      <point x="933" y="735" type="line"/>
-      <point x="933" y="665" type="line"/>
-      <point x="819" y="665" type="line"/>
-      <point x="819" y="67" type="line"/>
-      <point x="940" y="67" type="line"/>
-      <point x="940" y="0" type="line"/>
+      <point x="923" y="735" type="line"/>
+      <point x="923" y="665" type="line"/>
+      <point x="809" y="665" type="line"/>
+      <point x="809" y="67" type="line"/>
+      <point x="930" y="67" type="line"/>
+      <point x="930" y="0" type="line"/>
       <point x="592" y="0" type="line"/>
       <point x="592" y="67" type="line"/>
       <point x="699" y="67" type="line"/>
@@ -357,7 +357,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>956</integer>
+          <integer>946</integer>
         </dict>
       </dict>
     </dict>

@@ -17,10 +17,10 @@
       <point x="294" y="534"/>
       <point x="246" y="509"/>
       <point x="213" y="460" type="curve"/>
-      <point x="213" y="750" type="line"/>
-      <point x="-15" y="750" type="line"/>
-      <point x="-15" y="670" type="line"/>
-      <point x="88" y="670" type="line"/>
+      <point x="213" y="742" type="line"/>
+      <point x="-15" y="742" type="line"/>
+      <point x="-15" y="662" type="line"/>
+      <point x="88" y="662" type="line"/>
       <point x="88" y="0" type="line"/>
       <point x="153" y="0" type="line"/>
       <point x="191" y="77" type="line"/>

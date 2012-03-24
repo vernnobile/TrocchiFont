@@ -35,7 +35,7 @@
 	<key>com.typemytype.robofont.segmentType</key>
 	<string>curve</string>
 	<key>com.typemytype.robofont.shouldAddPointsInSplineConversion</key>
-	<false/>
+	<integer>0</integer>
 	<key>com.typemytype.robofont.sort</key>
 	<array>
 		<dict>
@@ -164,7 +164,6 @@
 				<string>threesuperior</string>
 				<string>udieresis</string>
 				<string>Egrave</string>
-				<string>g.alt</string>
 				<string>ocircumflex</string>
 				<string>period</string>
 				<string>igrave</string>
@@ -245,6 +244,8 @@
 				<string>y</string>
 				<string>questiondown</string>
 				<string>oacute</string>
+				<string>aogonek</string>
+				<string>eogonek</string>
 			</array>
 			<key>type</key>
 			<string>glyphList</string>
@@ -457,6 +458,16 @@
 		<string>oacute</string>
 		<string>aogonek</string>
 		<string>eogonek</string>
+		<string>ffl</string>
+		<string>ffi</string>
+		<string>ch</string>
+		<string>ck</string>
+		<string>ff</string>
+		<string>fi</string>
+		<string>fj</string>
+		<string>fl</string>
+		<string>sk</string>
+		<string>sh</string>
 	</array>
 </dict>
 </plist>

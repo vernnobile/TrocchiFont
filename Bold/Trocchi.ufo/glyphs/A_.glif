@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="A" format="1">
-  <advance width="804"/>
+  <advance width="829"/>
   <unicode hex="0041"/>
   <outline>
     <contour>
-      <point x="548" y="324" type="line"/>
-      <point x="254" y="324" type="line"/>
-      <point x="254" y="248" type="line"/>
-      <point x="548" y="248" type="line"/>
+      <point x="557" y="324" type="line"/>
+      <point x="255" y="324" type="line"/>
+      <point x="255" y="248" type="line"/>
+      <point x="557" y="248" type="line"/>
     </contour>
     <contour>
-      <point x="346" y="0" type="line"/>
-      <point x="346" y="87" type="line"/>
-      <point x="253" y="87" type="line"/>
-      <point x="408" y="605" type="line"/>
-      <point x="557" y="87" type="line"/>
-      <point x="448" y="87" type="line"/>
-      <point x="448" y="0" type="line"/>
-      <point x="804" y="0" type="line"/>
-      <point x="804" y="87" type="line"/>
-      <point x="702" y="87" type="line"/>
-      <point x="495" y="722" type="line"/>
-      <point x="334" y="722" type="line"/>
-      <point x="334" y="722"/>
-      <point x="108" y="87"/>
-      <point x="108" y="87" type="curve"/>
-      <point x="0" y="87" type="line"/>
-      <point x="0" y="0" type="line"/>
+      <point x="321" y="0" type="line"/>
+      <point x="321" y="87" type="line"/>
+      <point x="209" y="87" type="line"/>
+      <point x="396" y="648" type="line"/>
+      <point x="571" y="87" type="line"/>
+      <point x="462" y="87" type="line"/>
+      <point x="462" y="0" type="line"/>
+      <point x="830" y="0" type="line"/>
+      <point x="830" y="87" type="line"/>
+      <point x="732" y="87" type="line"/>
+      <point x="511" y="742" type="line"/>
+      <point x="338" y="742" type="line"/>
+      <point x="338" y="742"/>
+      <point x="109" y="87"/>
+      <point x="109" y="87" type="curve"/>
+      <point x="-1" y="87" type="line"/>
+      <point x="-1" y="0" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -53,7 +53,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>804</integer>
+          <integer>829</integer>
         </dict>
       </dict>
     </dict>
