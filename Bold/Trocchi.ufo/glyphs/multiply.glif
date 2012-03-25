@@ -1,19 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<glyph name="l" format="1">
-  <advance width="345"/>
-  <unicode hex="006C"/>
+<glyph name="multiply" format="1">
+  <advance width="696"/>
+  <unicode hex="00D7"/>
   <outline>
     <contour>
-      <point x="247" y="742" type="line"/>
-      <point x="247" y="84" type="line"/>
-      <point x="343" y="84" type="line"/>
-      <point x="343" y="0" type="line"/>
-      <point x="21" y="0" type="line"/>
-      <point x="21" y="84" type="line"/>
-      <point x="122" y="84" type="line"/>
-      <point x="122" y="662" type="line"/>
-      <point x="23" y="662" type="line"/>
-      <point x="23" y="742" type="line"/>
+      <point x="475" y="486" type="line"/>
+      <point x="142" y="153" type="line"/>
+      <point x="142" y="153"/>
+      <point x="221" y="74"/>
+      <point x="221" y="74" type="curve"/>
+      <point x="554" y="407" type="line"/>
+    </contour>
+    <contour>
+      <point x="142" y="407" type="line"/>
+      <point x="475" y="74" type="line"/>
+      <point x="475" y="74"/>
+      <point x="554" y="153"/>
+      <point x="554" y="153" type="curve"/>
+      <point x="221" y="486" type="line"/>
     </contour>
   </outline>
   <lib>
@@ -35,12 +39,12 @@
           <dict>
           </dict>
           <key>name</key>
-          <string>l</string>
+          <string>multiply</string>
           <key>unicodes</key>
           <array>
           </array>
           <key>width</key>
-          <integer>345</integer>
+          <integer>696</integer>
         </dict>
       </dict>
     </dict>
