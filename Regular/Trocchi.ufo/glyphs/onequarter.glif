@@ -1,90 +1,53 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="onequarter" format="1">
-  <advance width="917"/>
+  <advance width="1878"/>
   <unicode hex="00BC"/>
   <outline>
     <contour>
-      <point x="680" y="172" type="line"/>
-      <point x="565" y="172" type="line"/>
-      <point x="680" y="340" type="line"/>
+      <point x="1409" y="1479" type="line"/>
+      <point x="1509" y="1419" type="line"/>
+      <point x="444" y="-61" type="line"/>
+      <point x="344" y="-2" type="line"/>
     </contour>
     <contour>
-      <point x="805" y="42" type="line"/>
-      <point x="741" y="42" type="line"/>
-      <point x="741" y="131" type="line"/>
-      <point x="805" y="131" type="line"/>
-      <point x="805" y="172" type="line"/>
-      <point x="741" y="172" type="line"/>
-      <point x="741" y="393" type="line"/>
-      <point x="664" y="393" type="line"/>
-      <point x="510" y="176" type="line"/>
-      <point x="510" y="131" type="line"/>
-      <point x="680" y="131" type="line"/>
-      <point x="680" y="42" type="line"/>
-      <point x="609" y="42" type="line"/>
-      <point x="609" y="0" type="line"/>
-      <point x="805" y="0" type="line"/>
+      <point x="260" y="750" type="line"/>
+      <point x="664" y="750" type="line"/>
+      <point x="664" y="836" type="line"/>
+      <point x="539" y="836" type="line"/>
+      <point x="539" y="1561" type="line"/>
+      <point x="260" y="1483" type="line"/>
+      <point x="260" y="1376" type="line"/>
+      <point x="393" y="1411" type="line"/>
+      <point x="393" y="836" type="line"/>
+      <point x="260" y="836" type="line"/>
     </contour>
     <contour>
-      <point x="127" y="366" type="line"/>
-      <point x="324" y="366" type="line"/>
-      <point x="324" y="408" type="line"/>
-      <point x="263" y="408" type="line"/>
-      <point x="263" y="762" type="line"/>
-      <point x="127" y="724" type="line"/>
-      <point x="127" y="672" type="line"/>
-      <point x="192" y="689" type="line"/>
-      <point x="192" y="408" type="line"/>
-      <point x="127" y="408" type="line"/>
+      <point x="1649" y="86" type="line"/>
+      <point x="1518" y="86" type="line"/>
+      <point x="1518" y="268" type="line"/>
+      <point x="1649" y="268" type="line"/>
+      <point x="1649" y="352" type="line"/>
+      <point x="1518" y="352" type="line"/>
+      <point x="1518" y="805" type="line"/>
+      <point x="1360" y="805" type="line"/>
+      <point x="1044" y="360" type="line"/>
+      <point x="1044" y="268" type="line"/>
+      <point x="1393" y="268" type="line"/>
+      <point x="1393" y="86" type="line"/>
+      <point x="1247" y="86" type="line"/>
+      <point x="1247" y="0" type="line"/>
+      <point x="1649" y="0" type="line"/>
     </contour>
     <contour>
-      <point x="688" y="722" type="line"/>
-      <point x="737" y="693" type="line"/>
-      <point x="217" y="-30" type="line"/>
-      <point x="168" y="-1" type="line"/>
-    </contour>
-    <contour>
-      <point x="552.0" y="10.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="382.0" y="722.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="378.0" y="10.0" type="move" name="ogonek"/>
-    </contour>
-    <contour>
-      <point x="208.0" y="722.0" type="move" name="top"/>
-    </contour>
-    <contour>
-      <point x="235.0" y="529.0" type="move" name="top"/>
+      <point x="1393" y="352" type="line"/>
+      <point x="1157" y="352" type="line"/>
+      <point x="1393" y="696" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>onequarter</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>917</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

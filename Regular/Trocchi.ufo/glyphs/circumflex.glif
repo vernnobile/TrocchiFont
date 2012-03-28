@@ -1,64 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="circumflex" format="1">
-  <advance width="620"/>
+  <advance width="1269"/>
   <unicode hex="02C6"/>
   <outline>
     <contour>
-      <point x="375" y="699" type="curve"/>
-      <point x="337" y="665"/>
-      <point x="264" y="568"/>
-      <point x="264" y="568" type="curve"/>
-      <point x="216" y="613" type="line"/>
-      <point x="375" y="784" type="line"/>
-      <point x="535" y="610" type="line"/>
-      <point x="487" y="566" type="line"/>
-      <point x="487" y="566"/>
-      <point x="413" y="665"/>
+      <point x="768" y="1432" type="curve"/>
+      <point x="690" y="1362"/>
+      <point x="541" y="1163"/>
+      <point x="541" y="1163" type="curve"/>
+      <point x="442" y="1255" type="line"/>
+      <point x="768" y="1606" type="line"/>
+      <point x="1096" y="1249" type="line"/>
+      <point x="997" y="1159" type="line"/>
+      <point x="997" y="1159"/>
+      <point x="846" y="1362"/>
+    </contour>
+    <contour>
+      <point x="769" y="1073" type="move" name="_top"/>
     </contour>
   </outline>
   <lib>
     <dict>
-      <key>anchors</key>
-      <array>
-      </array>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>circumflex</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>620</integer>
-        </dict>
       </dict>
-      <key>components</key>
-      <array>
-      </array>
-      <key>contours</key>
-      <array>
-      </array>
-      <key>name</key>
-      <string>circumflex</string>
-      <key>unicodes</key>
-      <array>
-      </array>
-      <key>width</key>
-      <integer>620</integer>
     </dict>
   </lib>
 </glyph>

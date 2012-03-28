@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="AE" format="1">
-  <advance width="1139"/>
+  <advance width="1129"/>
   <unicode hex="00C6"/>
   <outline>
     <contour>
@@ -15,24 +15,24 @@
       <point x="338" y="258" type="line"/>
       <point x="530" y="258" type="line"/>
       <point x="530" y="0" type="line"/>
-      <point x="1091" y="0" type="line"/>
-      <point x="1091" y="279" type="line"/>
-      <point x="971" y="279" type="line"/>
-      <point x="971" y="87" type="line"/>
-      <point x="675" y="87" type="line"/>
-      <point x="675" y="341" type="line"/>
-      <point x="802" y="341" type="line"/>
-      <point x="802" y="217" type="line"/>
-      <point x="887" y="217" type="line"/>
-      <point x="887" y="517" type="line"/>
-      <point x="802" y="517" type="line"/>
-      <point x="802" y="417" type="line"/>
-      <point x="675" y="417" type="line"/>
-      <point x="675" y="652" type="line"/>
-      <point x="971" y="652" type="line"/>
-      <point x="971" y="459" type="line"/>
-      <point x="1091" y="459" type="line"/>
-      <point x="1091" y="742" type="line"/>
+      <point x="1085" y="0" type="line"/>
+      <point x="1085" y="279" type="line"/>
+      <point x="965" y="279" type="line"/>
+      <point x="965" y="87" type="line"/>
+      <point x="669" y="87" type="line"/>
+      <point x="669" y="341" type="line"/>
+      <point x="796" y="341" type="line"/>
+      <point x="796" y="217" type="line"/>
+      <point x="881" y="217" type="line"/>
+      <point x="881" y="517" type="line"/>
+      <point x="796" y="517" type="line"/>
+      <point x="796" y="417" type="line"/>
+      <point x="669" y="417" type="line"/>
+      <point x="669" y="652" type="line"/>
+      <point x="965" y="652" type="line"/>
+      <point x="965" y="459" type="line"/>
+      <point x="1085" y="459" type="line"/>
+      <point x="1085" y="742" type="line"/>
       <point x="284" y="742" type="line"/>
       <point x="284" y="652" type="line"/>
       <point x="392" y="652" type="line"/>
@@ -65,7 +65,7 @@
           <array>
           </array>
           <key>width</key>
-          <integer>1139</integer>
+          <integer>1129</integer>
         </dict>
       </dict>
     </dict>

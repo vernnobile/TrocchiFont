@@ -1,37 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="eogonek" format="1">
-  <advance width="562"/>
+  <advance width="1150"/>
   <unicode hex="0119"/>
   <outline>
-    <component base="ogonek" xOffset="205" yOffset="-4"/>
+    <component base="ogonek" xOffset="262" yOffset="-46.133"/>
     <component base="e"/>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>eogonek</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>562</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

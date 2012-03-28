@@ -1,73 +1,48 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="kgreenlandic" format="1">
-  <advance width="639"/>
+  <advance width="1308"/>
   <unicode hex="0138"/>
   <outline>
     <contour>
-      <point x="365" y="298" type="line"/>
-      <point x="433" y="203"/>
-      <point x="506.0" y="55.0"/>
-      <point x="596.0" y="68.0" type="curve" smooth="yes"/>
-      <point x="608.0" y="70.0"/>
-      <point x="621.0" y="70.0"/>
-      <point x="636.0" y="77.0" type="curve"/>
-      <point x="650.0" y="11.0" type="line"/>
-      <point x="615.0" y="-9.0"/>
-      <point x="591.0" y="-10.0"/>
-      <point x="563.0" y="-10.0" type="curve" smooth="yes"/>
-      <point x="490.0" y="-10.0"/>
-      <point x="447.0" y="34.0"/>
-      <point x="405.0" y="97.0" type="curve" smooth="yes"/>
-      <point x="303" y="257" type="line"/>
-      <point x="226" y="192" type="line"/>
-      <point x="226.0" y="57.0" type="line"/>
-      <point x="309.0" y="57.0" type="line"/>
-      <point x="309.0" y="0.0" type="line"/>
-      <point x="22.0" y="0.0" type="line"/>
-      <point x="22.0" y="57.0" type="line"/>
-      <point x="121.0" y="57.0" type="line"/>
-      <point x="121" y="464" type="line"/>
-      <point x="22" y="464" type="line"/>
-      <point x="22" y="524" type="line"/>
-      <point x="226" y="524" type="line"/>
-      <point x="226" y="267" type="line"/>
-      <point x="438" y="467" type="line"/>
-      <point x="338.0" y="467.0" type="line"/>
-      <point x="338.0" y="524.0" type="line"/>
-      <point x="631.0" y="524.0" type="line"/>
-      <point x="631.0" y="467.0" type="line"/>
-      <point x="538.0" y="467.0" type="line"/>
-    </contour>
-    <contour>
-      <point x="326.0" y="0.0" type="move" name="bottom"/>
+      <point x="748" y="610" type="line"/>
+      <point x="887" y="415"/>
+      <point x="1037" y="112"/>
+      <point x="1221" y="139" type="curve" smooth="yes"/>
+      <point x="1246" y="143"/>
+      <point x="1272" y="144"/>
+      <point x="1303" y="158" type="curve"/>
+      <point x="1331" y="23" type="line"/>
+      <point x="1259" y="-18"/>
+      <point x="1210" y="-20"/>
+      <point x="1153" y="-20" type="curve" smooth="yes"/>
+      <point x="1003" y="-20"/>
+      <point x="915" y="70"/>
+      <point x="829" y="199" type="curve"/>
+      <point x="621" y="526" type="line"/>
+      <point x="463" y="393" type="line"/>
+      <point x="463" y="117" type="line"/>
+      <point x="633" y="117" type="line"/>
+      <point x="633" y="0" type="line"/>
+      <point x="45" y="0" type="line"/>
+      <point x="45" y="117" type="line"/>
+      <point x="248" y="117" type="line"/>
+      <point x="248" y="950" type="line"/>
+      <point x="45" y="950" type="line"/>
+      <point x="45" y="1073" type="line"/>
+      <point x="463" y="1073" type="line"/>
+      <point x="463" y="547" type="line"/>
+      <point x="897" y="956" type="line"/>
+      <point x="692" y="956" type="line"/>
+      <point x="692" y="1073" type="line"/>
+      <point x="1292" y="1073" type="line"/>
+      <point x="1292" y="956" type="line"/>
+      <point x="1102" y="956" type="line"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>kgreenlandic</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>639</integer>
-        </dict>
       </dict>
     </dict>
   </lib>

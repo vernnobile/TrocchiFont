@@ -1,55 +1,33 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <glyph name="I" format="1">
-  <advance width="386"/>
+  <advance width="790"/>
   <unicode hex="0049"/>
   <outline>
     <contour>
-      <point x="254" y="67" type="line"/>
-      <point x="366" y="67" type="line"/>
-      <point x="366" y="0" type="line"/>
-      <point x="20" y="0" type="line"/>
-      <point x="20" y="67" type="line"/>
-      <point x="139" y="67" type="line"/>
-      <point x="139" y="665" type="line"/>
-      <point x="20" y="665" type="line"/>
-      <point x="20" y="735" type="line"/>
-      <point x="366" y="735" type="line"/>
-      <point x="366" y="665" type="line"/>
-      <point x="254" y="665" type="line"/>
+      <point x="520" y="137" type="line"/>
+      <point x="520" y="1362" type="line"/>
+      <point x="750" y="1362" type="line"/>
+      <point x="750" y="1505" type="line"/>
+      <point x="41" y="1505" type="line"/>
+      <point x="41" y="1362" type="line"/>
+      <point x="285" y="1362" type="line"/>
+      <point x="285" y="137" type="line"/>
+      <point x="41" y="137" type="line"/>
+      <point x="41" y="0" type="line"/>
+      <point x="750" y="0" type="line"/>
+      <point x="750" y="137" type="line"/>
     </contour>
     <contour>
-      <point x="192" y="722" type="move" name="top"/>
+      <point x="395" y="1505" type="move" name="top"/>
     </contour>
     <contour>
-      <point x="362" y="10" type="move" name="ogonek"/>
+      <point x="711" y="10" type="move" name="ogonek"/>
     </contour>
   </outline>
   <lib>
     <dict>
       <key>com.typemytype.robofont.layerData</key>
       <dict>
-        <key>back</key>
-        <dict>
-          <key>anchors</key>
-          <array>
-          </array>
-          <key>components</key>
-          <array>
-          </array>
-          <key>contours</key>
-          <array>
-          </array>
-          <key>lib</key>
-          <dict>
-          </dict>
-          <key>name</key>
-          <string>I</string>
-          <key>unicodes</key>
-          <array>
-          </array>
-          <key>width</key>
-          <integer>386</integer>
-        </dict>
       </dict>
     </dict>
   </lib>
