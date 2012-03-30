@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="omacron" format="1">
+  <advance width="1189"/>
+  <unicode hex="014d"/>
+  <outline>
+    <component base="macron" xOffset="179" yOffset="-137"/>
+    <component base="o"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

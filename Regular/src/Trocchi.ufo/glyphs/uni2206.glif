@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni2206" format="1">
+  <advance width="1172"/>
+  <unicode hex="2206"/>
+  <outline>
+    <contour>
+      <point x="497" y="1249" type="line" smooth="no"/>
+      <point x="693" y="1249" type="line" smooth="no"/>
+      <point x="1049" y="188" type="line" smooth="no"/>
+      <point x="122" y="188" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="849" y="312" type="line" smooth="no"/>
+      <point x="586" y="1131" type="line" smooth="no"/>
+      <point x="308" y="312" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

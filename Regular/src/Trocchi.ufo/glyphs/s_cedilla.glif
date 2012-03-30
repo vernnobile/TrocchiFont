@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Scedilla" format="1">
+  <advance width="1337"/>
+  <unicode hex="015e"/>
+  <outline>
+    <component base="cedilla" xOffset="436" yOffset="-12"/>
+    <component base="S"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

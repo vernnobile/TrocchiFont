@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="circumflex" format="1">
+  <advance width="1269"/>
+  <unicode hex="02c6"/>
+  <outline>
+    <contour>
+      <point x="768" y="1432" type="curve" smooth="no"/>
+      <point x="690" y="1362"/>
+      <point x="541" y="1163"/>
+      <point x="541" y="1163" type="curve" smooth="no"/>
+      <point x="442" y="1255" type="line" smooth="no"/>
+      <point x="768" y="1606" type="line" smooth="no"/>
+      <point x="1096" y="1249" type="line" smooth="no"/>
+      <point x="997" y="1159" type="line" smooth="no"/>
+      <point x="997" y="1159"/>
+      <point x="846" y="1362"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

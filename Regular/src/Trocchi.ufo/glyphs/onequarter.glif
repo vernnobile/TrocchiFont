@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="onequarter" format="1">
+  <advance width="1526"/>
+  <unicode hex="00bc"/>
+  <outline>
+    <contour>
+      <point x="1218" y="1479" type="line" smooth="no"/>
+      <point x="1318" y="1419" type="line" smooth="no"/>
+      <point x="253" y="-61" type="line" smooth="no"/>
+      <point x="153" y="-2" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="69" y="750" type="line" smooth="no"/>
+      <point x="69" y="836" type="line" smooth="no"/>
+      <point x="202" y="836" type="line" smooth="no"/>
+      <point x="202" y="1411" type="line" smooth="no"/>
+      <point x="69" y="1376" type="line" smooth="no"/>
+      <point x="69" y="1483" type="line" smooth="no"/>
+      <point x="348" y="1561" type="line" smooth="no"/>
+      <point x="348" y="836" type="line" smooth="no"/>
+      <point x="473" y="836" type="line" smooth="no"/>
+      <point x="473" y="750" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="1458" y="86" type="line" smooth="no"/>
+      <point x="1458" y="0" type="line" smooth="no"/>
+      <point x="1056" y="0" type="line" smooth="no"/>
+      <point x="1056" y="86" type="line" smooth="no"/>
+      <point x="1202" y="86" type="line" smooth="no"/>
+      <point x="1202" y="268" type="line" smooth="no"/>
+      <point x="853" y="268" type="line" smooth="no"/>
+      <point x="853" y="360" type="line" smooth="no"/>
+      <point x="1169" y="805" type="line" smooth="no"/>
+      <point x="1327" y="805" type="line" smooth="no"/>
+      <point x="1327" y="352" type="line" smooth="no"/>
+      <point x="1458" y="352" type="line" smooth="no"/>
+      <point x="1458" y="268" type="line" smooth="no"/>
+      <point x="1327" y="268" type="line" smooth="no"/>
+      <point x="1327" y="86" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="1202" y="352" type="line" smooth="no"/>
+      <point x="1202" y="696" type="line" smooth="no"/>
+      <point x="966" y="352" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="questiondown" format="1">
+  <advance width="1009"/>
+  <unicode hex="00bf"/>
+  <outline>
+    <component base="question" xScale="-1" yScale="-1" xOffset="1008" yOffset="1509"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

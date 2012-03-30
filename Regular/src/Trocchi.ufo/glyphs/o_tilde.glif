@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Otilde" format="1">
+  <advance width="1589"/>
+  <unicode hex="00d5"/>
+  <outline>
+    <component base="tilde" xOffset="164" yOffset="372"/>
+    <component base="O"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

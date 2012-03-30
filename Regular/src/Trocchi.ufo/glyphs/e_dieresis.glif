@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Edieresis" format="1">
+  <advance width="1484"/>
+  <unicode hex="00cb"/>
+  <outline>
+    <component base="dieresis" xOffset="231" yOffset="458"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

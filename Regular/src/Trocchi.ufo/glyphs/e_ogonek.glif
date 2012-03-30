@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="Eogonek" format="1">
+  <advance width="1484"/>
+  <unicode hex="0118"/>
+  <outline>
+    <component base="ogonek" xOffset="964" yOffset="4"/>
+    <component base="E"/>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

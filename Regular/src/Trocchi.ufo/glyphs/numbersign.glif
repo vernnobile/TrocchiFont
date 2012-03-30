@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="numbersign" format="1">
+  <advance width="1350"/>
+  <unicode hex="0023"/>
+  <outline>
+    <contour>
+      <point x="642" y="1597" type="line" smooth="no"/>
+      <point x="761" y="1561" type="line" smooth="no"/>
+      <point x="599" y="1073" type="line" smooth="no"/>
+      <point x="925" y="1073" type="line" smooth="no"/>
+      <point x="1099" y="1597" type="line" smooth="no"/>
+      <point x="1217" y="1561" type="line" smooth="no"/>
+      <point x="1055" y="1073" type="line" smooth="no"/>
+      <point x="1289" y="1073" type="line" smooth="no"/>
+      <point x="1289" y="1006" type="line" smooth="no"/>
+      <point x="1033" y="1006" type="line" smooth="no"/>
+      <point x="914" y="645" type="line" smooth="no"/>
+      <point x="1168" y="645" type="line" smooth="no"/>
+      <point x="1168" y="578" type="line" smooth="no"/>
+      <point x="892" y="578" type="line" smooth="no"/>
+      <point x="644" y="-170" type="line" smooth="no"/>
+      <point x="525" y="-133" type="line" smooth="no"/>
+      <point x="761" y="578" type="line" smooth="no"/>
+      <point x="435" y="578" type="line" smooth="no"/>
+      <point x="187" y="-170" type="line" smooth="no"/>
+      <point x="68" y="-133" type="line" smooth="no"/>
+      <point x="304" y="578" type="line" smooth="no"/>
+      <point x="81" y="578" type="line" smooth="no"/>
+      <point x="81" y="645" type="line" smooth="no"/>
+      <point x="326" y="645" type="line" smooth="no"/>
+      <point x="446" y="1006" type="line" smooth="no"/>
+      <point x="202" y="1006" type="line" smooth="no"/>
+      <point x="202" y="1073" type="line" smooth="no"/>
+      <point x="468" y="1073" type="line" smooth="no"/>
+    </contour>
+    <contour>
+      <point x="577" y="1006" type="line" smooth="no"/>
+      <point x="457" y="645" type="line" smooth="no"/>
+      <point x="783" y="645" type="line" smooth="no"/>
+      <point x="903" y="1006" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>

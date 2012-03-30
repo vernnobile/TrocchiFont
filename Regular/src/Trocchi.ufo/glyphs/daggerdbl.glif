@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="daggerdbl" format="1">
+  <advance width="1135"/>
+  <unicode hex="2021"/>
+  <outline>
+    <contour>
+      <point x="482" y="96" type="line" smooth="no"/>
+      <point x="482" y="473" type="line" smooth="no"/>
+      <point x="150" y="473" type="line" smooth="no"/>
+      <point x="150" y="621" type="line" smooth="no"/>
+      <point x="482" y="621" type="line" smooth="no"/>
+      <point x="482" y="991" type="line" smooth="no"/>
+      <point x="150" y="991" type="line" smooth="no"/>
+      <point x="150" y="1139" type="line" smooth="no"/>
+      <point x="482" y="1139" type="line" smooth="no"/>
+      <point x="482" y="1479" type="line" smooth="no"/>
+      <point x="652" y="1479" type="line" smooth="no"/>
+      <point x="652" y="1139" type="line" smooth="no"/>
+      <point x="984" y="1139" type="line" smooth="no"/>
+      <point x="984" y="991" type="line" smooth="no"/>
+      <point x="652" y="991" type="line" smooth="no"/>
+      <point x="652" y="621" type="line" smooth="no"/>
+      <point x="984" y="621" type="line" smooth="no"/>
+      <point x="984" y="473" type="line" smooth="no"/>
+      <point x="652" y="473" type="line" smooth="no"/>
+      <point x="652" y="96" type="line" smooth="no"/>
+    </contour>
+  </outline>
+  <lib>
+    <dict>
+    <key>com.typemytype.robofont.layerData</key>
+    </dict>
+  </lib>
+</glyph>
