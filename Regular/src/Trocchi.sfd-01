@@ -1,10 +1,9 @@
 SplineFontDB: 3.0
 FontName: Trocchi
 FullName: Trocchi
-FamilyName: Trocchi
 Weight: Regular
-Copyright: Font Data Copyright 2013 (c) Vernon Adams
-Version: 
+Copyright: vernon adams
+FONDName: Trocchi
 ItalicAngle: 0
 UnderlinePosition: -102
 UnderlineWidth: 102
@@ -15,12 +14,12 @@ UFODescent: -512
 LayerCount: 2
 Layer: 0 0 "Back"  1
 Layer: 1 0 "Fore"  0
-FSType: 0
+FSType: 8
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
-OS2_UseTypoMetrics: 1
-CreationTime: 1385078851
-ModificationTime: 1385079149
+OS2_UseTypoMetrics: 0
+CreationTime: 1385078738
+ModificationTime: 1385078838
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -535,16 +534,16 @@ S'sk'
 S'threesuperior'
 S'tt'
 tp5
-sS'com.typemytype.robofont.compileSettings.releaseMode'
-p6
-I0
-sS'com.typemytype.robofont.compileSettings.checkOutlines'
-p7
-I0
 sS'com.typemytype.robofont.compileSettings.path'
-p8
+p6
 S'/Users/vern/GitHub/TrocchiFont/Regular/Trocchi.ttf'
+p7
+sS'com.typemytype.robofont.compileSettings.checkOutlines'
+p8
+I0
+sS'com.typemytype.robofont.compileSettings.releaseMode'
 p9
+I0
 sS'com.typemytype.robofont.layerOrder'
 p10
 (tsS'com.typemytype.robofont.segmentType'
